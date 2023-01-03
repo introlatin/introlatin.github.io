@@ -32,9 +32,9 @@ Needless to say, these are unprecedented times which call for extraordinary meas
 
 ***
 
-## Academic Conduct
+## Honor Code and Academic Honesty
 
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, assignments or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment to failure for the entire course.
+You are expected to abide by Fairfield’s Honor Code and its tenets of Academic Honesty, posted [here](https://www.fairfield.edu/undergraduate/academics/resources/index.html). Cheating on homework, assignments, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment to failure for the entire course.
 
 [Return to top.](#top)
 
@@ -42,7 +42,7 @@ You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [he
 
 ## Student Hours
 
-Student hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about grammar and syntax, clarifications about assignments, even simply shooting the breeze. My student hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular student hours if they conflict with your availability; simply shoot me an email with what times and dates work for you.
+Student hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about course material, clarifications about assignments, even simply shooting the breeze. My student hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular student hours if they conflict with your availability; simply shoot me an email or a direct message on Discord with what times and dates work for you.
 
 [Return to top.](#top)
 
@@ -50,7 +50,7 @@ Student hours are an opportunity for you to meet with me outside of class to dis
 
 ## Gender Expression and Identity
 
-I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first assignment will be to fill out a Google Form to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
+I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first assignment will be to fill out a Google Form to let me know what I should call you, what pronouns you use if you opt to share them, and what you hope to learn from this class. My goal is to avoid dead-naming, as the name that you use may not match the legal name on my class roster.
 
 [Return to top.](#top)
 
@@ -58,9 +58,9 @@ I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first a
 
 ## Diversity, Inclusion, and Respect
 
-Studying Greek at Holy Cross is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. As we work to see the multicultural world of the ancient Mediterranean through the original thoughts and language of Greek speakers and writers, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
+Studying the ancient Mediterranean world at Fairfield is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. As we work to see the multicultural world of the ancient Mediterranean through the original thoughts and language of the Romans, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
 
-This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Greek helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
+This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying the ancient Mediterranean helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
 
 [Return to top.](#top)
 
@@ -68,19 +68,20 @@ This work is especially important today, when historically false images of the a
 
 ## Accessibility
 
-Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Accessibility Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services). You may also call 508-793-3693.
+Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility to discuss support services available. Students with disabilities can begin the accommodation request process by completing the online intake form through the "Accessibility and Accommodations" portal on my.fairfield or by contacting the Office of Accessibility at [ooa@fairfield.edu](mailto:ooa@fairfield.edu). Contact information for the Office of Accessibility can be found [here](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/accessibility/). You may also call 203-254-4000, x2615, or visit the Office on the main floor of the DiMenna-Nyselius Library in the Academic Commons.
 
-If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+If you are already registered with the Office of Accessibility, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+
 
 [Return to top.](#top)
 
 ***
 
-## External Resources and Tutoring
+## External Resources
 
-In addition to my email and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
+In addition to my email and student hours, there are resources outside myself, like the [Office of Academic Support and Retention](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) and the [Writing Center](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-In addition, the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for Greek 102 students. The tutors have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. The workshop will run as an appointment-based service of 40-minute sessions, with the student and Peer Tutor working together to find a convenient time. **To set up an appointment with one of the tutors, please contact me and we'll set it up**!
+By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your ancient Roman monument by [date], with the subject line “Caesar and Pompey were ARCH-enemies!” If you do so, you will receive five (5) extra credit points on your semester total (see below for the course grading structure).
 
 [Return to top.](#top)
 
@@ -88,10 +89,8 @@ In addition, the Department of Classics and the Classics Department Inclusion Co
 
 ## Mandated Reporter
 
-As an instructor, one of my responsibilities is to help create a safe learning environment on our campus.  I also have a mandatory reporting responsibility related to my role as your professor. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, any information that you disclose that addresses sexual misconduct or relates to a prior suicide attempt or an intention to attempt suicide requires my sharing that information with those on campus who are able to provide you with necessary resources.
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as your professor. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, any information that you disclose that addresses actual or suspected discrimination, harassment, and/or retaliation based on sex requires my sharing that information with those on campus who are able to provide you with necessary resources.
 
-Following the College’s Sexual Misconduct Policy, I will share information about sexual misconduct with the College’s Office of Title IX Initiatives. If you would like to talk to Title IX directly, they can be reached at 508-793-3336 or titleix [at] holycross.edu.  For more information, please visit [this website](https://www.holycross.edu/sexual-respect-and-title-ix). If you would like to discuss the matter confidentially, the following confidential resources are available to you: the Chaplains' Office, 508-793-2448; Counseling Center, 508-793-3363; Health Services, 508-793-2276.
-
-Following the College’s Suicide Protocol, if you disclose a prior suicide attempt or an intention or plan to attempt suicide, I will share that information with the Chair of our student CARE Team, who will engage in appropriate outreach.
+If you would like to discuss the matter confidentially, [this website](https://www.fairfield.edu/undergraduate/student-life-and-services/office-of-the-dean-of-students/student-handbook/sexual-misconduct-policy/index.html) lists confidential resources that are available to you under section 20a.
 
 [Return to top.](#top)
