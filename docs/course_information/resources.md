@@ -19,26 +19,16 @@ parent: Course Information
 
 ## Electronic Resources
 
-* [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Liddell-Scott-Jones (LSJ) Greek to English Dictionary.
-* [Furman: L&S](http://folio2.furman.edu/lsj/): Furman University's version of the LSJ.
-* [Discord](https://discord.gg/2UQTcz2WTN): A Discord server to chat with one another and with me, ask quick questions, and share course-related thoughts, comments, and memes. Especially memes.
-* [Conditional Clauses chart](https://dlibatique.github.io/images/conditions-chart.tif): A chart that describes the components of different types of conditionals. Credit to Prof. Stephen Esposito of Boston University.
-* [Dependent Clauses chart](https://dlibatique.github.io/images/dependent-clause-chart.tif): A chart that describes the components of different types of dependent clauses. Credit to Prof. Stephen Esposito of Boston University.
+**NOTE**: All vocabulary items can be found in the [Vocabulary](../vocabulary) section of the site, and all paradigms (charts for verb, noun, etc., forms) can be found in the [Reference](../reference) section of the site.
+
+* [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Lewis & Short (L&S) Latin to English Dictionary.
+* [Furman: L&S](http://folio2.furman.edu/lsj/): Furman University's version of the L&S.
 
 ***
 
-## Academic Resources
+## Academic and Student Support Resources
 
-* [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources)
-* [Center for Writing](https://www.holycross.edu/academics/support-and-resources/center-for-writing) ([Writers Workshop](https://www.holycross.edu/academics/support-and-resources/center-for-writing/writers-workshop))
-* [Class Deans](https://www.holycross.edu/mentored-learning/class-deans)
-* [Library](https://www.holycross.edu/support-and-resources/holy-cross-libraries)
-* [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services)
-
-***
-
-## Student Support Resources
-
-* [Counseling Center](https://www.holycross.edu/health-wellness-and-access/counseling-center)
-* [Office of Diversity, Inclusion, and Equity](https://www.holycross.edu/campus-life/diversity-and-inclusion)
-* [Office of Multicultural Education](https://www.holycross.edu/diversity-and-inclusion/office-multicultural-education)
+* [Office of Accessibility](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/accessibility/)
+* [Office of Academic Support and Retention](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html)
+* [Writing Center](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html)
+* [Sexual Misconduct Policy](https://www.fairfield.edu/undergraduate/student-life-and-services/office-of-the-dean-of-students/student-handbook/sexual-misconduct-policy/index.html)

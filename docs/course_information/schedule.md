@@ -17,262 +17,772 @@ parent: Course Information
 
 ***
 
-## Week 1 (1/26 - 1/28)
+## Week 1 (1/18 - 1/19)
 
-### Wednesday, September 1
+### Wednesday, January 18
 {: .no_toc }
-Syllabus Day, GREK 101 Review  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1L34VZscFu9OQuPSEhKQYaNKhGpjx7Hlo/view?usp=sharing)
+Syllabus Day  
 
-### Friday, September 3
+#### Resources and Readings
 {: .no_toc }
-GREK 101 Review  
+* [Slideshow - W 1/18](#) (link TBD)
 
-**HW due next class**: read through [Alpha and Omicron-Contracts](../textbook/verbs-2/alpha-and-omicron-contracts)
+#### HW due by start of next class
+{: .no_toc }
+* Read the [syllabus](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) from top to bottom.
+* Complete the [Student Information Form](#) (link TBD).
+* (OPTIONAL) Practice Homework 1 (in Blackboard).
 
 ***
 
-## Week 2 (1/31 - 2/4)
-
-### Monday, January 31
+### Thursday, January 19
 {: .no_toc }
-Alpha- and Omicron-Contracts  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1L3yE84Bz2dJ9TQctBF5aSd2xU8oe1VvD/view?usp=sharing)
+Grammar Basics and Inflection (Conjugation and Declension)
 
-### Wednesday, February 2
+#### Resources and Readings
 {: .no_toc }
-Future Tense  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1LLAEthjcnL90BuoEh56yf-XxcPFjrENl/view?usp=sharing)
+* [Slideshow - R 1/19](#) (link TBD)
+* Preliminaries
+* Introduction
 
-### Friday, February 4
+#### HW due by start of next class
 {: .no_toc }
-Future Tense continued
+* (OPTIONAL) Practice Homework 2 (in Blackboard).
 
 ***
 
-## Week 3 (2/7 - 2/11)
+## Week 2 (1/23 - 1/26)
 
-### Monday, February 7
+### Week 2 Resources
 {: .no_toc }
-Perfect Tense  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1Ld-1Ps43KIePNiYPZjI6a2gA4ILsa-47/view?usp=sharing)
 
-### Wednesday, February 9
-{: .no_toc }
-Perfect Tense Continued
-
-### Friday, February 11
-{: .no_toc }
-Variable-Stem Nouns  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1Li8JgS4oYaypiZ932YXf1D332cAvOPsP/view?usp=sharing)
+* [Week 2 Vocabulary](#) (link TBD)
+* [Week 2 Paradigms](#) (link TBD)
 
 ***
 
-## Week 4 (2/14 - 2/18)
-
-### Monday, February 14
+### Monday, January 23
 {: .no_toc }
-Variable-Stem Adjectives  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1LnDIcU5zZpf9YySaKbIaBKO2Pdo39D2s/view?usp=sharing)
+Verb Overview
 
-### Wednesday, February 16
+#### Resources and Readings
 {: .no_toc }
-Personal, Reflexive, and Reciprocal Pronouns  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1LymhQ67wJYQ_oCwkNtSX0McLDe2vVhzO/view?usp=sharing)
+* [Slideshow - M 1/23](#) (link TBD)
+* Verbal units
+* Finite verbs
+* Principal parts
 
-### Friday, February 18
+#### HW due by start of next class
 {: .no_toc }
-Personal, Reflexive, and Reciprocal Pronouns continued  
+* (OPTIONAL) Practice Homework 3 (on Blackboard)
 
 ***
 
-## Week 5 (2/21 - 2/25)
-
-### Monday, February 21
+### Wednesday, January 25
 {: .no_toc }
-Result Clauses  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1Lyumbl-ghwty3ThePM2HhNd5HO-Nklv-/view?usp=sharing)
+Perfect Active
 
-### Wednesday, February 23
+#### Resources and Readings
 {: .no_toc }
-Comparative and Superlative Adjectives  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1M6OEVLV9naNa_aa3eBVf4YSvnNKkXEtT/view?usp=sharing)
+* [Slideshow - W 1/25](#) (link TBD)
+* Perfect Active
 
-### Friday, February 25
+#### HW due by start of next class
 {: .no_toc }
-Comparative and Superlative Adjectives continued
+* Homework 1 (on Blackboard)
 
 ***
 
-## Week 6 (2/28 - 3/4)
-
-### Monday, February 28
+### Thursday, January 26
 {: .no_toc }
-Core Four -μι Verbs  
-**Today's slideshow:** [link here](https://drive.google.com/file/d/1M9NX7wy6tJhNNS2JnsrLxO4_u98nc2KK/view?usp=sharing)
+Noun Overview
 
-### Wednesday, March 2
+#### Resources and Readings
 {: .no_toc }
-Core Four -μι Verbs continued
+* [Slideshow - R 1/26](#) (link TBD)
+* Nouns
 
-### Friday, March 4
+#### HW due by start of next class
 {: .no_toc }
-Athematic Aorists  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1MPY5RYyg0v_hBXG5ixl-45hkXXGpTqep/view?usp=sharing)
+* Homework 2 (on Blackboard)
+* Quiz 1 (on Blackboard)
 
 ***
 
-## Spring Break: 3/5 to 3/13
+## Week 3 (1/30 - 2/2)
+
+### Week 3 Resources
 {: .no_toc }
+
+* [Week 3 Vocabulary](#) (link TBD)
+* [Week 3 Paradigms](#) (link TBD)
 
 ***
 
-## Week 7 (3/14 - 3/18)
-
-### Monday, March 14
+### Monday, January 30
 {: .no_toc }
-Elisions and Compounds  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1OBhRKXJ747lDUK8EVyDFyj-H0DMFOHs-/view?usp=sharing)
+Nominative and Genitive
 
-### Wednesday, March 16
+#### Resources and Readings
 {: .no_toc }
-Review
+* [Slideshow - M 1/30](#) (link TBD)
+* Nominative
+* Genitive
 
-### Friday, March 18
+#### HW due by start of next class
 {: .no_toc }
-Review
+* Homework 3
 
 ***
 
-## Week 8 (3/21 - 3/25)
-
-### Monday, March 21
+### Wednesday, February 1
 {: .no_toc }
-Subjunctive and Optative Overview  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1OHU3rC_zH48h2ZWaW7B3muMNN78LmTmj/view?usp=sharing)
+Transitive versus Intransitive; Accusative, Dative, Ablative
 
-### Wednesday, March 23
+#### Resources and Readings
 {: .no_toc }
-Subjunctive: Formation  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1O_6OCeByHOwY_TFV3ytvUl_9aHUZmnPL/view?usp=sharing)
+* [Slideshow - W 2/1](#) (link TBD)
+* Sentence Structures
+* Direct and Indirect Objects
 
-### Friday, March 25
+#### HW due by start of next class
 {: .no_toc }
-Subjunctive: Formation continued
+* Homework 4
 
 ***
 
-## Week 9 (3/28 - 4/1)
-
-### Monday, March 28
+### Thursday, February 2
 {: .no_toc }
-Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1OsEdSHCSWJh2_oi6N8CeYk_o2Oym5RSa/view?usp=sharing)
+Reading a Latin Sentence
 
-### Wednesday, March 30
-{: .no_toc }
-Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1P-PNHBPUrgK8F3yiH3CyLCy3rF8UYPT7/view?usp=sharing)
+**NOTE: Roosevelt Montás lecture TONIGHT (R 2/2) at 5pm! Extra credit opportunity. More details in class.**
 
-### Friday, April 1
+#### Resources and Readings
 {: .no_toc }
-Dep. Uses of Subj. continued
+* [Slideshow - R 2/2](#) (link TBD)
+* Tips for Reading Latin Sentences
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 5
+* Quiz 2
+* Article Reflection 1
+* (OPTIONAL) Montás Reflection
 
 ***
 
-## Week 10 (4/4 - 4/8)
+## Week 4 (2/6 - 2/9)
 
-### Monday, April 4
+### Week 4 Resources
 {: .no_toc }
-Optative Formation  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1P0ZJ12BbHoeTsSvCz5hYp-JwJvfHouaa/view?usp=sharing)
 
-### Wednesday, April 6
-{: .no_toc }
-Optative Formation continued
-
-### Friday, April 8
-{: .no_toc }
-Independent Uses of the Optative: Potential, Wishes  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1PE9L3al4arTonhAe8O4R7gU24yqu1CxE/view?usp=sharing)
+* [Week 4 Vocabulary](#) (link TBD)
+* [Week 4 Paradigms](#) (link TBD)
 
 ***
 
-## Week 11 (4/11 - 4/13)
-
-### Monday, April 11
+### Monday, February 6
 {: .no_toc }
-Sequence of Moods and Dependent Uses of the Optative  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1PNemhK0T-P7bB9HIUtu4qxm8mXRwhJ_d/view?usp=sharing)
+Adjective-Noun Agreement and 2-1-2 Adjectives
 
-### Wednesday, April 13
+#### Resources and Readings
 {: .no_toc }
-NO CLASS
+* [Slideshow - M 2/6](#) (link TBD)
+* Adjectives
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 6
 
 ***
 
-## Easter Break: 4/14 to 4/18
+### Wednesday, February 8
 {: .no_toc }
+3rd Declension Adjectives and Substantives
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 2/8](#) (link TBD)
+* Adjectives
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 7
 
 ***
 
-## Week 12 (4/20 - 4/22)
-
-### Wednesday, April 20
+### Thursday, February 9
 {: .no_toc }
-Interrogative and Indefinite Pronouns; Indirect Questions  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1Pk65ejoP2mwBSOXvK15xCqSGMJixjWau/view?usp=sharing)
+*sum, esse, fuī, futurus*; linking sentences and predicate nominatives
 
-### Friday, April 22
+#### Resources and Readings
 {: .no_toc }
-Indirect Questions continued
+* [Slideshow - R 2/9](#) (link TBD)
+* Sentence Structures (Linking)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 8
+* Quiz 3
+* Art Museum Object and Selfie Analysis Project
 
 ***
 
-## Week 13 (4/25 - 4/29)
+## Week 5 (2/13 - 2/16)
 
-### Monday, April 25
+### Week 5 Resources
 {: .no_toc }
-Conditions, Part 1  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1Pvr2Yi3u4G5g9BX6tpsmu16Nik6Gt3CG/view?usp=sharing)
 
-### Wednesday, April 27
-{: .no_toc }
-NO CLASSES (Academic Conference)
-
-### Friday, April 29
-{: .no_toc }
-Conditions, Part 2
+* [Week 5 Vocabulary](#) (link TBD)
+* [Week 5 Paradigms](#) (link TBD)
 
 ***
 
-## Week 14 (5/2 - 5/6)
-
-### Monday, May 2
+### Monday, February 13
 {: .no_toc }
-Conditions, Part 3
+3rd Person Personal and Reflexive Pronouns
 
-### Wednesday, May 4
+#### Resources and Readings
 {: .no_toc }
-Imperative Mood  
-**Today's slideshow**: [link here](https://drive.google.com/file/d/1RVFaMvRK72nS7fzmWr0twIYBC4S829Yr/view?usp=sharing)
+* [Slideshow - M 2/13](#) (link TBD)
+* Pronouns
+* Reflexive Pronouns
 
-### Friday, May 6
+#### HW due by start of next class
 {: .no_toc }
-Imperative Mood continued
+* Homework 9
 
 ***
 
-## Week 15 (5/9)
+### Wednesday, February 15
+{: .no_toc }
+Demonstrative Pronouns/Pronominal Adjectives
 
-### Monday, May 9
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 2/15](#) (link TBD)
+* Pronouns
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 10
+
+***
+
+### Thursday, February 16
+{: .no_toc }
+Intensives and Prepositions
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 2/16](#) (link TBD)
+* Prepositions and Expressions of Place and Time
+
+#### HW due by start of next class
+{: .no_toc }
+* Exam 1
+
+***
+
+## Week 6 (2/21 - 2/23)
+
+### Week 6 Resources
+{: .no_toc }
+
+* [Week 6 Vocabulary](#) (link TBD)
+* [Week 6 Paradigms](#) (link TBD)
+
+***
+
+### Tuesday, February 21
+{: .no_toc }
+Perfect Passive; passive sentences and ablative of agent
+
+**NOTE: T 2/21 runs on a Monday schedule.**
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - T 2/21](#) (link TBD)
+* Perfect Passive (formation)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 11
+
+***
+
+### Wednesday, February 22
+{: .no_toc }
+Imperfect Tense
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 2/22](#) (link TBD)
+* Imperfect Tense
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 12
+
+***
+
+### Thursday, February 23
+{: .no_toc }
+3rd Declension i-stems; 4th and 5th Declensions
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 2/23](#) (link TBD)
+* 3rd Declension i-stems
+* 4th Declension
+* 5th Declension
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 13
+* Quiz 4
+
+***
+
+## Week 7 (2/27 - 3/2)
+
+### Week 7 Resources
+{: .no_toc }
+
+* [Week 7 Vocabulary](#) (link TBD)
+* [Week 7 Paradigms](#) (link TBD)
+
+***
+
+### Monday, February 27
+{: .no_toc }
+Present Tense
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 2/27](#) (link TBD)
+* Present Tense
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 14
+
+***
+
+### Wednesday, March 1
+{: .no_toc }
+Future Tense
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 3/1](#) (link TBD)
+* Future Tense
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 15
+
+***
+
+### Thursday, March 2
+{: .no_toc }
+Tense Review
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/2](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Quiz 5
+* Article Reflection 2
+
+***
+
+## Week 8 (3/6 - 3/9)
+
+### Week 8 Resources
+{: .no_toc }
+
+* [Week 8 Vocabulary](#) (link TBD)
+* [Week 8 Paradigms](#) (link TBD)
+
+***
+
+### Monday, March 6
+{: .no_toc }
+Infinitives; *possum, posse, potuī*
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 3/6](#) (link TBD)
+* Infinitives
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 16
+
+***
+
+### Wednesday, March 8
+{: .no_toc }
+Indirect Statement
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 3/8](#) (link TBD)
+* Indirect Statement
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 17
+
+***
+
+### Thursday, March 9
+{: .no_toc }
+Indirect Statement continued
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/9](#) (link TBD)
+* Indirect Statement
+
+#### HW due by start of next class
+{: .no_toc }
+
+**NOTE:** Next class is W 3/22.
+
+* Homework 18
+* Quiz 6
+* Coin Analysis Project
+
+***
+
+## Spring Recess (3/11 - 3/19)
+
+***
+
+## Week 9 (3/20 - 3/23)
+
+### Week 9 Resources
+{: .no_toc }
+
+* [Week 9 Vocabulary](#) (link TBD)
+* [Week 9 Paradigms](#) (link TBD)
+
+***
+
+### Monday, March 20
+{: .no_toc }
+
+**NOTE: NO CLASS TODAY.** (Prof. Libatique giving a talk in Cincinnati.)
+
+***
+
+### Wednesday, March 22
+{: .no_toc }
+Dependent Clauses and Relative Clauses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 3/22](#) (link TBD)
+* Relative Clause Overview
+* Relative Pronouns and Antecedents
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 19
+
+***
+
+### Thursday, March 23
+{: .no_toc }
+Relative Clauses continued
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/23](#) (link TBD)
+* Relative Clause Overview
+* Relative Pronouns and Antecedents
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 20
+* Quiz 7
+
+***
+
+## Week 10 (3/27 - 3/30)
+
+### Week 10 Resources
+{: .no_toc }
+
+* [Week 10 Vocabulary](#) (link TBD)
+* [Week 10 Paradigms](#) (link TBD)
+
+***
+
+### Monday, March 27
+{: .no_toc }
+Irregular Verbs: *ferō*, *eō*
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 3/27](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 21
+
+***
+
+### Wednesday, March 29
+{: .no_toc }
+Irregular Verbs: *volo*, *nolo*, *malo*
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 3/29](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 22
+
+***
+
+### Thursday, March 30
+{: .no_toc }
+Pluperfect and Future Perfect Tenses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/30](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Exam 2
+
+***
+
+## Week 11 (4/3 - 4/5)
+
+### Week 11 Resources
+{: .no_toc }
+
+* [Week 11 Vocabulary](#) (link TBD)
+* [Week 11 Paradigms](#) (link TBD)
+
+***
+
+### Monday, April 3
+{: .no_toc }
+Imperative Mood and Subjunctive Overview
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 4/3](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Nothing!
+
+***
+
+### Wednesday, April 5
+{: .no_toc }
+Present and Imperfect Subjunctive
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 4/5](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+**NOTE**: Next class is W 4/12.
+* Homework 23
+
+***
+
+## Easter Break (4/6 - 4/10)
+
+***
+
+## Week 12 (4/12 - 4/13)
+
+### Week 12 Resources
+{: .no_toc }
+
+* [Week 12 Vocabulary](#) (link TBD)
+* [Week 12 Paradigms](#) (link TBD)
+
+***
+
+### Wednesday, April 12
+{: .no_toc }
+Perfect and Pluperfect Subjunctive
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 4/12](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 24
+* Quiz 8 (**NOTE OFF-CYCLE DATE!**)
+
+***
+
+### Thursday, April 13
+{: .no_toc }
+Independent Subjunctives: Deliberative, Potential, Optative
+
+**NOTE: Twitch Stream is tonight (R 4/13) from 6 to 8pm, for the stream response due on M 4/17. It will be recorded if you cannot join live!**
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 4/13](#) (link TBD)
+* Deliberative Subjunctive
+* Potential Subjunctive
+* Optative Subjunctive
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 25
+* Twitch Stream Response
+
+***
+
+## Week 13 (4/17 - 4/20)
+
+### Week 13 Resources
+{: .no_toc }
+
+* [Week 13 Vocabulary](#) (link TBD)
+* [Week 13 Paradigms](#) (link TBD)
+
+***
+
+### Monday, April 17
+{: .no_toc }
+Dependent Subjunctives and Sequence of Tenses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 4/17](#) (link TBD)
+* Sequence of Tenses
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 26
+
+***
+
+### Wednesday, April 19
+{: .no_toc }
+Circumstantial, Causal, and Concessive Clauses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 4/19](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 27
+
+***
+
+### Thursday, April 20
+{: .no_toc }
+Purpose Clauses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 4/20](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 28
+* Quiz 9
+* Article Reflection 3
+
+***
+
+## Week 14 (4/24 - 4/27)
+
+### Week 14 Resources
+{: .no_toc }
+
+* [Week 14 Vocabulary](#) (link TBD)
+* [Week 14 Paradigms](#) (link TBD)
+
+***
+
+### Monday, April 24
+{: .no_toc }
+Result Clauses
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 4/24](#) (link TBD)
+* Result Clauses
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 29
+
+***
+
+### Wednesday, April 26
+{: .no_toc }
+Conditions
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - W 4/26](#) (link TBD)
+* Conditions
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 30
+
+***
+
+### Thursday, April 27
+{: .no_toc }
+Conditions continued
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 4/27](#) (link TBD)
+
+#### HW due by start of next class
+{: .no_toc }
+* Homework 31
+* Quiz 10
+
+***
+
+## Week 15 (5/1)
+
+***
+
+### Monday, May 1
 {: .no_toc }
 In Conclusion
 
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 5/1](#) (link TBD)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](#) (link TBD) 
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](#) (link TBD) 
+
 ***
 
-## Study Period: 5/10 through 5/11
-{: .no_toc }
+## Reading Days (5/2, 5/3, 5/7)
 
-## Exam Period: 5/12 through 5/18
-{: .no_toc }
+***
+
+## Exam Period (5/4 - 5/10)
+* Exam 3 will be due at **11am on M 5/8**.
+

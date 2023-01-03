@@ -8,6 +8,8 @@ has_children: true
 
 # Course Information
 
+**NOTE**: All information in this section can also be found in a [Google Doc format](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
+
 ***
 
 ## Course Details
@@ -19,7 +21,7 @@ has_children: true
 **Student Hours**: M 10:30-11:30am, W 10-11am, or by appointment.  
 **E-mail**: dlibatique [at] fairfield.edu  
 **Website**: [Click here](https://libatique.info).  
-**Zoom room and Discord server invite links**: See email or Blackboard.
+**Zoom room and Discord server invite links**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
 
 ***
 
