@@ -12,25 +12,42 @@ has_children: true
 
 ## Course Details
 
-**Meeting time**: MWF 9-9:50am  
-**Meeting Place**: Zoom through F 2/4; thereafter Stein 134  
+**Meeting time**: MR 9:30 - 10:20am, W 9-9:50am  
+**Meeting Place**: CNS 206  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
-**Office**: Fenwick 410  
-**Student Hours**: T 2-3pm, W 10am-12pm, Th 11am-12pm, or by appointment.  
-**E-mail**: dlibatiq [at] holycross.edu  
-**Website**: [Click here](https://libatique.info).
-
-***
-
-## Course Objectives
-
-* to develop your knowledge base of ancient Greek morphology and syntax
-* to practice close reading and identifying linguistic patterns
-* to analyze and engage with unedited ancient Greek
-* to learn about and appreciate aspects of ancient Greek culture
+**Office**: Donnarumma 124  
+**Student Hours**: M 10:30-11:30am, W 10-11am, or by appointment.  
+**E-mail**: dlibatique [at] fairfield.edu  
+**Website**: [Click here](https://libatique.info).  
+**Zoom room and Discord server invite links**: See email or Blackboard.
 
 ***
 
 ## Course Description
 
-This course is the second semester of a year-long introduction to the ancient Greek language, the mode of communication that defines the literature and culture of ancient Greece. Basic familiarity with Greek and the topics introduced in GREK 101 (Introduction to Greek 1) is required. This course will build upon the basics of the Greek language introduced in the first semester (e.g., declension, conjugation, sentence structure, etc.) and eventually build towards a strong command of Greek vocabulary, grammar, and syntax. The goal of first-year Greek is to build a solid foundation for reading actual ancient Greek texts. As such, the acquisition of those linguistic skills, elucidated and practiced through classroom practice and translation and composition exercises.
+This course is an introduction to the Latin language, the mode of communication that defines the literature and culture of ancient Rome. No previous knowledge of Latin is required. This course will start from the very basics of the Latin language (i.e., parts of speech, inflection, pronunciation) and eventually build towards a strong command of Latin vocabulary, grammar, and syntax. The goal of introductory Latin is to build a solid foundation for reading actual ancient Roman texts. As such, the acquisition of those linguistic skills, elucidated and practiced through classroom instruction and examples in our textbook, will also be reinforced by the reading of select prose and poetry passages in Latin.
+
+***
+
+## Course Goals and Learning Outcomes
+
+By the end of this course, an introduction to the ancient Latin language, my goal is that as far as **disciplinary content** is concerned, you as students will be able to:
+* develop your knowledge base of Latin (and English) morphology and syntax
+* develop confidence in engaging with complex sentence structures and narratives
+* practice close reading and identifying linguistic patterns
+* analyze and engage with unedited Latin
+* learn about and appreciate aspects of ancient Roman culture
+
+At a **global level**, this course is designed to improve your abilities in the following [IDEA Learning Objectives](https://www.ideaedu.org/idea-notes-on-learning/):
+* gaining a basic understanding of the subject (e.g., factual knowledge, methods, principles, generalizations, theories) (IDEA #1)
+* developing knowledge and understanding of diverse perspectives, global awareness, or other cultures (IDEA #2)
+* learning to apply course material (to improve thinking, problem solving, and decisions) (IDEA #3)
+* learning how to find, evaluate, and use resources to explore a topic in depth (IDEA #9)
+
+As **outcomes of your learning**, you will:
+* produce idiomatic English translations of both edited and authentic Latin
+* compose short narratives in grammatically-sound Latin based on real ancient myths
+* complete daily homework assignments to practice concepts and increase familiarity with vocabulary, paradigms, and sentence structures
+* achieve high grades on daily check-ins, weekly quizzes, and tri-semesterly exams by demonstrating your understanding of Latin morphology and syntax and applying grammatical rules
+* generate 1-2pp. written responses to articles, videos, events, and physical media like ancient coins that explore Latin grammar and Roman culture in outside-of-the-box ways
+

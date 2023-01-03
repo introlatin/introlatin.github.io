@@ -17,15 +17,16 @@ parent: Course Information
 
 ***
 
-## The Pandemic
+## The Pandemic and Absences / Late Assignments
 
-The coronavirus pandemic has upended our normal way of life for the past year and a half, and although we are hopefully at the tail end of it, the disruptions that we’ve experienced since March 2020 will have lasting effects in various ways. As of January 2022, we are slated to begin the semester remotely for the first week, potentially for the first two, and to begin in-person sessions by the third week of the semester, but if the pandemic continues to surge, we have to be ready to shift entirely online and conduct our class via Zoom and other online media.
+The coronavirus pandemic has upended our normal way of life since March 2020, and the disruptions that we’ve experienced since then will have lasting effects in various ways. As of January 2023, we are slated to be on campus and in person in Spring 2023 (yay!), but if the pandemic surges again or other one-off concerns arise, we have to be ready to shift online and conduct our class via Zoom and other online media.
 
-Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you'll be missing class via email. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don't hesitate to let me know.
+Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you’ll be missing class via email before the class meeting in question. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don’t hesitate to let me know.
 
-Needless to say, these are unprecedented times which call for extraordinary measures. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the GroupMe with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s [a recent favorite of mine](https://twitter.com/DrMRFrancis/status/1130553886585044993):
+I reserve the right to penalize your semester grade by one full letter grade (e.g., from an A- to a B-) if you accrue three or more unexcused absences (i.e., you are absent from class and have not communicated with me about it up to 24 hours after the absence on three separate occasions). I recognize that emergencies may preclude you from communicating with me about an absence in a timely fashion; I simply ask that you reach out as soon as you can so that I can excuse the absence if necessary and so that we can make sure that you have the resources that you need to keep up with the class.
 
-![](https://libatique.info/GREK214-S21/public/IMG_0877.jpg)
+Needless to say, these are unprecedented times which call for extraordinary measures. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the Discord server with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme.
+
 
 [Return to top.](#top)
 
