@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Pronouns
-permalink: /reference/pronouns
-nav_order: 5
-parent: Reference
+title: Pronouns and Pronominal Adjectives
+permalink: /paradigms/pronouns
+nav_order: 3
+parent: Paradigms
 ---
 
-# Pronouns
+# Pronouns and Pronominal Adjectives
 {: .no_toc }
 
 ## Table of contents

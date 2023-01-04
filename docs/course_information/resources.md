@@ -19,7 +19,7 @@ parent: Course Information
 
 ## Electronic Resources
 
-**NOTE**: All vocabulary items can be found in the [Vocabulary](../vocabulary) section of the site, and all paradigms (charts for verb, noun, etc., forms) can be found in the [Reference](../reference) section of the site.
+**NOTE**: All vocabulary items can be found in the [Vocabulary](../vocabulary) section of the site, and all paradigms charts (for verb, noun, etc., forms) can be found in the [Paradigms](../paradigms) section of the site.
 
 * [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Lewis & Short (L&S) Latin to English Dictionary.
 * [Furman: L&S](http://folio2.furman.edu/lsj/): Furman University's version of the L&S.

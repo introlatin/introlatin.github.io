@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Contractions
-permalink: /reference/contractions
-nav_order: 6
-parent: Reference
+title: Syntax
+permalink: /paradigms/syntax
+nav_order: 4
+parent: Paradigms
 ---
 
-# Contractions
+# Syntax
 {: .no_toc }
 
 ## Table of contents

@@ -8,11 +8,11 @@ has_children: true
 
 # Course Information
 
-**NOTE**: All information in this section can also be found in a [Google Doc format](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
+**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
 
 ***
 
-## Course Details
+## Course Details (Spring 2023)
 
 **Meeting time**: MR 9:30 - 10:20am, W 9-9:50am  
 **Meeting Place**: CNS 206  
