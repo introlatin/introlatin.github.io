@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Master Vocabulary List
-permalink: /vocabulary/master
+title: Complete Vocabulary
+permalink: /vocabulary/complete
 nav_order: 0
 parent: Vocabulary
 ---
 
-# Master Vocabulary List
+# Complete Vocabulary
 
 ***
 
