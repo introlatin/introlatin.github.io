@@ -19,24 +19,24 @@ parent: Course Information
 
 ## Overview and Deadlines
 
-Grading in this course will be slightly unorthodox. Every student will begin the semester with a **point total** of 0. Then, every assignment that you complete in the areas of **homework, daily check-ins, weekly quizzes, spot checks, exams, and written responses** will add points to your total. Your point total across all categories at the end of the semester will determine the semester grade that you receive, and you get to decide what combination of assignments and assessments will get you to your desired final grade. You choose the grade that you want, and you are in control of drawing your own pathway to get there.
+Grading in this course will be slightly unorthodox. Every student will begin the semester with a **point total** of 0. Then, every assignment that you complete in the areas of **homework, daily check-ins, weekly quizzes, exams, and written responses** will add points to your total. Your point total across all categories at the end of the semester will determine the semester grade that you receive, and you get to decide what combination of assignments and assessments will get you to your desired final grade. You choose the grade that you want, and you are in control of drawing your own pathway to get there.
 
-Because there will be a number of pathways to get to the minimum point total for an A (950 points), **every assignment is optional**. This includes **everything**: homework, daily check-ins, weekly quizzes, spot checks, exams, and written responses. As such, if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give credit for any assignment submitted late without prior notification or discussion.
+Because there will be a number of pathways to get to the minimum point total for an A (950 points), **every assignment is optional**. This includes **everything**: homework, daily check-ins, weekly quizzes, exams, and written responses. As such, **if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it**. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give credit for any assignment submitted late without prior notification or discussion.
 
 All core assignments combined will add up to a possible maximum of 1000 points throughout the semester; points from external events and assignments will be added into your total point pool, equivalent to points earned through the core assessment types. The following list indicates the point ranges for semester-end grade levels:
 
 |  Grade    | Minimum  | Maximum  |
 |:---|:---|:---|
-| **A**  |  950 | 1000  |
-|  **A-** |  875 | 949  |
-| **B+**  | 800  | 874  |
-| **B**  |  750 | 799  |
-| **B-**  |  700 | 749  |
-| **C+**  | 650  | 699  |
-| **C**  | 600  | 649  |
-| **C-**  | 550  | 599  |
-| **D**  | 500  | 549  |
-| **F**  | 0  | 499  |
+| **A**  | 950 | 1000 |
+|  **A-** | 875 | 949 |
+| **B+**  | 800 | 874 |
+| **B**  | 750 | 799 |
+| **B-**  | 700 | 749 |
+| **C+**  | 650 | 699 |
+| **C**  | 600 | 649 |
+| **C-**  | 550 | 599 |
+| **D**  | 500 | 549 |
+| **F**  | 0 | 499 |
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
 
@@ -47,7 +47,7 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 ### Homework
 
 * **5 points** per homework assignment, **thirty-one (31)** assignments total = **155 total points**
-* There will be **thirty-one (31) homework assignments** throughout the semester, with the first one due on W 1/25 to give you time to acclimate to the course. Each homework assignment will give you practice with the concept that was learned in class that day, and each homework assignment will be graded on the basis of **completeness, not correctness**. All assignments will be administered through Blackboard and due at the beginning of the following class period.
+* There will be **thirty-one (31) homework assignments** throughout the semester, with due dates specified in the [Course Schedule](schedule) and on Blackboard. Each homework assignment will give you practice with the concept that was learned in class that day, and each homework assignment will be graded on the basis of **completeness, not correctness**. All assignments will be administered through Blackboard and due at the beginning of the following class period.
 
 ### Daily Check-Ins
 

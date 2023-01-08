@@ -81,6 +81,7 @@ Verb Overview
 ### Wednesday, January 25
 {: .no_toc }
 Perfect Active
+* In class: Practice Check-in 1
 
 #### Resources and Readings
 {: .no_toc }
@@ -96,6 +97,7 @@ Perfect Active
 ### Thursday, January 26
 {: .no_toc }
 Noun Overview
+* In class: Check-in 1
 
 #### Resources and Readings
 {: .no_toc }
@@ -122,6 +124,7 @@ Noun Overview
 ### Monday, January 30
 {: .no_toc }
 Nominative and Genitive
+* In class: Check-in 2
 
 #### Resources and Readings
 {: .no_toc }
@@ -138,6 +141,7 @@ Nominative and Genitive
 ### Wednesday, February 1
 {: .no_toc }
 Transitive versus Intransitive; Accusative, Dative, Ablative
+* In class: Check-in 3
 
 #### Resources and Readings
 {: .no_toc }
@@ -154,6 +158,7 @@ Transitive versus Intransitive; Accusative, Dative, Ablative
 ### Thursday, February 2
 {: .no_toc }
 Reading a Latin Sentence
+* In class: Check-in 4
 
 **NOTE: Roosevelt Montás lecture TONIGHT (R 2/2) at 5pm! Extra credit opportunity. More details in class.**
 
@@ -184,6 +189,7 @@ Reading a Latin Sentence
 ### Monday, February 6
 {: .no_toc }
 Adjective-Noun Agreement and 2-1-2 Adjectives
+* In class: Check-in 5
 
 #### Resources and Readings
 {: .no_toc }
@@ -199,6 +205,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 ### Wednesday, February 8
 {: .no_toc }
 3rd Declension Adjectives and Substantives
+* In class: Check-in 6
 
 #### Resources and Readings
 {: .no_toc }
@@ -214,6 +221,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 ### Thursday, February 9
 {: .no_toc }
 *sum, esse, fuī, futurus*; linking sentences and predicate nominatives
+* In class: Check-in 7
 
 #### Resources and Readings
 {: .no_toc }
@@ -241,6 +249,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 ### Monday, February 13
 {: .no_toc }
 3rd Person Personal and Reflexive Pronouns
+* In class: Check-in 8
 
 #### Resources and Readings
 {: .no_toc }
@@ -257,6 +266,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 ### Wednesday, February 15
 {: .no_toc }
 Demonstrative Pronouns/Pronominal Adjectives
+* In class: Check-in 9
 
 #### Resources and Readings
 {: .no_toc }
@@ -272,6 +282,7 @@ Demonstrative Pronouns/Pronominal Adjectives
 ### Thursday, February 16
 {: .no_toc }
 Intensives and Prepositions
+* In class: Check-in 10
 
 #### Resources and Readings
 {: .no_toc }
@@ -297,6 +308,7 @@ Intensives and Prepositions
 ### Tuesday, February 21
 {: .no_toc }
 Perfect Passive; passive sentences and ablative of agent
+* In class: Check-in 11
 
 **NOTE: T 2/21 runs on a Monday schedule.**
 
@@ -314,6 +326,7 @@ Perfect Passive; passive sentences and ablative of agent
 ### Wednesday, February 22
 {: .no_toc }
 Imperfect Tense
+* In class: Check-in 12
 
 #### Resources and Readings
 {: .no_toc }
@@ -329,6 +342,7 @@ Imperfect Tense
 ### Thursday, February 23
 {: .no_toc }
 3rd Declension i-stems; 4th and 5th Declensions
+* In class: Check-in 13
 
 #### Resources and Readings
 {: .no_toc }
@@ -357,6 +371,7 @@ Imperfect Tense
 ### Monday, February 27
 {: .no_toc }
 Present Tense
+* In class: Check-in 14
 
 #### Resources and Readings
 {: .no_toc }
@@ -372,6 +387,7 @@ Present Tense
 ### Wednesday, March 1
 {: .no_toc }
 Future Tense
+* In class: Check-in 15
 
 #### Resources and Readings
 {: .no_toc }
@@ -387,6 +403,7 @@ Future Tense
 ### Thursday, March 2
 {: .no_toc }
 Tense Review
+* In class: Check-in 16
 
 #### Resources and Readings
 {: .no_toc }
@@ -412,6 +429,7 @@ Tense Review
 ### Monday, March 6
 {: .no_toc }
 Infinitives; *possum, posse, potuī*
+* In class: Check-in 17
 
 #### Resources and Readings
 {: .no_toc }
@@ -427,6 +445,7 @@ Infinitives; *possum, posse, potuī*
 ### Wednesday, March 8
 {: .no_toc }
 Indirect Statement
+* In class: Check-in 18
 
 #### Resources and Readings
 {: .no_toc }
@@ -442,6 +461,7 @@ Indirect Statement
 ### Thursday, March 9
 {: .no_toc }
 Indirect Statement continued
+* In class: Check-in 19
 
 #### Resources and Readings
 {: .no_toc }
@@ -483,6 +503,7 @@ Indirect Statement continued
 ### Wednesday, March 22
 {: .no_toc }
 Dependent Clauses and Relative Clauses
+* In class: Check-in 20
 
 #### Resources and Readings
 {: .no_toc }
@@ -499,6 +520,7 @@ Dependent Clauses and Relative Clauses
 ### Thursday, March 23
 {: .no_toc }
 Relative Clauses continued
+* In class: Check-in 21
 
 #### Resources and Readings
 {: .no_toc }
@@ -526,6 +548,7 @@ Relative Clauses continued
 ### Monday, March 27
 {: .no_toc }
 Irregular Verbs: *ferō*, *eō*
+* In class: Check-in 22
 
 #### Resources and Readings
 {: .no_toc }
@@ -540,6 +563,7 @@ Irregular Verbs: *ferō*, *eō*
 ### Wednesday, March 29
 {: .no_toc }
 Irregular Verbs: *volo*, *nolo*, *malo*
+* In class: Check-in 23
 
 #### Resources and Readings
 {: .no_toc }
@@ -554,6 +578,7 @@ Irregular Verbs: *volo*, *nolo*, *malo*
 ### Thursday, March 30
 {: .no_toc }
 Pluperfect and Future Perfect Tenses
+* In class: Check-in 24
 
 #### Resources and Readings
 {: .no_toc }
@@ -578,6 +603,7 @@ Pluperfect and Future Perfect Tenses
 ### Monday, April 3
 {: .no_toc }
 Imperative Mood and Subjunctive Overview
+* In class: Check-in 25
 
 #### Resources and Readings
 {: .no_toc }
@@ -592,6 +618,7 @@ Imperative Mood and Subjunctive Overview
 ### Wednesday, April 5
 {: .no_toc }
 Present and Imperfect Subjunctive
+* In class: Check-in 26
 
 #### Resources and Readings
 {: .no_toc }
@@ -621,6 +648,7 @@ Present and Imperfect Subjunctive
 ### Wednesday, April 12
 {: .no_toc }
 Perfect and Pluperfect Subjunctive
+* In class: Check-in 27
 
 #### Resources and Readings
 {: .no_toc }
@@ -636,6 +664,7 @@ Perfect and Pluperfect Subjunctive
 ### Thursday, April 13
 {: .no_toc }
 Independent Subjunctives: Deliberative, Potential, Optative
+* In class: Check-in 28
 
 **NOTE: Twitch Stream is tonight (R 4/13) from 6 to 8pm, for the stream response due on M 4/17. It will be recorded if you cannot join live!**
 
@@ -666,6 +695,7 @@ Independent Subjunctives: Deliberative, Potential, Optative
 ### Monday, April 17
 {: .no_toc }
 Dependent Subjunctives and Sequence of Tenses
+* In class: Check-in 29
 
 #### Resources and Readings
 {: .no_toc }
@@ -681,6 +711,7 @@ Dependent Subjunctives and Sequence of Tenses
 ### Wednesday, April 19
 {: .no_toc }
 Circumstantial, Causal, and Concessive Clauses
+* In class: Check-in 30
 
 #### Resources and Readings
 {: .no_toc }
@@ -695,6 +726,7 @@ Circumstantial, Causal, and Concessive Clauses
 ### Thursday, April 20
 {: .no_toc }
 Purpose Clauses
+* In class: Check-in 31
 
 #### Resources and Readings
 {: .no_toc }
@@ -721,6 +753,7 @@ Purpose Clauses
 ### Monday, April 24
 {: .no_toc }
 Result Clauses
+* In class: Check-in 32
 
 #### Resources and Readings
 {: .no_toc }
@@ -736,6 +769,7 @@ Result Clauses
 ### Wednesday, April 26
 {: .no_toc }
 Conditions
+* In class: Check-in 33
 
 #### Resources and Readings
 {: .no_toc }
@@ -751,6 +785,7 @@ Conditions
 ### Thursday, April 27
 {: .no_toc }
 Conditions continued
+* In class: Check-in 34
 
 #### Resources and Readings
 {: .no_toc }
@@ -770,6 +805,7 @@ Conditions continued
 ### Monday, May 1
 {: .no_toc }
 In Conclusion
+* In class: Check-in 35
 
 #### Resources and Readings
 {: .no_toc }

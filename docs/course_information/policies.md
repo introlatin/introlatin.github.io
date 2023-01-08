@@ -81,7 +81,7 @@ If you are already registered with the Office of Accessibility, please be sure t
 
 In addition to my email and student hours, there are resources outside myself, like the [Office of Academic Support and Retention](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) and the [Writing Center](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your ancient Roman monument by [date], with the subject line “Caesar and Pompey were ARCH-enemies!” If you do so, you will receive five (5) extra credit points on your semester total (see below for the course grading structure).
+By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your ancient Roman monument by [date], with the subject line “Caesar and Pompey were ARCH-enemies!” If you do so, you will receive five (5) extra credit points on your semester total (see [Grading](grading) for the course grading structure).
 
 [Return to top.](#top)
 
