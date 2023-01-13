@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
+remote_theme: just-the-docs/just-the-docs@v0.3.3
 title: LATN 1111
 
 footer_content: "All material developed by Daniel Libatique, Dominic Machado, and Neel Smith, and available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
