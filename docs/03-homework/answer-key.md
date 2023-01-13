@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Answer Key
-permalink: /course_info/answer-key
-nav_order: 5
-parent: Course Information
+permalink: /homework/answer-key
+nav_order: 1
+parent: Homework
 ---
 
 # Answer Key
