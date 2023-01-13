@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Schedule
-permalink: /course_info/schedule
-nav_order: 3
-parent: Course Information
+permalink: /schedule
+nav_order: 2
+has_children: false
 ---
 
 # Schedule

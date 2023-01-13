@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Homework
-permalink: /course_info/homework
-nav_order: 4
-parent: Course Information
+title: Homework Questions
+permalink: /homework/homework
+nav_order: 0
+parent: Homework
 ---
 
 # Homework
