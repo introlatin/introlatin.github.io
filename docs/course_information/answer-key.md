@@ -33,10 +33,10 @@ This is an answer key for all the homework assignments. I encourage you to compl
 **950.**
 
 4. True or false: you are allowed to use Google Translate to complete your assignments. (See Grading.)  
-**False!**
+**False!** (I'm looking to see you working through the process of figuring out how a Latin sentence works; not only does using Google Translate mean that you're not fulfilling that course objective, but also Google Translate is often wrong in terms of vocabulary and syntax!)
 
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).  
-**True!**
+**True!** (The homework assignments are much more about getting practice with the concepts [and they are only graded on completeness, not correctness], so it's in your best interest to complete the homework assignments using your notes, slideshows, and brains first and then check your work against the answer key, rather than just copying and pasting the answers.)
 
 ***
 
