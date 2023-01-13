@@ -12,7 +12,7 @@ parent: Course Information
 This is an answer key for all the homework assignments. I encourage you to complete the homework assignments first without this key, submit those answers to Blackboard, and then use this answer key to check your work. While I can't stop you from just submitting these answers verbatim, please know that it's in your best interest to practice with the concepts and vocabulary, rather than taking an easy shortcut, especially when it comes to internalizing information for in-class check-ins!
 
 ## Practice Homework 1 (Due R 1/19)
-## Practice Homework 2 (Due M 1/20)
+## Practice Homework 2 (Due M 1/23)
 
 ***
 

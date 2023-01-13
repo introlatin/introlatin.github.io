@@ -12,7 +12,7 @@ parent: Course Information
 These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2023 at Fairfield University. Many of these assignments will likely require consultation of the [Complete Vocabulary](../vocabulary/complete) or the [Paradigms](../paradigms).
 
 ## Practice Homework 1 (Due R 1/19)
-## Practice Homework 2 (Due M 1/20)
+## Practice Homework 2 (Due M 1/23)
 
 ***
 
