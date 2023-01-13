@@ -17,6 +17,18 @@ parent: Paradigms
 
 ***
 
+## Genitive Singular Endings by Declension
+
+| Declension | Genitive Singular Ending |
+| --- | --- |
+| 1st | -ae |
+| 2nd | -ī |
+| 3rd | -is |
+| 4th | -ūs |
+| 5th | -eī or -ēī |
+
+***
+
 ## 1st Declension (fem. / masc.)
 * Paradigm noun: puella, puellae, f. - girl
 

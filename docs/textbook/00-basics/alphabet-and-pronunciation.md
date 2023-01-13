@@ -7,7 +7,7 @@ parent: 00 - Basics
 grand_parent: Textbook
 ---
 
-# Alphabet and Accents
+# Alphabet and Pronunciation
 {: .no_toc }
 
 ## Table of contents

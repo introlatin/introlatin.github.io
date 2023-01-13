@@ -29,7 +29,7 @@ Syllabus Day
 
 #### HW due by start of next class
 {: .no_toc }
-* Read the [syllabus](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) from top to bottom.
+* Read the sections in [Course Info](../course_info) (including the Resources, Policies, Grading, and Schedule pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) version).
 * Complete the [Student Information Form](#) (link TBD).
 * (OPTIONAL) Practice Homework 1 (in Blackboard).
 
@@ -42,8 +42,8 @@ Grammar Basics and Inflection (Conjugation and Declension)
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 1/19](#) (link TBD)
-* Preliminaries
-* Introduction
+* [Alphabet and Pronunciation](../textbook/basics/alphabet-and-pronunciation)
+* [Inflection](../textbook/basics/inflection)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -56,8 +56,8 @@ Grammar Basics and Inflection (Conjugation and Declension)
 ### Week 2 Resources
 {: .no_toc }
 
-* [Week 2 Vocabulary](#) (link TBD)
-* [Week 2 Paradigms](#) (link TBD)
+* [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)
+* [Week 2 Paradigms](../paradigms/week-02-paradigms)
 
 ***
 
@@ -68,9 +68,7 @@ Verb Overview
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 1/23](#) (link TBD)
-* Verbal units
-* Finite verbs
-* Principal parts
+* [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
 {: .no_toc }

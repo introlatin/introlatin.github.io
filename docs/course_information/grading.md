@@ -23,7 +23,7 @@ Grading in this course will be slightly unorthodox. Every student will begin the
 
 Because there will be a number of pathways to get to the minimum point total for an A (950 points), **every assignment is optional**. This includes **everything**: homework, daily check-ins, weekly quizzes, exams, and written responses. As such, **if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it**. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give credit for any assignment submitted late without prior notification or discussion.
 
-All core assignments combined will add up to a possible maximum of 1000 points throughout the semester; points from external events and assignments will be added into your total point pool, equivalent to points earned through the core assessment types. The following list indicates the point ranges for semester-end grade levels:
+All assignments combined will add up to a possible maximum of 1000 points throughout the semester; any extra credit opportunity points will be added to the pool but they are not necessary to get to an A. The following list indicates the point ranges for semester-end grade levels:
 
 |  Grade    | Minimum  | Maximum  |
 |:---|:---|:---|
@@ -66,5 +66,5 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 
 ### Written Responses
 
-* **6** responses, **4** at**10 pts.** and **2** at **15 pts.** = **70 total points**
+* **6** responses, **4** at **10 pts.** and **2** at **15 pts.** = **70 total points**
 * Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. The 10-point responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a response to a Twitch stream of an ancient world video game; the 15-point responses include a coin analysis project using Fairfield Classical Studies’ ancient coins collection and an object analysis project using the holdings in the Fairfield University Art Museum. More details to come!

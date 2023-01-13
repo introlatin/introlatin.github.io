@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 03 - Infinitives and Participles
-permalink: /textbook/infs-and-parts
+title: 03 - Subjunctive
+permalink: /textbook/subjunctive
 nav_order: 3
 parent: Textbook
 has_children: true
 ---
 
-# Infinitives and Participles
+# Subjunctive
 
-This module introduces two verb forms outside of finite forms that we can use to add information to a sentence: the infinitive, a verbal noun; and the participle, a verb adjective. Throughout this module, you'll become familiar with the formation and uses of the infinitive and the participle.
+This module introduces the subjunctive mood, including the various forms that it can take in a Latin verb and the independent and dependent constructions that take a subjunctive verb.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verbs Overview
-permalink: /textbook/substantives/overview
+permalink: /textbook/substantives/verbs-overview
 nav_order: 0
 parent: 01 - Substantives
 grand_parent: Textbook

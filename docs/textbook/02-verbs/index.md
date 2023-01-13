@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 02 - Substantives and Adjectives
-permalink: /textbook/subst-and-adjs
+title: 02 - Verbs
+permalink: /textbook/verbs
 nav_order: 2
 parent: Textbook
 has_children: true
 ---
 
-# Substantives and Adjectives
+# Verbs
 
-This module introduces substantives (people, places, things, or ideas), as denoted by nouns or pronouns; and adjectives, words that modify substantives. Within this module, you'll learn about the declension system, the uses of different cases, how pronouns can replace nouns, and how adjectives modify substantives.
+This module introduces the remainder of verb forms in all six tenses and introduces new syntactic constructions like relative clauses and indirect statements.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 2 Vocabulary
-permalink: /vocabulary/week-02
+permalink: /vocabulary/week-02-vocabulary
 nav_order: 1
 parent: Vocabulary
 ---

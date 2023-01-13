@@ -15,6 +15,20 @@ parent: Paradigms
 1. TOC
 {:toc}
 
+***
+
+## Verb Conjugation - Endings
+
+| Conjugation | 1st Principal Part Ending | 2nd Principal Part Ending |
+| --- | --- | --- |
+| 1st | -ō | -āre |
+| 2nd | -eō | -ēre |
+| 3rd | -ō | -ere |
+| 3rd -iō | -iō | -ere |
+| 4th | -iō | -īre |
+
+***
+
 ## Present System (Present, Imperfect, Future)
 
 ### Present Tense
