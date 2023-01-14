@@ -30,8 +30,8 @@ Syllabus Day
 #### HW due by start of next class
 {: .no_toc }
 * Read the sections in [Course Info](../course_info) (including the Resources, Policies, Grading, and Schedule pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) version).
-* Complete the [Student Information Form](#) (link TBD).
-* (OPTIONAL) Practice Homework 1 (in Blackboard).
+* Complete the [Student Information Form](https://forms.gle/1aEBtyiwtk6aMrXW7).
+* (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-119) (submit on Blackboard).
 
 ***
 
@@ -47,7 +47,7 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 #### HW due by start of next class
 {: .no_toc }
-* (OPTIONAL) Practice Homework 2 (in Blackboard).
+* (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-123) (submit on Blackboard).
 
 ***
 
@@ -72,7 +72,7 @@ Verb Overview
 
 #### HW due by start of next class
 {: .no_toc }
-* (OPTIONAL) Practice Homework 3 (on Blackboard)
+* (OPTIONAL) [Practice Homework 3](../homework/homework#practice-homework-3-due-w-125) (submit on Blackboard)
 
 ***
 
@@ -88,7 +88,7 @@ Perfect Active
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 1 (on Blackboard)
+* [Homework 1](../homework/homework#homework-1-due-r-126) (on Blackboard)
 
 ***
 
@@ -104,7 +104,7 @@ Noun Overview
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 2 (on Blackboard)
+* [Homework 2](../homework/homework#homework-2-due-m-130) (on Blackboard)
 * Quiz 1 (on Blackboard)
 
 ***
@@ -132,7 +132,7 @@ Nominative and Genitive
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 3
+* [Homework 3](../homework/homework#homework-3-due-w-21)
 
 ***
 
@@ -149,7 +149,7 @@ Transitive versus Intransitive; Accusative, Dative, Ablative
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 4
+* [Homework 4](../homework/homework#homework-4-due-r-22)
 
 ***
 
@@ -167,7 +167,7 @@ Reading a Latin Sentence
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 5
+* [Homework 5](../homework/homework#homework-5-due-m-26)
 * Quiz 2
 * Article Reflection 1
 * (OPTIONAL) Montás Reflection
@@ -196,7 +196,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 6
+* [Homework 6](../homework/homework#homework-6-due-w-28)
 
 ***
 
@@ -212,7 +212,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 7
+* [Homework 7](../homework/homework#homework-8-due-r-29)
 
 ***
 
@@ -228,7 +228,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 8
+* [Homework 8](../homework/homework#homework-8-due-m-213)
 * Quiz 3
 * Art Museum Object and Selfie Analysis Project
 
@@ -257,7 +257,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 9
+* [Homework 9](../homework/homework#homework-9-due-w-215)
 
 ***
 
@@ -273,7 +273,7 @@ Demonstrative Pronouns/Pronominal Adjectives
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 10
+* [Homework 10](../homework/homework#homework-10-due-r-216)
 
 ***
 
@@ -317,7 +317,7 @@ Perfect Passive; passive sentences and ablative of agent
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 11
+* [Homework 11](../homework/homework#homework-11-due-w-222)
 
 ***
 
@@ -333,7 +333,7 @@ Imperfect Tense
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 12
+* [Homework 12](../homework/homework#homework-12-due-r-223)
 
 ***
 
@@ -351,7 +351,7 @@ Imperfect Tense
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 13
+* [Homework 13](../homework/homework#homework-13-due-m-227)
 * Quiz 4
 
 ***
@@ -378,7 +378,7 @@ Present Tense
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 14
+* [Homework 14](../homework/homework#homework-14-due-w-31)
 
 ***
 
@@ -394,7 +394,7 @@ Future Tense
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 15
+* [Homework 15](../homework/homework#homework-15-due-r-32)
 
 ***
 
@@ -436,7 +436,7 @@ Infinitives; *possum, posse, potuī*
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 16
+* [Homework 16](../homework/homework#homework-16-due-w-38)
 
 ***
 
@@ -452,7 +452,7 @@ Indirect Statement
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 17
+* [Homework 17](../homework/homework#homework-17-due-r-39)
 
 ***
 
@@ -471,7 +471,7 @@ Indirect Statement continued
 
 **NOTE:** Next class is W 3/22.
 
-* Homework 18
+* [Homework 18](../homework/homework#homework-18-due-w-322)
 * Quiz 6
 * Coin Analysis Project
 
@@ -511,7 +511,7 @@ Dependent Clauses and Relative Clauses
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 19
+* [Homework 19](../homework/homework#homework-19-due-r-323)
 
 ***
 
@@ -528,7 +528,7 @@ Relative Clauses continued
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 20
+* [Homework 20](../homework/homework#homework-20-due-m-327)
 * Quiz 7
 
 ***
@@ -554,7 +554,7 @@ Irregular Verbs: *ferō*, *eō*
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 21
+* [Homework 21](../homework/homework#homework-21-due-w-329)
 
 ***
 
@@ -569,7 +569,7 @@ Irregular Verbs: *volo*, *nolo*, *malo*
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 22
+* [Homework 22](../homework/homework#homework-22-due-r-330)
 
 ***
 
@@ -625,7 +625,7 @@ Present and Imperfect Subjunctive
 #### HW due by start of next class
 {: .no_toc }
 **NOTE**: Next class is W 4/12.
-* Homework 23
+* [Homework 23](../homework/homework#homework-23-due-w-412)
 
 ***
 
@@ -654,7 +654,7 @@ Perfect and Pluperfect Subjunctive
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 24
+* [Homework 24](../homework/homework#homework-24-due-r-413)
 * Quiz 8 (**NOTE OFF-CYCLE DATE!**)
 
 ***
@@ -675,7 +675,7 @@ Independent Subjunctives: Deliberative, Potential, Optative
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 25
+* [Homework 25](../homework/homework#homework-25-due-w-417)
 * Twitch Stream Response
 
 ***
@@ -702,7 +702,7 @@ Dependent Subjunctives and Sequence of Tenses
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 26
+* [Homework 26](../homework/homework#homework-26-due-w-419)
 
 ***
 
@@ -717,7 +717,7 @@ Circumstantial, Causal, and Concessive Clauses
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 27
+* [Homework 27](../homework/homework#homework-27-due-r-420)
 
 ***
 
@@ -732,7 +732,7 @@ Purpose Clauses
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 28
+* [Homework 28](../homework/homework#homework-28-due-m-424)
 * Quiz 9
 * Article Reflection 3
 
@@ -760,7 +760,7 @@ Result Clauses
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 29
+* [Homework 29](../homework/homework#homework-29-due-w-426)
 
 ***
 
@@ -776,7 +776,7 @@ Conditions
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 30
+* [Homework 30](../homework/homework#homework-30-due-r-427)
 
 ***
 
@@ -791,7 +791,7 @@ Conditions continued
 
 #### HW due by start of next class
 {: .no_toc }
-* Homework 31
+* [Homework 31](../homework/homework#homework-31-due-m-51)
 * Quiz 10
 
 ***
