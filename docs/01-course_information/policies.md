@@ -91,6 +91,6 @@ By the way, to test whether you’re reading the syllabus all the way through, p
 
 As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as your professor. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, any information that you disclose that addresses actual or suspected discrimination, harassment, and/or retaliation based on sex requires my sharing that information with those on campus who are able to provide you with necessary resources.
 
-If you would like to discuss the matter confidentially, [this website](https://www.fairfield.edu/undergraduate/student-life-and-services/office-of-the-dean-of-students/student-handbook/sexual-misconduct-policy/index.html) lists confidential resources that are available to you under section 20a.
+If you would like to discuss the matter confidentially, [this website](https://www.fairfield.edu/undergraduate/student-life-and-services/office-of-the-dean-of-students/student-handbook/sexual-misconduct-policy/index.html) lists confidential resources that are available to you under section 20.1.
 
 [Return to top.](#top)

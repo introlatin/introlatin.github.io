@@ -50,7 +50,7 @@ Answer the following questions:
 ### Part 1
 {: .no_toc }
 
-In each of the following English sentences, identify the **subject** and the **finite/conjugated verb** and then **parse all aspects** *except* mood according to the details in the [Verbs Overview unit](../textbook/verbs/overview). For example:
+In each of the following English sentences, identify the **subject** and the **finite/conjugated verb** and then **parse all aspects** *except* mood according to the details in the [Verbs Overview unit](../textbook/substantives/verbs-overview). For example:
 
 * I went to the store.
     * "I went", 1st singular perfect active
