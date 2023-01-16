@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 permalink: /course_info/resources
-nav_order: 0
+nav_order: 3
 parent: Course Information
 ---
 

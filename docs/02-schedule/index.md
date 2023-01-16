@@ -29,7 +29,7 @@ Syllabus Day
 
 #### HW due by start of next class
 {: .no_toc }
-* Read the sections in [Course Info](../course_info) (including the Resources, Policies, Grading, and Schedule pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) version).
+* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing) version).
 * Complete the [Student Information Form](https://forms.gle/1aEBtyiwtk6aMrXW7).
 * (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-119) (submit on Blackboard).
 

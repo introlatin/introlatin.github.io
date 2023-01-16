@@ -23,7 +23,7 @@ These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2023 at
 
 ## Practice Homework 1 (Due R 1/19)
 
-Use this website (especially the [Course Info](../course_info), [Policies](policies), [Grading](grading), and [Schedule](schedule) pages, or you can use the website's search function at the top) to answer the following questions:
+Use this website (especially the [Course Info](../course_info/course-info), [Policies](../course_info/policies), and [Grading](../course_info/grading) pages, or you can use the website's search function at the top) to answer the following questions:
 
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages). 
 2. What defines an "unexcused absence"? (See Policies.)
