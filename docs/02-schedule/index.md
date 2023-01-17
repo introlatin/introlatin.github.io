@@ -25,7 +25,7 @@ Syllabus Day
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/18](#) (link TBD)
+* [Slideshow - W 1/18](https://www.dropbox.com/s/013c5bfd8gxout0/01-18-23%20-%20Syllabus%20Day%20-%20LATN%201111.pdf?dl=0)
 
 #### HW due by start of next class
 {: .no_toc }
