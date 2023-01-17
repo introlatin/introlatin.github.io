@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intermediate Topics
+title: 04 - Intermediate Topics
 permalink: /textbook/intermediate-topics
 nav_order: 4
 parent: Textbook
