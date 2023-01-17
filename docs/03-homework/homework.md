@@ -31,6 +31,8 @@ Use this website (especially the [Course Info](../course_info/course-info), [Pol
 4. True or false: you are allowed to use Google Translate to complete your assignments. (See Grading.)
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).
 
+[Answer key here](answer-key#practice-homework-1-due-r-119).
+
 ***
 
 ## Practice Homework 2 (Due M 1/23)
@@ -42,6 +44,8 @@ Answer the following questions:
 3. What is the term for the act of changing the endings of verbs to reflect different verb aspects like its person, number, tense, voice, and mood?
 4. What is the term for the act of changing the endings of nouns to reflect a noun's different cases and numbers?
 5. True or false: we use word order in Latin to determine the functions of words.
+
+[Answer key here](answer-key#practice-homework-2-due-m-123).
 
 ***
 
