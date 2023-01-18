@@ -67,7 +67,7 @@ Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 1/23](#) (link TBD)
+* [Slideshow - M 1/23](https://www.dropbox.com/s/sv1jiylmjxlijfh/01-23-23-%20Verb%20Overview%20-%20LATN%201111%20S23.pdf?dl=0)
 * [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
@@ -83,7 +83,7 @@ Perfect Active
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/25](#) (link TBD)
+* [Slideshow - W 1/25](https://www.dropbox.com/s/zpqud6lol2bfgu5/01-25-23%20-%20Perfect%20Active%20-%20LATN%201111%20S23.pdf?dl=0)
 * Perfect Active
 
 #### HW due by start of next class
@@ -99,7 +99,7 @@ Noun Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/26](#) (link TBD)
+* [Slideshow - R 1/26](https://www.dropbox.com/s/k2g7n0v2qnx5dcx/01-26-23%20-%20Nouns%20Overview%20-%20LATN%201111%20S23.pdf?dl=0)
 * Nouns
 
 #### HW due by start of next class
