@@ -9,7 +9,7 @@ parent: Homework
 # Homework
 {: .no_toc }
 
-These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2023 at Fairfield University. Many of these assignments will likely require consultation of the [Complete Vocabulary](../vocabulary/complete) or the [Paradigms](../paradigms), and you can find all answers to the homework at the [Answer Key](answer-key).
+These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2023 at Fairfield University. Many of these assignments will likely require consultation of the [Complete Vocabulary](../vocabulary/complete-vocabulary) or the [Paradigms](../paradigms), and you can find all answers to the homework at the [Answer Key](answer-key).
 
 ***
 
