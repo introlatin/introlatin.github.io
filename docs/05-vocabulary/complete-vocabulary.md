@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Complete Vocabulary
-permalink: /vocabulary/complete
+permalink: /vocabulary/complete-vocabulary
 nav_order: 0
 parent: Vocabulary
 ---
