@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule
+title: Schedule and Slideshows
+permalink: /schedule-and-slideshows
 nav_order: 2
 has_children: true
 ---
 
-# Schedule
+# Schedule and Slideshows
 {: .no_toc }
 
 ## Table of contents
@@ -17,6 +17,4 @@ has_children: true
 
 ***
 
-## Schedule
-
-This tab contains the daily schedule and a link to the course slideshows for LATN 1111 (Spring 2023).
+This tab contains the daily schedule and a link to the course slideshows for LATN 1111 (Spring 2023). Individual slideshows can be found in the [schedule](schedule).

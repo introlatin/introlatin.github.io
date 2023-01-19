@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/schedule
+permalink: /schedule-and-slideshows/schedule
 nav_order: 0
-parent: Schedule
+parent: Schedule and Slideshows
 ---
 
 # Schedule
