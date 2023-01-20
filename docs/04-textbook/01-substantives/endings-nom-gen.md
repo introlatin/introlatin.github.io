@@ -172,5 +172,7 @@ In this and the next chapter, we'll consider only the core **uses** of each of t
 
 ## Nominative
 
+The primary use of the **nominative** is to indicate that a noun is the **subject** of a sentence's verb. 
+
 ## Genitive
 
