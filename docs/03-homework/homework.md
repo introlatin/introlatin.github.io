@@ -72,7 +72,38 @@ Each of the following exercises gives the first and second principal parts of a 
 ***
 
 ## Homework 1 (Due R 1/26)
-## Homework 2 (Due M 1/30)
+
+Conjugate the following verbs into the **3rd person singular** and the **3rd person plural** of the perfect tense and active voice. Then, give one sample translation for each form. For example:
+
+* amō, amāre, amāvī, amātus - to love  
+amāvit - 'she loved'  
+amāvērunt - 'they have loved'
+
+1. videō, vidēre, vīdī, vīsus - to see; (passive) to seem
+2. regō, regere, rexī, rectus - to rule
+3. cadō, cadere, cecidī, casus - to fall
+4. interficiō, interficere, interfēcī, interfectus - to kill
+5. audiō, audīre, audīvī / audiī, audītus - to hear
+
+***
+
+## Homework 2 (Due M 1/30)  
+
+Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belongs.
+
+1. arbūtus, arbūtī, f. - strawberry bush
+2. caput, capitis, n. - head
+3. umbra, umbrae, f. - shadow
+4. vir, virī, m. - man
+5. tempus, temporis, n. - time
+6. hortus, hortī, m. - garden
+7. corpus, corporis, n. - body
+8. gratia, gratiae, f. - favor, thanks
+9. via, viae, f. - road
+10. aurum, aurī, n. - gold
+
+***
+
 ## Homework 3 (Due W 2/1)
 ## Homework 4 (Due R 2/2)
 ## Homework 5 (Due M 2/6)

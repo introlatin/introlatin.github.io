@@ -94,7 +94,63 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 1 (Due R 1/26)
+
+1. videō, vidēre, vīdī, vīsus - to see; (passive) to seem  
+**vīdit - 'he saw' (or 'she has seen', 'it saw', 'they [singular] saw', etc.)**  
+**vīdērunt - 'they saw' (or 'they have seen')**
+
+2. regō, regere, rexī, rectus - to rule  
+**rexīt - 'she ruled'**  
+**rexērunt - 'they ruled'**
+
+3. cadō, cadere, cecidī, casus - to fall  
+**cecidit - 'it fell'**  
+**cecidērunt - 'they fell'**
+
+4. interficiō, interficere, interfēcī, interfectus - to kill  
+**interfēcit - 'he killed'**  
+**interfēcērunt - 'they killed'**
+
+5. audiō, audīre, audīvī / audiī, audītus - to hear  
+**audīvit / audiit - 'they (singular) heard'**  
+**audīvērunt / audiērunt - 'they heard'**
+
+***
+
 ## Homework 2 (Due M 1/30)
+
+1. arbūtus, arbūtī, f. - strawberry bush  
+**2nd**
+
+2. caput, capitis, n. - head  
+**3rd**
+
+3. umbra, umbrae, f. - shadow  
+**1st**
+
+4. vir, virī, m. - man  
+**2nd**
+
+5. tempus, temporis, n. - time  
+**3rd**
+
+6. hortus, hortī, m. - garden  
+**2nd**
+
+7. corpus, corporis, n. - body  
+**3rd**
+
+8. gratia, gratiae, f. - favor, thanks  
+**1st**
+
+9. via, viae, f. - road  
+**1st**
+
+10. aurum, aurī, n. - gold  
+**2nd**
+
+***
+
 ## Homework 3 (Due W 2/1)
 ## Homework 4 (Due R 2/2)
 ## Homework 5 (Due M 2/6)
