@@ -67,7 +67,7 @@ Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 1/23](https://drive.google.com/file/d/1-1QWri7roP6OkKi87R6nCddd1nW74YtN/view?usp=sharing)
+* [Slideshow - M 1/23](https://drive.google.com/file/d/1-4EDSw6YYTIz6XIgNxTfIiBO6kIAY3-E/view?usp=sharing)
 * [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
@@ -83,7 +83,7 @@ Perfect Active
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/25](#) (link TBD)
+* [Slideshow - W 1/25](https://drive.google.com/file/d/1-4rC7XLnVVDpvXm2e2uRpWZuFilpMk-M/view?usp=sharing)
 * [Perfect Active](../textbook/substantives/perfect-active)
 
 #### HW due by start of next class
@@ -99,7 +99,7 @@ Noun Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/26](#) (link TBD)
+* [Slideshow - R 1/26](https://drive.google.com/file/d/1-50-vGxd0O55Ts9Y7_p24xQmLnbrmIKP/view?usp=sharing)
 * [Noun Overview](../textbook/substantives/nouns-overview)
 
 #### HW due by start of next class
