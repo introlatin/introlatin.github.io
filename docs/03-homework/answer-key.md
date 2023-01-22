@@ -61,42 +61,6 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Practice Homework 3 (Due W 1/25)
 
-### Part 1
-{: .no_toc }
-
-1. He will arrive tomorrow.  
-**"He will arrive," 3rd person singular future active**
-
-2. The ball is kicked by the boy.  
-**"The ball is kicked," 3rd person singular present passive**
-
-3. You (singular) ordered French fries.  
-**"You (singular) ordered," 2nd person singular perfect active**
-
-4. I ordered French fries.  
-**"I ordered," 1st person singular perfect active**
-
-5. We were reading the books.  
-**"We were reading," 1st person plural imperfect active**
-
-6. The books were being read by us.  
-**"The books were being read," 3rd person plural imperfect passive**
-
-7. They (plural) have seen the play.  
-**"They (plural) have seen," 3rd person plural perfect active**
-
-8. They (plural) had seen the play.  
-**"They (plural) had seen," 3rd person plural pluperfect active**
-
-9. It will be wonderful.  
-**"It will be," 3rd person singular future active**
-
-10. She wants to know.  
-**"She wants," 3rd person singular present active**
-
-### Part 2
-{: .no_toc }
-
 1. amō, amāre  
 **1st**
 

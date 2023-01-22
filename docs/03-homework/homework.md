@@ -51,30 +51,6 @@ Answer the following questions:
 
 ## Practice Homework 3 (Due W 1/25)
 
-### Part 1
-{: .no_toc }
-
-In each of the following English sentences, identify the **subject** and the **finite/conjugated verb** and then **parse all aspects** *except* mood according to the details in the [Verbs Overview unit](../textbook/substantives/verbs-overview). For example:
-
-* I went to the store.
-    * "I went", 1st singular perfect active
-* You (pl.) were going to bed.
-    * "You (pl.) were going", 2nd plural imperfect active
-
-1. He will arrive tomorrow.
-2. The ball is kicked by the boy.
-3. You (singular) ordered French fries.
-4. I ordered French fries.
-5. We were reading the books.
-6. The books were being read by us.
-7. They (plural) have seen the play.
-8. They (plural) had seen the play.
-9. It will be wonderful.
-10. She wants to know.
-
-### Part 2
-{: .no_toc }
-
 Each of the following exercises gives the first and second principal parts of a Latin verb's dictionary entry. Indicate the conjugation to which each of the following verbs belongs. For example:
 
 * teneō, tenēre  
