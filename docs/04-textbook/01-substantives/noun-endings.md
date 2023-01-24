@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Noun Endings, Nominative, and Genitive
-permalink: /textbook/substantives/nominative-and-genitive
+title: Noun Endings
+permalink: /textbook/substantives/noun-endings
 nav_order: 3
 parent: 01 - Substantives
 grand_parent: Textbook
 ---
 
-# Noun Endings, Nominative, and Genitive
+# Noun Endings (1st-3rd Declension)
 {: .no_toc }
 
 ## Table of contents
@@ -32,7 +32,7 @@ While the **gender** of nouns cannot be changed, the **case** and **number** of 
 
 The second principal part also gives us that noun's **stem** -- we take off that ending (**-ae**, **-ī**, or **-is**), and we use what is left of the noun to attach appropriate endings for the noun's case and number.
 
-The endings that can be applied to reflect different cases and numbers in nouns are as follows. We'll discuss the specific uses of each case later on; for now, this is simply about rote morphology and learning how each of the case-number combinations can appear in the 1st through 3rd declensions. 
+The endings that can be applied to reflect different cases and numbers in nouns are as follows. We'll discuss the specific uses of each case in the next units; for now, this is simply about rote morphology and learning how each of the case-number combinations can appear in the 1st through 3rd declensions. 
 
 **These endings must be memorized.** Having them in your head rather than needing to look them up every time you need to check the case and number of a noun will save you a lot of time and stress in the long run.
 
@@ -62,7 +62,7 @@ Here is an example of a full declension chart of a first declension noun: **puel
 
 ### 2nd Declension
 
-There are two sets of endings for second declension nouns depending on the noun's **gender**, whether it's masculine/feminine or neuter.
+There are two sets of endings for second declension nouns depending on the noun's **gender**, whether it's masculine/feminine or neuter. Thus, once you've determined that a noun is 2nd declension because of the **-ī** in its genitive singular form, you then have to determine the noun's gender to apply the correct ending chart.
 
 #### 2nd Declension Masculine/Feminine
 
@@ -155,24 +155,3 @@ Here is an example of a full declension chart of a 3rd declension neuter noun: *
 | Dative | nōmin**ī** | nōmin**ibus** |
 | Accusative | nōmen | nōmin**a** |
 | Ablative | nōmin**e** | nōmin**ibus** |
-
-***
-
-## Cases and Uses
-
-While the **number** of a noun is self-evident (there's either one of the noun [**singular**] or more than one [**plural**]), the **case** of a noun needs more explanation. Recall that case tells us how a noun *functions* within a sentence. For example, in the following sentence:
-
-* The boy kicks the ball.
-
-each of the two nouns, **boy** and **ball**, fulfills a different function in the sentence. The boy performs the action of kicking; this makes the boy the **subject**. The ball, on the other hand, receives the action of kicking; this makes the ball the **direct object**.
-
-These functions get assigned to specific **cases** in Latin. Each function is called a **use**. Each of the cases has multiple **uses**, and you will need to use context often to determine which use is the most appropriate for the sentence under consideration. 
-
-In this and the next chapter, we'll consider only the core **uses** of each of the cases; we'll add more uses to each case as the semester continues.
-
-## Nominative
-
-The primary use of the **nominative** is to indicate that a noun is the **subject** of a sentence's verb. 
-
-## Genitive
-
