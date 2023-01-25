@@ -114,21 +114,20 @@ Noun Overview
 ### Week 3 Resources
 {: .no_toc }
 
-* [Week 3 Vocabulary](#) (link TBD)
+* [Week 3 Vocabulary](/vocabulary/week-03-vocabulary)
 * [Week 3 Paradigms](#) (link TBD)
 
 ***
 
 ### Monday, January 30
 {: .no_toc }
-Nominative and Genitive
+Noun Endings
 * In class: Check-in 2
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 1/30](#) (link TBD)
-* Nominative
-* Genitive
+* [Noun Endings](../textbook/substantives/noun-endings)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -138,14 +137,13 @@ Nominative and Genitive
 
 ### Wednesday, February 1
 {: .no_toc }
-Transitive versus Intransitive; Accusative, Dative, Ablative
+Cases and Uses
 * In class: Check-in 3
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/1](#) (link TBD)
-* Sentence Structures
-* Direct and Indirect Objects
+* [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
 {: .no_toc }

@@ -20,7 +20,7 @@ grand_parent: Textbook
 
 ## Cases and Uses
 
-While the **number** of a noun is self-evident (there's either one of the noun [**singular**] or more than one [**plural**]), the **case** of a noun needs more explanation. Recall that case tells us how a noun *functions* within a sentence. For example, in the following sentence:
+While the **gender** of a noun is assigned according to its dictionary entry and the **number** of a noun is self-evident (there's either one of the noun [**singular**] or more than one [**plural**]), the **case** of a noun needs more explanation. Recall that case tells us how a noun *functions* within a sentence. For example, in the following sentence:
 
 * The boy kicks the ball.
 
@@ -60,8 +60,42 @@ Take a look at the following examples, with the genitive noun and its translatio
 
 We will encounter other uses of the genitive later on.
 
-### Dative
-
 ### Accusative
 
+We'll go slightly out of order of the noun ending paradigm here to discuss the **accusative** case first, the primary use of which is to indicate that a noun is a **direct object** which receives the action of an **transitive active voice verb**. "Active voice" means that the subject of the verb performs the verb's action; "transitive" means that the verb's definition leads us to expect that action to be performed upon an object. For example:
+
+* She **sees** the road.
+* They **took** the money.
+
+Compare that against examples of **intransitive verbs**, the definitions of which do not usually lead us to expect the verb to be performed upon something:
+
+* He **slept** soundly.
+* The horse **stood** in the fields.
+
+All of this to say: you cannot have an accusative direct object without a transitive active voice verb. Note the following examples, with the **accusative direct object** in bold in each:
+
+* dux **nautās** vīdit.
+    * The leader saw **the sailors**.
+
+* pater fīliō **nōmen** dedit.
+    * The father gave **a name** to his son.
+
+### Dative
+
+Note how in that last example, two nouns get affected by the action of giving: **nōmen**, "name", and **fīliō**, "son." "Name" *directly* receives the action of giving (it is the thing that is being given), and thus, it is an accusative direct object. "Son", however, gets indirectly affected by the verb's action without receiving the action of giving directly. Thus, it is an **indirect object**, and we use the **dative** case to indicate that. 
+
+One verb that makes it easy to see the role of the indirect object, in both English and Latin, is the verb **dō, dare, dedī, datus - to give**. Latin grammarians in antiquity thought so, too: we have borrowed our term from the Latin *dativus casus*, "the case connected with giving." 
+
+In English, we can express the indirect object either by word order or with a preposition such as **"to"** or **"for"**. Note the following examples with the **dative indirect object** highlighted in bold in each:
+
+* pater **fīliō** nōmen dedit.
+    * The father gave a name **to his son**.
+    * The father gave **his son** a name.
+
+* puellae **equīs** cībum dedērunt.
+    * The girls gave food **to the horses**.
+    * The girls gave **the horses** food.
+
 ### Ablative
+
+The **ablative** case is extremely versatile and capacious, with many uses that we'll encounter throughout the course of the semester. At its core, the ablative indicates a sense of separation (the term 'ablative' derives from the Latin verb *abferō*, "to carry away"), but it can perform a variety of functions including serving as the object of prepositions and indicating the actor of a passive verb. We'll explore these uses with examples later on.
