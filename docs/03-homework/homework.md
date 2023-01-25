@@ -105,6 +105,37 @@ Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belo
 ***
 
 ## Homework 3 (Due W 2/1)
+
+### Part 1
+{: .no_toc }
+
+Each of the following prompts gives you the nominative singular of a noun in the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary). Use the Week 3 Vocabulary to decline the noun into the requested case and number. For example:
+
+puer, genitive plural  
+**puerōrum**
+
+1. caput, accusative plural
+2. nauta, dative singular
+3. taurus, nominative plural
+4. rex, genitive plural
+5. via, ablative plural
+
+### Part 2
+{: .no_toc }
+
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) again to indicate the **gender, case, and number** of the given noun form. In cases of ambiguity, give just one possible answer (you do not need to state them all). For example:
+
+puellās  
+**feminine accusative plural**
+
+1. viā
+2. nōmen
+3. filiōs
+4. arborī
+5. agricolārum
+
+***
+
 ## Homework 4 (Due R 2/2)
 ## Homework 5 (Due M 2/6)
 ## Homework 6 (Due W 2/8)

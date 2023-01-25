@@ -152,6 +152,45 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 3 (Due W 2/1)
+
+### Part 1
+{: .no_toc }
+
+1. caput, accusative plural  
+**capita**
+
+2. nauta, dative singular  
+**nautae**
+
+3. taurus, nominative plural  
+**taurī**
+
+4. rex, genitive plural  
+**regum**
+
+5. via, ablative plural  
+**viīs**
+
+### Part 2
+{: .no_toc }
+
+1. viā  
+**feminine ablative singular**
+
+2. nōmen  
+**neuter nominative singular** *or* **neuter accusative singular**
+
+3. filiōs  
+**masculine accusative plural**
+
+4. arborī  
+**feminine dative singular**
+
+5. agricolārum  
+**masculine genitive plural**
+
+***
+
 ## Homework 4 (Due R 2/2)
 ## Homework 5 (Due M 2/6)
 ## Homework 6 (Due W 2/8)
