@@ -114,8 +114,8 @@ Noun Overview
 ### Week 3 Resources
 {: .no_toc }
 
-* [Week 3 Vocabulary](/vocabulary/week-03-vocabulary)
-* [Week 3 Paradigms](#) (link TBD)
+* [Week 3 Vocabulary](../vocabulary/week-03-vocabulary)
+* [Week 3 Paradigms](../paradigms/week-03-paradigms)
 
 ***
 
