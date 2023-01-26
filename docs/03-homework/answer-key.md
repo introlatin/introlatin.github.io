@@ -192,6 +192,24 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 4 (Due R 2/2)
+
+1. puella **equō** nōmen dedit.  
+**equō** = dative, indirect object. "The girl gave a name to the horse" or "The girl gave the horse a name."
+
+2. rex aurum **nautārum** habuit.  
+**nautārum** = genitive, possession. "The king had the sailors' gold" or "The king had the gold of the sailors."
+
+3. puerī **librōs** cēpērunt.  
+**librōs** = accusative, direct object. "The boys took the books."
+
+4. **agricola** oppidum relīquit.  
+**agricola** = nominative, subject. "The farmer left the town."
+
+5. fīlius **virī** cucurrit.  
+**virī** = genitive, possession. "The son of the man ran" or "The man's son ran."
+
+***
+
 ## Homework 5 (Due M 2/6)
 ## Homework 6 (Due W 2/8)
 ## Homework 7 (Due R 2/9)

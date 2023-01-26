@@ -40,6 +40,8 @@ parent: Vocabulary
 
 * fīlius, filiī, m. - son [(Logeion entry)](https://logeion.uchicago.edu/filius)
 
+* liber, librī, m. - book [(Logeion entry)](https://logeion.uchicago.edu/liber)
+
 * mater, matris, f. - mother [(Logeion entry)](https://logeion.uchicago.edu/mater)
 
 * nauta, nautae, m. - sailor [(Logeion entry)](https://logeion.uchicago.edu/nauta)
