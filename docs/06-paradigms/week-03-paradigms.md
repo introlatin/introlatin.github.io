@@ -31,15 +31,15 @@ parent: Paradigms
 | Ablative | puell**ā** | puell**īs** |
 
 ### 2nd Declension (masc. / fem., nom. in -r)
-* Paradigm noun: puer, puerī, m. - boy
+* Paradigm noun: liber, librī, m. - book
 
 | Case | Singular | Plural |
 | --- | --- | --- |
-| Nominative | puer | puer**ī** |
-| Genitive | puer**ī** | puer**ōrum** |
-| Dative | puer**ō** | puer**īs** |
-| Accusative | puer**um** | puer**ōs** |
-| Ablative | puer**ō** | puer**īs** |
+| Nominative | liber | libr**ī** |
+| Genitive | libr**ī** | libr**ōrum** |
+| Dative | libr**ō** | libr**īs** |
+| Accusative | libr**um** | libr**ōs** |
+| Ablative | libr**ō** | libr**īs** |
 
 ### 2nd Declension (masc. / fem., nom. in -us)
 * Paradigm noun: equus, equī, m. - horse
