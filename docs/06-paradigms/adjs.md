@@ -102,3 +102,28 @@ parent: Paradigms
 | Dat. Pl. | fēlic**ibus** | fēlic**ibus** |
 | Acc. Pl. | fēlic**ēs** | fēlic**ia** |
 | Abl. Pl. | fēlic**ibus** | fēlic**ibus** |
+
+***
+
+## Comparatives
+* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
+
+| | Masc./Fem. | Neut. |
+| ----- | ----- | ----- |
+| Nom. Sg. | pulchr**ior** | pulchr**īus** |
+| Gen. Sg. | pulchr**iōris** | pulchr**iōris** |
+| Dat. Sg. | pulchr**iōrī** | pulchr**iōrī** |
+| Acc. Sg. | pulchr**iōrem** | pulchr**īus** |
+| Abl. Sg. | pulchr**iōre** | pulchr**iōre** |
+| Nom. Pl. | pulchr**iōrēs** | pulchr**iōra** |
+| Gen. Pl. | pulchr**iōrum** | pulchr**iōrum** |
+| Dat. Pl. | pulchr**iōribus** | pulchr**iōribus** |
+| Acc. Pl. | pulchr**iōrēs** | pulchr**iōra** |
+| Abl. Pl. | pulchr**iōribus** | pulchr**iōribus** |
+
+***
+
+## Superlatives (positive masc. nom. stem in -r or -l)
+* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
+
+TBD
