@@ -138,7 +138,7 @@ puellās
 
 ## Homework 4 (Due R 2/2)
 
-Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [noun paradigms](../paradigms/nouns) to identify the **case and use** of the bolded noun in each of the following sentences. Then **translate the sentence** (for which you will likely also need the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)). For example:
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. Then **translate the sentence** (for which you will likely also need the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)). For example:
 
 puer **taurum** vīdit.  
 - **taurum** = accusative, direct object. "The boy saw the bull."
@@ -153,7 +153,15 @@ puer **taurum** vīdit.
 
 ## Homework 5 (Due M 2/6)
 
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. Then **translate the sentence** (for which you will likely also need the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)).
 
+1. nautae **aquam** cēpērunt.
+2. mater et pater cībum **fīliīs** dedit.
+3. puer templum **deōrum** vīdit.
+4. vir **aurum** mīsit.
+5. **puellae** equōs agricolārum dūxērunt.
+
+***
 
 ## Homework 6 (Due W 2/8)
 ## Homework 7 (Due R 2/9)

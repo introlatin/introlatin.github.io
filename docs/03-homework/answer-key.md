@@ -204,13 +204,36 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 4. **agricola** oppidum relīquit.  
 **agricola** = nominative, subject. "The farmer left the town."
+* (Note: **oppidum** can technically be a nominative subject as well, but two considerations rule it out: first, **agricola** can only possibly be a nominative subject, and without a connecting word like **et** ("and") between the two nouns, we have only one subject; second, even if **agricola** could be a direct object [which it can't], the translation "the town left the farmer" wouldn't make a lot of sense.)
 
 5. fīlius **virī** cucurrit.  
 **virī** = genitive, possession. "The son of the man ran" or "The man's son ran."
+* (Note: **virī** can also be nominative plural, but we can rule out that possibility due to the **singular** number of the verb, and remember, a subject and verb have to agree in number.)
 
 ***
 
 ## Homework 5 (Due M 2/6)
+
+1. nautae **aquam** cēpērunt.  
+**aquam** = accusative, direct object. "The sailors took the water."
+
+2. mater et pater cībum **fīliīs** dedit.  
+**fīliīs** = dative, indirect object. "The mother and father gave food to the sons/daughters" or "The mother and father gave the sons/daughters food." 
+* (Note: **fīliīs** can come either from **fīlius, fīliī, m. - son** or **fīlia, fīliae, f. - daughter**!)
+
+3. puer templum **deōrum** vīdit.  
+**deōrum** = genitive, possession. "The boy saw the temple of the gods" or "The boy saw the gods' temple."
+
+4. vir **aurum** mīsit.  
+**aurum** = accusative, direct object. "The man sent the gold." 
+* (Note: While **aurum** can be either nominative or accusative singular [because it's a neuter noun], **vir** can only be a nominative subject, and with an active, transitive verb like **mīsit**, it makes more sense to consider **aurum** an accusative direct object.)
+
+5. **puellae** equōs agricolārum dūxērunt.  
+**puellae** = nominative, subject. "The girls led the farmers' horses" or "The girls led the horses of the farmers."
+* (Note: **puellae** can be genitive singular, dative singular, or nominative plural. The genitive option would be hard to reconcile with the other unambiguously genitive noun ["They led the horses of the girl of the farmers"??], and while the dative is technically possible ["They led the horses of the farmers *for the girl*"], it seems more straightforward to take **puellae** as a nominative subject.)
+
+***
+
 ## Homework 6 (Due W 2/8)
 ## Homework 7 (Due R 2/9)
 ## Homework 8 (Due M 2/13)
