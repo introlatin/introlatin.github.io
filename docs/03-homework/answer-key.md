@@ -193,22 +193,22 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Homework 4 (Due R 2/2)
 
-1. **puella** equō nōmen dedit.  
-**puella** = nominative, subject. "The girl gave a name to the horse" or "The girl gave the horse a name."
+1. **puella** dormīvit.  
+**puella** = nominative, subject. "The girl slept."
 
-2. rex aurum **nautārum** habuit.  
-**nautārum** = genitive, possession. "The king had the sailors' gold" or "The king had the gold of the sailors."
+2. dux **nautārum** cucurrit.  
+**nautārum** = genitive, possession. "The leader of the sailors ran" or "The sailors' leader ran."
 
-3. **puerī** librōs cēpērunt.  
-**puerī** = nominative, subject. "The boys took the books."  
-***OR***: **puerī** = genitive, possession. "They took the books of the boy" or "They took the boy's books."
+3. **puerī** vēnērunt.  
+**puerī** = nominative, subject. "The boys came."
 
-4. **dux** oppidum relīquit.  
-**dux** = nominative, subject. "The farmer left the town."
+4. **arbōrēs** agricolae stetērunt.  
+**arbōrēs** = nominative, subject. "The trees of the farmer stood" or "The farmer's trees stood."
+* **Note**: **agricolae** is translated as a genitive of possession above. It technically can also be nominative plural and thus a subject. However, in tomorrow's class, we'll learn about how the definition of **stetērunt** ("to stand") rules out **arbōrēs** being accusative plural, and since its only other possibility is nominative plural, it's more reasonable to take **arbōrēs** as our subject and **agricolae** as a genitive of possession.
 
-5. fīlius **virī** cucurrit.  
+5. fīlius **virī** fūgit.  
 **virī** = genitive, possession. "The son of the man ran" or "The man's son ran."
-* (Note: **virī** can also be nominative plural, but we can rule out that possibility due to the **singular** number of the verb, and remember, a subject and verb have to agree in number.)
+* **Note**: **virī** can also be nominative plural, but we can rule out that possibility due to the **singular** number of the verb, and remember, a subject and verb have to agree in number.
 
 ***
 

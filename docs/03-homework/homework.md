@@ -144,20 +144,16 @@ puellās
 
 ## Homework 4 (Due R 2/2)
 
-Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. You can assume that each bolded noun is either **nominative** or **genitive** case. Submit each case and use as your homework.
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. You can assume that each bolded noun is either **nominative** or **genitive** case. Then **translate each sentence**. For example:
 
-For example:
+**puer** stetit.  
+- **puer** = nominative, subject. "The boy stood."
 
-**puer** taurum vīdit.  
-- **puer** = nominative, subject.
-
-After submission, use the [answer key](answer-key/answer-key#homework-4-due-r-22) to look at translations of each sentence, as preparation for tomorrow's class (on the accusative and dative cases).
-
-1. **puella** equō nōmen dedit.
-2. rex aurum **nautārum** habuit.
-3. **puerī** librōs cēpērunt.
-4. **dux** oppidum relīquit.
-5. fīlius **virī** cucurrit.
+1. **puella** dormīvit.
+2. dux **nautārum** cucurrit.
+3. **puerī** vēnērunt.
+4. **arbōrēs** agricolae stetērunt.
+5. fīlius **virī** fūgit.
 
 [Answer key here](answer-key#homework-4-due-r-22).
 
