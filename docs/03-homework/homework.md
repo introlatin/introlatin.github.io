@@ -85,6 +85,8 @@ amāvērunt - 'they have loved'
 4. interficiō, interficere, interfēcī, interfectus - to kill
 5. audiō, audīre, audīvī / audiī, audītus - to hear
 
+[Answer key here](answer-key#homework-1-due-r-126).
+
 ***
 
 ## Homework 2 (Due M 1/30)  
@@ -101,6 +103,8 @@ Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belo
 8. gratia, gratiae, f. - favor, thanks
 9. via, viae, f. - road
 10. aurum, aurī, n. - gold
+
+[Answer key here](answer-key#homework-2-due-m-130).
 
 ***
 
@@ -134,20 +138,28 @@ puellās
 4. arborī
 5. agricolārum
 
+[Answer key here](answer-key#homework-3-due-w-21).
+
 ***
 
 ## Homework 4 (Due R 2/2)
 
-Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. Then **translate the sentence** (for which you will likely also need the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)). For example:
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. You can assume that each bolded noun is either **nominative** or **genitive** case. Submit each case and use as your homework.
 
-puer **taurum** vīdit.  
-- **taurum** = accusative, direct object. "The boy saw the bull."
+For example:
 
-1. puella **equō** nōmen dedit.
+**puer** taurum vīdit.  
+- **puer** = nominative, subject.
+
+After submission, use the [answer key](answer-key/answer-key#homework-4-due-r-22) to look at translations of each sentence, as preparation for tomorrow's class (on the accusative and dative cases).
+
+1. **puella** equō nōmen dedit.
 2. rex aurum **nautārum** habuit.
-3. puerī **librōs** cēpērunt.
-4. **agricola** oppidum relīquit.
+3. **puerī** librōs cēpērunt.
+4. **dux** oppidum relīquit.
 5. fīlius **virī** cucurrit.
+
+[Answer key here](answer-key#homework-4-due-r-22).
 
 ***
 
@@ -160,6 +172,8 @@ Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 pa
 3. puer templum **deōrum** vīdit.
 4. vir **aurum** mīsit.
 5. **puellae** equōs agricolārum dūxērunt.
+
+[Answer key here](answer-key#homework-5-due-m-26).
 
 ***
 

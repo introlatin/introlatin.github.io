@@ -137,7 +137,7 @@ Noun Endings
 
 ### Wednesday, February 1
 {: .no_toc }
-Cases and Uses
+Nominative and Genitive
 * In class: Check-in 3
 
 #### Resources and Readings
@@ -153,7 +153,7 @@ Cases and Uses
 
 ### Thursday, February 2
 {: .no_toc }
-Reading a Latin Sentence
+Accusative and Dative
 * In class: Check-in 4
 
 **NOTE: Roosevelt Montás lecture TONIGHT (R 2/2) at 5pm! Extra credit opportunity. More details in class.**
@@ -161,7 +161,7 @@ Reading a Latin Sentence
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/2](#) (link TBD)
-* Tips for Reading Latin Sentences
+* [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
 {: .no_toc }

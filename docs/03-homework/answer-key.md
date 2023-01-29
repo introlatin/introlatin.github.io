@@ -193,18 +193,18 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Homework 4 (Due R 2/2)
 
-1. puella **equō** nōmen dedit.  
-**equō** = dative, indirect object. "The girl gave a name to the horse" or "The girl gave the horse a name."
+1. **puella** equō nōmen dedit.  
+**puella** = nominative, subject. "The girl gave a name to the horse" or "The girl gave the horse a name."
 
 2. rex aurum **nautārum** habuit.  
 **nautārum** = genitive, possession. "The king had the sailors' gold" or "The king had the gold of the sailors."
 
-3. puerī **librōs** cēpērunt.  
-**librōs** = accusative, direct object. "The boys took the books."
+3. **puerī** librōs cēpērunt.  
+**puerī** = nominative, subject. "The boys took the books."  
+***OR***: **puerī** = genitive, possession. "They took the books of the boy" or "They took the boy's books."
 
-4. **agricola** oppidum relīquit.  
-**agricola** = nominative, subject. "The farmer left the town."
-* (Note: **oppidum** can technically be a nominative subject as well, but two considerations rule it out: first, **agricola** can only possibly be a nominative subject, and without a connecting word like **et** ("and") between the two nouns, we have only one subject; second, even if **agricola** could be a direct object [which it can't], the translation "the town left the farmer" wouldn't make a lot of sense.)
+4. **dux** oppidum relīquit.  
+**dux** = nominative, subject. "The farmer left the town."
 
 5. fīlius **virī** cucurrit.  
 **virī** = genitive, possession. "The son of the man ran" or "The man's son ran."
