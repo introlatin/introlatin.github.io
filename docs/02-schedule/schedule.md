@@ -142,7 +142,7 @@ Nominative and Genitive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/1](#) (link TBD)
+* [Slideshow - W 2/1](https://drive.google.com/file/d/1-Fd1Ps6rgglfn2bu17QDZ06ZfLL9AE-Q/view?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
@@ -160,7 +160,7 @@ Accusative and Dative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/2](#) (link TBD)
+* [Slideshow - R 2/2](https://drive.google.com/file/d/1-JHgrrHnSB4O9Y3HFwS02Eqwoca7O1WC/view?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class

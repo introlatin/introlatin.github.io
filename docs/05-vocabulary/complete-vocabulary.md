@@ -32,6 +32,7 @@ parent: Vocabulary
 * capiō, capere, cēpī, captus - to take, seize [(Logeion entry)](https://logeion.uchicago.edu/capio)
 * caput, capitis, n. - head [(Logeion entry)](https://logeion.uchicago.edu/caput)
 * celer, celeris, celere - swift, quick [(Logeion entry)](https://logeion.uchicago.edu/celer)
+* certāmen, certāminis, n. - contest [(Logeion entry)](https://logeion.uchicago.edu/certamen)
 * cībus, cībī, m. - food  [(Logeion entry)](https://logeion.uchicago.edu/cibus)
 * cīvis, cīvis, m./f. - citizen [(Logeion entry)](https://logeion.uchicago.edu/civis)
 * cognoscō, cognoscere, cognōvī, cognitus - to recognize, understand, perceive, learn [(Logeion entry)](https://logeion.uchicago.edu/cognosco)

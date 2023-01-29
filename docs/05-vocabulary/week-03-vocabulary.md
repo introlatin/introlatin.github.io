@@ -24,6 +24,8 @@ parent: Vocabulary
 
 * caput, capitis, n. - head [(Logeion entry)](https://logeion.uchicago.edu/caput)
 
+* certāmen, certāminis, n. - contest [(Logeion entry)](https://logeion.uchicago.edu/certamen)
+
 * cībus, cībī, m. - food  [(Logeion entry)](https://logeion.uchicago.edu/cibus)
 
 * corpus, corporis, n. - body [(Logeion entry)](https://logeion.uchicago.edu/corpus)
