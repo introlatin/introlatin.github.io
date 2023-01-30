@@ -113,7 +113,7 @@ Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belo
 ### Part 1
 {: .no_toc }
 
-Each of the following prompts gives you the nominative singular of a noun in the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary). Use the Week 3 Vocabulary to decline the noun into the requested case and number. For example:
+Each of the following prompts gives you the nominative singular of a noun in the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary). Use the Week 3 Vocabulary and the [Week 3 Paradigms](../paradigms/week-03-paradigms) to decline the noun into the requested case and number. For example:
 
 puer, genitive plural  
 **puerōrum**
@@ -127,7 +127,7 @@ puer, genitive plural
 ### Part 2
 {: .no_toc }
 
-Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) again to indicate the **gender, case, and number** of the given noun form. In cases of ambiguity, give just one possible answer (you do not need to state them all). For example:
+Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 Paradigms](../paradigms/week-03-paradigms) again to indicate the **gender, case, and number** of the given noun form. In cases of ambiguity, give just one possible answer (you do not need to state them all). For example:
 
 puellās  
 **feminine accusative plural**
