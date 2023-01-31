@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Adjectives
-permalink: /paradigms/adjectives
-nav_order: 2
+title: Week 4 Paradigms
+permalink: /paradigms/week-04-paradigms
+nav_order: 7
 parent: Paradigms
 ---
 
-# Adjectives
+# Week 4 Paradigms
 {: .no_toc }
 
 ## Table of contents
@@ -17,9 +17,11 @@ parent: Paradigms
 
 ***
 
-## 2-1-2 Adjectives
+## Adjectives
 
-### -us, -a, -um
+### 2-1-2 Adjectives
+
+#### -us, -a, -um
 * Paradigm adjective: prīmus, prīma, prīmum - first
 
 | Case and Number | Masculine | Feminine | Neuter |
@@ -35,7 +37,7 @@ parent: Paradigms
 | Acc. Pl. | prīm**ōs** | prīm**ās** | prīm**a** |
 | Abl. Pl. | prīm**īs** | prīm**īs** | prīm**īs** |
 
-### -r, -a, -um
+#### -r, -a, -um
 * Paradigm adjective: pulcher, pulchra, pulchrum - beautiful, handsome, pretty
 
 | Case and Number | Masculine | Feminine | Neuter |
@@ -51,7 +53,7 @@ parent: Paradigms
 | Acc. Pl. | pulchr**ōs** | pulchr**ās** | pulchr**a** |
 | Abl. Pl. | pulchr**īs** | pulchr**īs** | pulchr**īs** |
 
-### -īus Adjectives
+#### -īus Adjectives
 * Paradigm adjective: sōlus, sōla, sōlum - alone, sole, only
 
 | Case and Number | Masculine | Feminine | Neuter |
@@ -69,9 +71,9 @@ parent: Paradigms
 
 ***
 
-## 3rd Declension
+### 3rd Declension
 
-### Three-Termination
+#### Three-Termination
 * Paradigm adjective: celer, celeris, celere - swift
 
 | | Masc. | Fem. | Neut. |
@@ -87,7 +89,7 @@ parent: Paradigms
 | Acc. Pl. | celer**ēs** | celer**ēs** | celer**ia** |
 | Abl. Pl. | celer**ibus** | celer**ibus** | celer**ibus** |
 
-### Two-Termination
+#### Two-Termination
 * Paradigm adjective: fortis, forte - strong, brave
 
 | | Masc./Fem. | Neut. |
@@ -103,7 +105,7 @@ parent: Paradigms
 | Acc. Pl. | fort**ēs** | fort**ia** |
 | Abl. Pl. | fort**ibus** | fort**ibus** |
 
-### One-Termination
+#### One-Termination
 * Paradigm adjective: fēlix, fēlicis - lucky, fortunate
 
 | | Masc./Fem. | Neut. |
@@ -118,28 +120,3 @@ parent: Paradigms
 | Dat. Pl. | fēlic**ibus** | fēlic**ibus** |
 | Acc. Pl. | fēlic**ēs** | fēlic**ia** |
 | Abl. Pl. | fēlic**ibus** | fēlic**ibus** |
-
-***
-
-## Comparatives
-* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
-
-| | Masc./Fem. | Neut. |
-| ----- | ----- | ----- |
-| Nom. Sg. | pulchr**ior** | pulchr**īus** |
-| Gen. Sg. | pulchr**iōris** | pulchr**iōris** |
-| Dat. Sg. | pulchr**iōrī** | pulchr**iōrī** |
-| Acc. Sg. | pulchr**iōrem** | pulchr**īus** |
-| Abl. Sg. | pulchr**iōre** | pulchr**iōre** |
-| Nom. Pl. | pulchr**iōrēs** | pulchr**iōra** |
-| Gen. Pl. | pulchr**iōrum** | pulchr**iōrum** |
-| Dat. Pl. | pulchr**iōribus** | pulchr**iōribus** |
-| Acc. Pl. | pulchr**iōrēs** | pulchr**iōra** |
-| Abl. Pl. | pulchr**iōribus** | pulchr**iōribus** |
-
-***
-
-## Superlatives (positive masc. nom. stem in -r or -l)
-* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
-
-TBD

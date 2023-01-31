@@ -191,7 +191,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 2/6](#) (link TBD)
-* Adjectives
+* [2-1-2 Adjectives](../textbook/substantives/2-1-2-adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -207,7 +207,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/8](#) (link TBD)
-* Adjectives
+* [3rd Declension Adjectives](../textbook/substantives/3rd-declension-adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
