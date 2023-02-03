@@ -13,6 +13,8 @@ parent: Vocabulary
 ### 2-1-2 Adjectives
 
 * bonus
+* calidus
+* frigidus
 * magnus
 * malus
 * parvus
