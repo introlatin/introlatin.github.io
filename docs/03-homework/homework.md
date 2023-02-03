@@ -174,6 +174,45 @@ Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 pa
 ***
 
 ## Homework 6 (Due W 2/8)
+
+### Part 1
+{: .no_toc }
+
+Each of the following gives an adjective's dictionary entry, followed by a declined noun. Make the adjective match the given noun in gender, case, and number. If there is more than one option, you need only give one. (For this, you may need the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) [nouns] and [Week 3 Paradigms](../paradigms/week-03-paradigms) [nouns] in addition to the [Week 4 Vocabulary](../vocabulary/week-04-vocabulary) and [Week 4 Paradigms](../paradigms/week-04-paradigms) [adjectives].)
+
+For example:  
+bonus, bona, bonum - good -> ducibus  
+**bonīs**
+
+1. malus, mala, malum - bad, evil -> agricolārum
+2. pulcher, pulchra, pulchrum - beautiful, pretty, handsome -> oppida
+3. frigidus, frigida, frigidum - cold, cool -> aquam
+4. prīmus, prīma, prīmum - first -> filiās
+5. multus, multa, multum - (singular) much; (plural) many -> patrēs
+6. parvus, parva, parvum - small -> arbōre
+7. ultimus, ultima, ultimum - last, final -> taurōs
+8. magnus, magna, magnum - great, large, big -> corpus
+9. tōtus, tōta, tōtum - whole, entire -> oppidī (NOTE: tōtus is an -īus adjective!)
+10. bonus, bona, bonum - good -> liber
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains a 2-1-2 adjective. **Indicate the adjective; then indicate which noun the adjective modifies; and finally, translate the sentence.** For example:
+
+puella puerum bonum vīdit.  
+**bonum** modifies **puerum**; "The girl saw the good boy."
+
+You will likely need the resources linked in Part 1 above.
+
+1. agricola bonus equum duxit.
+2. fīlia matrī calidam aquam dedit.
+3. fīlia matrī bonae aquam dedit. 
+4. dux aurum laetōrum nautārum cēpit.
+5. puerī pulchrum corpus aquae vīdērunt.
+
+***
+
 ## Homework 7 (Due R 2/9)
 ## Homework 8 (Due M 2/13)
 ## Homework 9 (Due W 2/15)

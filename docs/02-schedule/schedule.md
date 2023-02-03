@@ -178,8 +178,9 @@ Accusative and Dative
 ### Week 4 Resources
 {: .no_toc }
 
-* [Week 4 Vocabulary](#) (link TBD)
-* [Week 4 Paradigms](#) (link TBD)
+* [Week 4 Vocabulary](../vocabulary/week-04-vocabulary)
+* [Week 4 Paradigms](../paradigms/week-04-paradigms)
+* [Adjective Paradigm (blank)](https://docs.google.com/spreadsheets/d/1b7QbNlWLj_bCeaLaGQhUkVMVQi0eHDutX5rrbcTB20g/edit?usp=sharing)
 
 ***
 
@@ -190,7 +191,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/6](#) (link TBD)
+* [Slideshow - M 2/6](https://docs.google.com/presentation/d/1gwEV2taNPF8detK0Unf0c58qnT5xZdlBfJ4Ys_FuoD0/edit?usp=sharing)
 * [2-1-2 Adjectives](../textbook/substantives/2-1-2-adjectives)
 
 #### HW due by start of next class
@@ -223,7 +224,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/9](#) (link TBD)
-* Sentence Structures (Linking)
+* [Linking Sentences](../textbook/substantives/linking-sentences)
 
 #### HW due by start of next class
 {: .no_toc }

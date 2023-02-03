@@ -12,46 +12,60 @@ parent: Vocabulary
 
 ### 2-1-2 Adjectives
 
-* bonus
-* calidus
-* frigidus
-* magnus
-* malus
-* parvus
-* pulcher
+* bonus, bona, bonum - good [(Logeion entry)](https://logeion.uchicago.edu/bonus)
+* calidus, calida, calidum - warm, hot [(Logeion entry)](https://logeion.uchicago.edu/calidus)
+* frigidus, frigida, frigidum - cold, cool [(Logeion entry)](https://logeion.uchicago.edu/frigidus)
+* laetus, laeta, laetum - happy [(Logeion entry)](https://logeion.uchicago.edu/laetus)
+* magnus, magna, magnum - great, large, big [(Logeion entry)](https://logeion.uchicago.edu/magnus)
+* malus, mala, malum - bad, evil [(Logeion entry)](https://logeion.uchicago.edu/malus)
+* multus, multa, multum - (singular) much; (plural) many [(Logeion entry)](https://logeion.uchicago.edu/multus)
+* parvus, parva, parvum - small [(Logeion entry)](https://logeion.uchicago.edu/parvus)
+* prīmus, prīma, prīmum - first [(Logeion entry)](https://logeion.uchicago.edu/primus)
+* pulcher, pulchra, pulchrum - beautiful, handsome, pretty [(Logeion entry)](https://logeion.uchicago.edu/pulcher)
+* ultimus, ultima, ultimum - last, final [(Logeion entry)](https://logeion.uchicago.edu/ultimus)
 
 ### 2-1-2 -īus Adjectives
 
-* alius [aliud]
-* alter
-* neuter
-* nullus
-* sōlus
-* tōtus
-* ullus
-* ūnus
-* uter
+* alius, alia, aliud - another, other; *alius ... alius* = "one ... the other"; *aliī ... aliī* = "some ... the others" [(Logeion entry)](https://logeion.uchicago.edu/alius)
+* alter, altera, alterum - the other [of two], one [of two], the other [of two] [(Logeion entry)](https://logeion.uchicago.edu/alter)
+* neuter, neutra, neutrum - neither [of two] [(Logeion entry)](https://logeion.uchicago.edu/neuter)
+* nullus, nulla, nullum - no, none [(Logeion entry)](https://logeion.uchicago.edu/nullus)
+* sōlus, sōla, sōlum - alone, only, single, sole [(Logeion entry)](https://logeion.uchicago.edu/solus)
+* tōtus, tōta, tōtum - whole, entire [(Logeion entry)](https://logeion.uchicago.edu/totus)
+* ullus, ulla, ullum - any [(Logeion entry)](https://logeion.uchicago.edu/ullus)
+* ūnus, ūna, ūnum - one [(Logeion entry)](https://logeion.uchicago.edu/unus)
+* uter, utra, utrum - either [of two], whichever [of two] [(Logeion entry)](https://logeion.uchicago.edu/uter)
 
 ### 3rd declension, 3-termination
 
-* ācer
-* celer
+* ācer, ācris, ācre - sharp, keen, fierce [(Logeion entry)](https://logeion.uchicago.edu/acer)
+* celer, celeris, celere - swift, fast, quick [(Logeion entry)](https://logeion.uchicago.edu/celer)
 
 ### 3rd declension, 2-termination
 
-* fortis
-* omnis
-* similis
+* fortis, forte - brave, strong [(Logeion entry)](https://logeion.uchicago.edu/fortis)
+* gravis, grave - heavy, serious [(Logeion entry)](https://logeion.uchicago.edu/gravis)
+* omnis, omne - (singular) each, every; (plural) all [(Logeion entry)](https://logeion.uchicago.edu/omnis)
+* similis, simile - similar [(Logeion entry)](https://logeion.uchicago.edu/similis)
+* tristis, triste - sad [(Logeion entry)](https://logeion.uchicago.edu/tristis)
 
 ### 3rd declension, 1-termination
 
-* felix
-* sapiens
-* velox
+* fēlix, fēlicis - lucky, fortunate [(Logeion entry)](https://logeion.uchicago.edu/felix)
+* sapiens, sapientis - wise [(Logeion entry)](https://logeion.uchicago.edu/sapiens)
+* velox, velōcis - swift, fast, quick [(Logeion entry)](https://logeion.uchicago.edu/velox)
+
+***
+
+## Verbs
+
+* sum, esse, fuī, futūrus - to be [(Logeion entry)](https://logeion.uchicago.edu/sum)
 
 ***
 
 ## Nouns
+
+* bellum, bellī, n. - war [(Logeion entry)](https://logeion.uchicago.edu/bellum)
 
 * dōnum, dōnī, n. - gift [(Logeion entry)](https://logeion.uchicago.edu/donum)
 
@@ -60,67 +74,3 @@ parent: Vocabulary
 ## Adverbs
 
 * nōn - not [(Logeion entry)](https://logeion.uchicago.edu/non)
-
-
-
-
-
-
-
-* ager, agrī, m. - field [(Logeion entry)](https://logeion.uchicago.edu/ager)
-
-* agricola, agricolae, m. - farmer [(Logeion entry)](https://logeion.uchicago.edu/agricola)
-
-* annus, annī, m. - year [(Logeion entry)](https://logeion.uchicago.edu/annus)
-
-* aqua, aquae, f. - water [(Logeion entry)](https://logeion.uchicago.edu/aqua)
-
-* arbor, arboris, f. - tree [(Logeion entry)](https://logeion.uchicago.edu/arbor)
-
-* aurum, aurī, n. - gold [(Logeion entry)](https://logeion.uchicago.edu/aurum)
-
-* caput, capitis, n. - head [(Logeion entry)](https://logeion.uchicago.edu/caput)
-
-* certāmen, certāminis, n. - contest [(Logeion entry)](https://logeion.uchicago.edu/certamen)
-
-* cībus, cībī, m. - food  [(Logeion entry)](https://logeion.uchicago.edu/cibus)
-
-* corpus, corporis, n. - body [(Logeion entry)](https://logeion.uchicago.edu/corpus)
-
-* deus, deī, m. - god [(Logeion entry)](https://logeion.uchicago.edu/deus)
-
-* dux, ducis, m. - leader [(Logeion entry)](https://logeion.uchicago.edu/dux)
-
-* equus, equī, m. - horse [(Logeion entry)](https://logeion.uchicago.edu/equus)
-
-* fēmina, fēminae, f. - woman [(Logeion entry)](https://logeion.uchicago.edu/femina)
-
-* fīlia, fīliae, f. - daughter [(Logeion entry)](https://logeion.uchicago.edu/filia)
-
-* fīlius, filiī, m. - son [(Logeion entry)](https://logeion.uchicago.edu/filius)
-
-* liber, librī, m. - book [(Logeion entry)](https://logeion.uchicago.edu/liber)
-
-* mater, matris, f. - mother [(Logeion entry)](https://logeion.uchicago.edu/mater)
-
-* nauta, nautae, m. - sailor [(Logeion entry)](https://logeion.uchicago.edu/nauta)
-
-* nōmen, nōminis, n. - name [(Logeion entry)](https://logeion.uchicago.edu/nomen)
-
-* oppidum, oppidī, n. - town [(Logeion entry)](https://logeion.uchicago.edu/oppidum)
-
-* pater, patris, m. - father [(Logeion entry)](https://logeion.uchicago.edu/pater)
-
-* puer, puerī, m. - boy [(Logeion entry)](https://logeion.uchicago.edu/puer)
-
-* puella, puellae, f. - girl [(Logeion entry)](https://logeion.uchicago.edu/puella)
-
-* rex, regis, m. - king [(Logeion entry)](https://logeion.uchicago.edu/rex)
-
-* taurus, taurī, m. - bull [(Logeion entry)](https://logeion.uchicago.edu/taurus)
-
-* templum, templī, n. - temple [(Logeion entry)](https://logeion.uchicago.edu/templum)
-
-* via, viae, f. - road [(Logeion entry)](https://logeion.uchicago.edu/via)
-
-* vir, virī, m. - man [(Logeion entry)](https://logeion.uchicago.edu/vir)

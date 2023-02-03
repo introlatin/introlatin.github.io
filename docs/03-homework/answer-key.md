@@ -235,6 +235,60 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 6 (Due W 2/8)
+
+### Part 1
+{: .no_toc }
+
+1. malus, mala, malum - bad, evil -> agricolārum  
+**malōrum**
+
+2. pulcher, pulchra, pulchrum - beautiful, pretty, handsome -> oppida  
+**pulchra**
+
+3. frigidus, frigida, frigidum - cold, cool -> aquam  
+**frigidam**
+
+4. prīmus, prīma, prīmum - first -> filiās  
+**prīmās**
+
+5. multus, multa, multum - (singular) much; (plural) many -> patrēs  
+**multī** ***OR*** **multōs**
+
+6. parvus, parva, parvum - small -> arbōre  
+**parvā**
+
+7. ultimus, ultima, ultimum - last, final -> taurōs  
+**ultimōs**
+
+8. magnus, magna, magnum - great, large, big -> corpus  
+**magnum**
+
+9. tōtus, tōta, tōtum - whole, entire -> oppidī    
+**tōtīus**
+
+10. bonus, bona, bonum - good -> liber  
+**bonus**
+
+### Part 2
+{: .no_toc }
+
+1. agricola bonus equum duxit.  
+**bonus** modifies **agricola**; "The good farmer led the horse."
+
+2. fīlia matrī calidam aquam dedit.  
+**calidam** modifies **aquam**; "The daughter gave the warm water to her mother" or "The daughter gave her mother the warm water."
+
+3. fīlia matrī bonae aquam dedit.  
+**bonae** modifies **matrī**; "The daughter gave the water to the good mother" or "The daughter gave the good mother the water."
+
+4. dux aurum laetōrum nautārum cēpit.  
+**laetōrum** modifies **nautārum**; "The leader took the gold of the happy sailors" or "The leader took the happy sailors' gold."
+
+5. puerī pulchrum corpus aquae vīdērunt.  
+**pulchrum** modifies **corpus**; "The boys saw the beautiful body of water."
+
+***
+
 ## Homework 7 (Due R 2/9)
 ## Homework 8 (Due M 2/13)
 ## Homework 9 (Due W 2/15)
