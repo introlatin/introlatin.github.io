@@ -207,7 +207,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/8](#) (link TBD)
+* [Slideshow - W 2/8](https://docs.google.com/presentation/d/1SwEzTwCx63QvyS3jRTW1XMchRiXLuvApmwdfqSQGGa8/edit?usp=sharing)
 * [3rd Declension Adjectives](../textbook/substantives/3rd-declension-adjectives)
 
 #### HW due by start of next class
@@ -223,14 +223,14 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/9](#) (link TBD)
+* [Slideshow - R 2/9](https://docs.google.com/presentation/d/1oOfw-8mhUtPXfB5EBhv_mWY8GhEFn60Ie17AGl1TNWs/edit?usp=sharing)
 * [Linking Sentences](../textbook/substantives/linking-sentences)
 
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 8](../homework/homework#homework-8-due-m-213)
 * Quiz 3
-* Art Museum Object and Selfie Analysis Project
+* Object Analysis Project
 
 ***
 

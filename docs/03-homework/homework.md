@@ -214,6 +214,45 @@ You will likely need the resources linked in Part 1 above.
 ***
 
 ## Homework 7 (Due R 2/9)
+
+### Part 1
+{: .no_toc }
+
+Each of the following gives an adjective's dictionary entry, followed by a declined noun. Make the adjective match the given noun in gender, case, and number. If there is more than one option, you need only give one. (For this, you may need the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) [nouns] and [Week 3 Paradigms](../paradigms/week-03-paradigms) [nouns] in addition to the [Week 4 Vocabulary](../vocabulary/week-04-vocabulary) and [Week 4 Paradigms](../paradigms/week-04-paradigms) [adjectives].)
+
+For example:  
+bonus, bona, bonum - good -> ducibus  
+**bonīs**
+
+1. sapiens, sapientis - wise -> agricolā
+2. fēlix, fēlicis - lucky, fortunate -> nōmen
+3. velox, velōcis - swift, fast, quick -> aquam
+4. tristis, triste - sad -> filiae
+5. celer, celeris, celere - swift, fast, quick -> patrum
+6. similis, simile - similar -> arbōre
+7. ācer, ācris, ācre - sharp, keen, fierce -> taurīs
+8. omnis, omne - (singular) each, every; (plural) all -> corpus
+9. fortis, forte - brave, strong -> oppidī
+10. gravis, grave - heavy, serious -> librōrum
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains a 3rd declension adjective. **Indicate the adjective; then indicate which noun the adjective modifies; and finally, translate the sentence.** For example:
+
+puella puerum fēlicem vīdit.  
+**fēlicem** modifies **puerum**; "The girl saw the lucky boy."
+
+You will likely need the resources linked in Part 1 above.
+
+1. agricola tristem equum duxit.
+2. fīlia matrī gravem aquam dedit.
+3. fīlia matrī gravī aquam dedit. 
+4. dux aurum fēlicium nautārum cēpit.
+5. puerī velox corpus aquae vīdērunt.
+
+***
+
 ## Homework 8 (Due M 2/13)
 ## Homework 9 (Due W 2/15)
 ## Homework 10 (Due R 2/16)

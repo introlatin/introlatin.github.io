@@ -290,6 +290,60 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 7 (Due R 2/9)
+
+### Part 1
+{: .no_toc }
+
+1. sapiens, sapientis - wise -> agricolā  
+**sapientī**
+
+2. fēlix, fēlicis - lucky, fortunate -> nōmen  
+**fēlix**
+
+3. velox, velōcis - swift, fast, quick -> aquam  
+**velōcem**
+
+4. tristis, triste - sad -> filiae  
+**tristī** ***or*** **tristēs**
+
+5. celer, celeris, celere - swift, fast, quick -> patrum  
+**celerium**
+
+6. similis, simile - similar -> arbōre  
+**arborī**
+
+7. ācer, ācris, ācre - sharp, keen, fierce -> taurīs  
+**ācribus**
+
+8. omnis, omne - (singular) each, every; (plural) all -> corpus  
+**omne**
+
+9. fortis, forte - brave, strong -> oppidī  
+**fortis**
+
+10. gravis, grave - heavy, serious -> librōrum  
+**gravium**
+
+### Part 2
+{: .no_toc }
+
+1. agricola tristem equum duxit.  
+**tristem** modifies **equum**; "The farmer led the sad horse."
+
+2. fīlia matrī gravem aquam dedit.  
+**gravem** modifies **aquam**; "The daughter gave the heavy water to her mother."
+
+3. fīlia matrī gravī aquam dedit.  
+**gravī** modifies **matrī**; "The daughter gave the water to her serious mother."
+
+4. dux aurum fēlicium nautārum cēpit.  
+**fēlicium** modifies **nautārum**; "The leader took the lucky sailors' gold" or "The leader took the gold of the lucky sailors."
+
+5. puerī velox corpus aquae vīdērunt.  
+**velox** modifies **corpus**; "The boys saw the swift body of water."
+
+***
+
 ## Homework 8 (Due M 2/13)
 ## Homework 9 (Due W 2/15)
 ## Homework 10 (Due R 2/16)
