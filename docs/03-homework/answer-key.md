@@ -345,6 +345,24 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 8 (Due M 2/13)
+
+1. The horses were fast.  
+**equī celerēs / velōcēs fuērunt.**
+
+2. The sailor was a leader.  
+**nauta dux fuit.**
+
+3. The war was fierce.  
+**bellum ācre fuit.**
+
+4. The girls were brave.  
+**puellae fortēs fuērunt.**
+
+5. The towns were lucky.  
+**oppida fēlicia fuērunt.**
+
+***
+
 ## Homework 9 (Due W 2/15)
 ## Homework 10 (Due R 2/16)
 ## Homework 11 (Due W 2/22)

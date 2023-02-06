@@ -254,6 +254,17 @@ You will likely need the resources linked in Part 1 above.
 ***
 
 ## Homework 8 (Due M 2/13)
+
+Translate each of the following sentences into Latin.
+
+1. The horses were fast.
+2. The sailor was a leader.
+3. The war was fierce.
+4. The girls were brave.
+5. The towns were lucky.
+
+***
+
 ## Homework 9 (Due W 2/15)
 ## Homework 10 (Due R 2/16)
 ## Homework 11 (Due W 2/22)
