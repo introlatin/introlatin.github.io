@@ -2,7 +2,7 @@
 layout: page
 title: Week 4 Vocabulary
 permalink: /vocabulary/week-04-vocabulary
-nav_order: 23
+nav_order: 3
 parent: Vocabulary
 ---
 

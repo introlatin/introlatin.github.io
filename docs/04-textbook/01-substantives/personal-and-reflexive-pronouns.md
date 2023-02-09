@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 3rd Declension Adjectives
+title: 3rd Person Personal and Reflexive Pronouns
 permalink: /textbook/substantives/personal-and-reflexive-pronouns
-nav_order: 7
+nav_order: 8
 parent: 01 - Substantives
 grand_parent: Textbook
 ---
@@ -24,7 +24,7 @@ A **pronoun** (from Latin *prō*, "in place of", + *nōmen*, "name" and the Lati
 
 * The boy saw the trees. The boy walked to the trees, and the boy sat under the trees.
 
-The repetitions of "the boy" and "the tree" make for a boring narrative. But we can substitute in various **pronouns** for the second and third appearances of each noun, with certain aspects of each pronoun making it clear that they refer back to the boy and the tree. For example:
+The repetitions of "the boy" and "the trees" make for a boring narrative. But we can substitute in various **pronouns** for the second and third appearances of each noun, with certain aspects of each pronoun making it clear that they refer back to the boy and the trees. For example:
 
 * The boy saw the trees. **He** walked to **them**, and **he** sat under **them**.
 
@@ -73,15 +73,27 @@ Because pronouns, like adjectives, need to be able to cover a variety of gender-
 | **Acc. Pl.** | eōs | eās | ea |
 | **Abl. Pl.** | eīs | eīs | eīs |
 
-While most forms seem to be built with the stem **e-** and 1st/2nd declension endings, note exceptions like **is** and **id**. In addition, note how the genitive singular and dative singular across all three genders decline like an -īus adjective (**eius** and **eī**).
+While most forms seem to be built with the stem **e-** and 1st/2nd declension endings, note exceptions like **is** and **id**. In addition, note how the genitive singular and dative singular across all three genders decline like an [-īus adjective](2-1-2-adjectives#2-1-2--īus-adjectives) (**eius** and **eī**).
 
 Recall that the pronoun has to match its antecedent in **gender** and **number**, though not necessarily case. Thus, when you're trying to find the antecedent of a pronoun, you have to be aware of all the gender and number possibilities for the nouns that come before the pronoun. For example:
 
 * puellae taurum duxērunt. mater eās vīdit.
 
-In this sentence, the pronoun **eās** refers back to some antecedent that we have to identify to get the right picture of what's happening in our heads. **eās** has to be **feminine accusative plural**, and in terms of nouns that come before **eās**, our options are **puellae** or **taurum**. Based on the nouns' genders and numbers, we can rule out **taurum** (*masculine singular*) as an antecedent for **eās** (*feminine plural*) and understand that it is the **girls** that the mother saw:
+In this sentence, the pronoun **eās** refers back to some antecedent that we have to identify to get the right picture of what's happening in our heads. **eās** has to be **feminine accusative plural**, and in terms of nouns that come in the sentence before the one that contains **eās**, our options are **puellae** or **taurum**. Based on the nouns' genders and numbers, we can rule out **taurum** (*masculine singular*) as an antecedent for **eās** (*feminine plural*) and understand that it is the **girls** that the mother saw:
 
 * The girls led the bull. The mother saw **them** [meaning 'the girls'].
+
+Because a conjugated verb indicates the **subject** of the verb via its ending, we often do not see the **nominative** forms of the personal pronoun used except to emphasize a subject or help us disambiguate/differentiate between different subjects. For example:
+
+* bonum fēcit. "She did a good thing."
+* **ea** bonum fēcit, sed **is** malum fēcit. "*She* did a good thing, but *he* did a bad thing."
+
+For the **genitive** forms of the pronoun, note that you can also translate them as possessive adjectives to make your sentence more idiomatically sound. Here are some examples:
+
+* equī **eōrum** cucurrērunt. Literally, "The horses **of them** ran", but better "**Their** horses ran."
+* puella nōmen **eius** audīvit. Literally, "The girl heard the name **of him**" [if **eius** is masculine nominative singular], but better "The girl heard **his** name."
+
+Note that in the second example, **eius** can be feminine singular, but it *cannot* refer back to the subject **puella**, to yield a translation like "The girl heard her own name." This is because there is a special type of pronoun/adjective that refers back to the subject: the **reflxive**.
 
 ***
 
@@ -94,28 +106,43 @@ Another type of pronoun that is related to the person of a verb is the **reflexi
 - I gave a present to *myself*.
 - They helped *themselves*.
 
-For first and second person pronouns in Latin, the form of the reflexive pronoun is the *same* as the personal pronoun. You can find the charts for [1st and 2nd person reflexive pronouns here](../../reference/pronouns-paradigms/#reflexive). Below are some examples:
+While the first three examples indicate examples of 1st or 2nd person reflexives ("myself", "yourself"), the last shows an example of the **3rd person reflexive pronoun** ("themselves", plural; singular examples include "himself", "herself", "itself", or "themselves" [when singular]). Like the personal pronoun, the reflexive pronoun also has a **gender**, **case**, and **number**, but its possible forms are limited in number and cover a wide variety of combinations:
 
-- *mē* amō. ("I love *myself*.")
-- *tē* amās. ("You love *yourself*.")
-- *vōbīs* donum datis. ("You all are giving a gift *to yourselves".)
-- *nōs* īuvāmus. ("We help ourselves.")
+| | **Masculine / Feminine / Neuter** |
+| --- | --- |
+| **Nom. Sg./Pl.** | -- |
+| **Gen. Sg./Pl.** | suī |
+| **Dat. Sg./Pl.** | sibi |
+| **Acc. Sg./Pl.** | sē |
+| **Abl. Sg./Pl.** | sē |
 
-Note how the **person of the verb** and the **person of the pronoun** match, which makes the pronoun a reflexive rather than just a personal pronoun. For example:
+The reflexive does not have a nominative form by necessity because all forms of the reflexive refer back to the subject. In the oblique (i.e., non-nominative) cases, however, there is only one form per case to cover all gender and number possibilities. This means that when you see a form of the 3rd person reflexive in your sentence, you will need to use the **subject** to translate the reflexive correctly. Note the following examples which all use the form **sē** as an accusative direct object:
 
-- *mē* amō. I love *myself.* (1st person verb, 1st person pronoun = reflexive)
-- *mē* amās. You love *me.* (2nd person verb, 1st person pronoun = personal)
+* puer **sē** vīdit. "The boy saw **himself**."
+* puerī **sē** vīdērunt. "The boys saw **themselves**."
+* puella **sē** vīdit. "The girl saw **herself**."
+* puellae **sē** vīdērunt. "The girls saw **themselves**."
+* equus **sē** vīdit. "The horse saw **itself**." (or, if you ascribe gender to the horse) "The horse saw **himself**."
 
-Things get a little trickier in the case of the third person pronoun. While there is no ambiguity in first and second pronouns (that is, "I"/"me" and "you" are always self-explanatory), there can be ambiguity in the third person pronoun (there are lots of possible hims and hers). As a result, Latin, like English, differentiates between the regular pronoun (*is, ea, id*) and the reflexive (*suī* = genitive, *sibi* = dative, *sē* = accusative, *sē* = ablative). Here is the [third person reflexive pronoun](../../reference/pronouns-paradigms/#3rd-person-himself-herself-itself-themselves) in paradigm form, and here are some examples of the differences between using *is, ea, id* and *suī, sibi, sē, sē*:
+As you can see, the proper translation of the reflexive depends wholly on the subject. Even the same form **sē** has a variety of different possible translations because of the fact that it's capacious enough to refer back to subjects of all different genders and numbers.
 
-- Amat eam. ("She loves her.")
-- Amat sē. ("She loves herself.")
-- Donum eī dat. ("He gives a gift to him" (i.e., a person other than himself))
-- Donum sibi dat. ("He gives a gift to himself.")
+Note the differences between using a 3rd person **personal pronoun** and a 3rd person **reflexive pronoun**:
 
-Note the differences here. When you use *is, ea, id*, you are referring to someone *other than* the subject. So, in "*amat eam*", the subject "she" is not the same person as the direct object "her." By using the reflexive in the second sentence, though, you make it clear that the direct object "herself" *is the same person as* the subject "she."
+- amāvit **eam**. ("She loves **her**.")
+- amāvit **sē**. ("She loves **herself**.")
+- Donum **eī** dat. ("He gives a gift **to him**" (i.e., a person other than himself))
+- Donum **sibi** dat. ("He gives a gift **to himself**.")
 
-Interestingly, the same forms are used for both the **singular** and **plural** 3rd person reflexive pronoun. This is because all reflexives refer back to their subject, and thus, there is no ambiguity between singular and plural.
+Note the differences here. When you use *is, ea, id*, you are referring to someone *other than* the subject. So, in "*amāvit eam*", the subject "she" is not the same person as the direct object "her." By using the reflexive in the second sentence, though, you make it clear that the direct object "herself" *is the same person as* the subject "she."
 
-- Amat sē. ("She loves herself.")
-- Amant sē. ("They love themselves.")
+It is worth noting that the **genitive** of the reflexive pronoun is generally **not** used to indicate possession (there are other uses of the genitive that we will encounter later). In order to do that, we need to use a **3rd person reflexive adjective: suus, sua, suum - "[his/her/its/their] own"**. Note the following examples:
+
+* puer **librum suum** habuit. "The boy had **his own** book."
+* puella **librum suum** habuit. "The girl had **her own** book."
+
+Note that the adjective **suus, sua, suum** matches its noun, **librum**, in **gender, case, and number** (masculine accusative singular) in both examples. However, the *translation* in each example is different because the *subject* to which the reflexive adjective refers is different: boy versus girl. So, let's revisit the last example in the personal pronouns section above, but this time interpreting **eius** as feminine genitive singular:
+
+* puella nōmen **eius** audīvit. "The girl heard **her** name."
+* puella nōmen **suum** audīvit. "The girl heard **her own** name."
+
+In these examples, the use of **eius** means that the name belongs to someone *other than* the **puella**. The use of **suum**, on the other hand, means that the subject, **puella**, is the one who posseses that name.

@@ -239,8 +239,8 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 ### Week 5 Resources
 {: .no_toc }
 
-* [Week 5 Vocabulary](#) (link TBD)
-* [Week 5 Paradigms](#) (link TBD)
+* [Week 5 Vocabulary](../vocabulary/week-05-vocabulary)
+* [Week 5 Paradigms](../paradigms/week-05-paradigms)
 
 ***
 
@@ -252,8 +252,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 2/13](#) (link TBD)
-* Pronouns
-* Reflexive Pronouns
+* [3rd Person Personal and Reflexive Pronouns](../textbook/substantives/personal-and-reflexive-pronouns)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -263,13 +262,13 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 ### Wednesday, February 15
 {: .no_toc }
-Demonstrative Pronouns/Pronominal Adjectives
+Demonstratives and Intensives
 * In class: Check-in 9
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/15](#) (link TBD)
-* Pronouns
+* Demonstratives and Intensives
 
 #### HW due by start of next class
 {: .no_toc }
@@ -279,7 +278,7 @@ Demonstrative Pronouns/Pronominal Adjectives
 
 ### Thursday, February 16
 {: .no_toc }
-Intensives and Prepositions
+Prepositions
 * In class: Check-in 10
 
 #### Resources and Readings
