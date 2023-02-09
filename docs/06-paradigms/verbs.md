@@ -375,12 +375,12 @@ parent: Paradigms
 
 |       | Imperfect Active Indicative | Imperfect Active Subjunctive | Future Active Indicative |
 | --- | --- | --- | --- |
-| 1st sg.    | volēbam | nōlēbam | mālēbam |
-| 2nd sg.   | volēbās | nōlēbās | mālēbās |
-| 3rd sg.   | volēbat | nōlēbat | mālēbat |
-| 1st pl.   | volēbāmus | nōlēbāmus | mālēbāmus |
-| 2nd pl.   | volēbātis | nōlēbātis | mālēbātis |
-| 3rd pl.   | volēbant | nōlēbant | mālēbant |
+| 1st sg.    | volēbam | vellem | volam |
+| 2nd sg.   | volēbās | vellēs | volēs |
+| 3rd sg.   | volēbat | vellet | volet |
+| 1st pl.   | volēbāmus | vellēmus | volēmus |
+| 2nd pl.   | volēbātis | vellētis | volētis |
+| 3rd pl.   | volēbant | vellent | volent |
 
 ## Infinitives
 * Paradigm verbs: amō, videō, regō, capiō, audiō
