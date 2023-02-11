@@ -92,6 +92,7 @@ parent: Vocabulary
 * horribilis, horribile - horrible, terrible [(Logeion entry)](https://logeion.uchicago.edu/horribilis)
 * hostis, hostis, m. - enemy [(Logeion entry)](https://logeion.uchicago.edu/hostis)
 
+* ignis, ignis, m. - fire [(Logeion entry)](https://logeion.uchicago.edu/ignis)
 * ille, illa, illud - (demonstrative pronoun/adjective) that, those; the famous _____; (when used with hic) the former [(Logeion entry)](https://logeion.uchicago.edu/ille)
 * in - (+ abl.) in, on; (+ acc.) into [(Logeion entry)](https://logeion.uchicago.edu/in)
 * inter - (+ acc.) among, between [(Logeion entry)](https://logeion.uchicago.edu/inter)
@@ -106,16 +107,20 @@ parent: Vocabulary
 * līber, lībera, līberum - free [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * liber, librī, m. - book [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * licet - (impersonal verb) it is allowed; (conjunction + pres. or perf. subjunctive) although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/licet)
+* lux, lucis, f. - light, daylight [(Logeion entry)](https://logeion.uchicago.edu/lux)
 
 * magnus, magna, magnum - large, great, big [(Logeion entry)](https://logeion.uchicago.edu/magnus)
 * malus, mala, malum - bad, evil [(Logeion entry)](https://logeion.uchicago.edu/malus)
 * manus, manūs, f. - hand; armed force (of soldiers) [(Logeion entry)](https://logeion.uchicago.edu/manus)
 * mare, maris, n. - sea [(Logeion entry)](https://logeion.uchicago.edu/mare)
+* maritus, maritī, m. - husband [(Logeion entry)](https://logeion.uchicago.edu/maritus)
 * mater, matris, f. - mother [(Logeion entry)](https://logeion.uchicago.edu/mater)
+* mensa, mensae, f. - table [(Logeion entry)](https://logeion.uchicago.edu/mensa)
 * mensis, mensis, f. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
 * mīles, mīlitis, m. - soldier [(Logeion entry)](https://logeion.uchicago.edu/miles)
 * mittō, mittere, mīsī, missus - to send [(Logeion entry)](https://logeion.uchicago.edu/mitto)
 * moneō, monēre, monuī, monitus - to warn, advise [(Logeion entry)](https://logeion.uchicago.edu/moneo)
+* monstrum, monstrī, n. - monster [(Logeion entry)](https://logeion.uchicago.edu/monstrum)
 * mortalis, mortale - mortal [(Logeion entry)](https://logeion.uchicago.edu/mortalis)
 * multus, multa, multum - (singular) much; (plural) many [(Logeion entry)](https://logeion.uchicago.edu/multus)
 
@@ -133,6 +138,7 @@ parent: Vocabulary
 * nullus, nulla, nullum - no, none [(Logeion entry)](https://logeion.uchicago.edu/nullus)
 * nuntiō, nuntiāre, nuntiāvī, nuntiātus - to announce, report [(Logeion entry)](https://logeion.uchicago.edu/nuntio)
 
+* ob - (+ acc.) because of [(Logeion entry)](https://logeion.uchicago.edu/ob)
 * omnis, omne - (singular) each, every; (plural) all [(Logeion entry)](https://logeion.uchicago.edu/omnis)
 * oppidum, oppidī, n. - town [(Logeion entry)](https://logeion.uchicago.edu/oppidum)
 
@@ -141,6 +147,8 @@ parent: Vocabulary
 * pecunia, pecuniae, f. - money [(Logeion entry)](https://logeion.uchicago.edu/pecunia)
 * per - (+ acc.) through, during, by [(Logeion entry)](https://logeion.uchicago.edu/per)
 * periculum, periculī, n. - danger [(Logeion entry)](https://logeion.uchicago.edu/periculum)
+* ponō, ponere, posuī, positus - to put, place [(Logeion entry)](https://logeion.uchicago.edu/pono)
+* pons, pontis, m. - bridge [(Logeion entry)](https://logeion.uchicago.edu/pons)
 * populus, populī, m. - people [(Logeion entry)](https://logeion.uchicago.edu/populus)
 * possum, posse, potuī, — - to be able to, can (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/possum)
 * post - (+ acc.) after [(Logeion entry)](https://logeion.uchicago.edu/post)
@@ -169,6 +177,7 @@ parent: Vocabulary
 * sciō, scīre, scīvī, scītus - to know [(Logeion entry)](https://logeion.uchicago.edu/scio)
 * scrībo, scrībere, scripsī, scriptus - to write [(Logeion entry)](https://logeion.uchicago.edu/scribo)
 * sed - but [(Logeion entry)](https://logeion.uchicago.edu/sed)
+* sedeō, sedēre, sēdī, sessus - to sit [(Logeion entry)](https://logeion.uchicago.edu/sedeo)
 * sī - if [(Logeion entry)](https://logeion.uchicago.edu/si)
 * sīc (adverb) - thus, in such a way [(Logeion entry)](https://logeion.uchicago.edu/sic)
 * similis, simile - similar [(Logeion entry)](https://logeion.uchicago.edu/similis)
@@ -179,6 +188,7 @@ parent: Vocabulary
 * sub - (+ abl.) under [(Logeion entry)](https://logeion.uchicago.edu/sub)
 * --, suī, sibi, sē, sē - (3rd person reflexive pronoun) himself, herself, itself, themselves [(Logeion entry)](https://logeion.uchicago.edu/sui)
 * sum, esse, fui, futūrus - to be; (3rd singular) there is/was; (3rd plural) there are/were [(Logeion entry)](https://logeion.uchicago.edu/sum)
+* surgō, surgere, surrexī, surrectus - to wake up [(Logeion entry)](https://logeion.uchicago.edu/surgo)
 * suus, sua, suum - [his/her/its/their] own [(Logeion entry)](https://logeion.uchicago.edu/suus)
 
 * talis, tale - such [(Logeion entry)](https://logeion.uchicago.edu/talis)
@@ -191,6 +201,7 @@ parent: Vocabulary
 * teneō, tenēre, tenuī, tentus - to hold [(Logeion entry)](https://logeion.uchicago.edu/teneo)
 * terreō, terrēre, terruī, territus - to frighten, alarm, terrify [(Logeion entry)](https://logeion.uchicago.edu/terreo)
 * tōtus, tōta, tōtum - whole, entire [(Logeion entry)](https://logeion.uchicago.edu/totus)
+* trans - (+ acc.) across, through [(Logeion entry)](https://logeion.uchicago.edu/trans)
 * tristis, triste - sad [(Logeion entry)](https://logeion.uchicago.edu/tristis)
 
 * ubi - where, when [(Logeion entry)](https://logeion.uchicago.edu/ubi)
@@ -201,6 +212,7 @@ parent: Vocabulary
 * ut - (+ subj. [purpose]) so that, in order that, in order to, so as to [(Logeion entry)](https://logeion.uchicago.edu/ut)
 * uter, utra, utrum - either [of two], whichever [of two] [(Logeion entry)](https://logeion.uchicago.edu/uter)
 * utinam - if only, would that, I wish that… [(Logeion entry)](https://logeion.uchicago.edu/utinam)
+* uxor, uxōris, f. - wife [(Logeion entry)](https://logeion.uchicago.edu/uxor)
 
 * velox, velocis - swift, quick [(Logeion entry)](https://logeion.uchicago.edu/velox)
 * veniō, venīre, vēnī, ventus - to come [(Logeion entry)](https://logeion.uchicago.edu/venio)

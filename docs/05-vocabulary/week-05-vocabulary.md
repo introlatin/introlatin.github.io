@@ -48,8 +48,10 @@ parent: Vocabulary
 * ad - (+ acc.) to, towards, for, at [(Logeion entry)](https://logeion.uchicago.edu/ad)
 * ante (+ acc.) before [(Logeion entry)](https://logeion.uchicago.edu/ante)
 * inter - (+ acc.) among, between [(Logeion entry)](https://logeion.uchicago.edu/inter)
+* ob - (+ acc.) because of [(Logeion entry)](https://logeion.uchicago.edu/ob)
 * per - (+ acc.) through, during, by [(Logeion entry)](https://logeion.uchicago.edu/per)
 * post - (+ acc.) after [(Logeion entry)](https://logeion.uchicago.edu/post)
+* trans - (+ acc.) across, through [(Logeion entry)](https://logeion.uchicago.edu/trans)
 
 **
 
@@ -63,5 +65,23 @@ parent: Vocabulary
 
 * annus, annī, m. - year [(Logeion entry)](https://logeion.uchicago.edu/annus) [previously appeared in Week 3 Vocabulary]
 * hora, horae, f. - hour [(Logeion entry)](https://logeion.uchicago.edu/hora)
+* ignis, ignis, m. - fire [(Logeion entry)](https://logeion.uchicago.edu/ignis)
+* lux, lucis, f. - light, daylight [(Logeion entry)](https://logeion.uchicago.edu/lux)
+* maritus, maritī, m. - husband [(Logeion entry)](https://logeion.uchicago.edu/maritus)
+* mensa, mensae, f. - table [(Logeion entry)](https://logeion.uchicago.edu/mensa)
 * mensis, mensis, f. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
+* monstrum, monstrī, n. - monster [(Logeion entry)](https://logeion.uchicago.edu/monstrum)
+* nox, noctis, f. - night [(Logeion entry)](https://logeion.uchicago.edu/nox)
+* pons, pontis, m. - bridge [(Logeion entry)](https://logeion.uchicago.edu/pons)
+* populus, populī, m. - people [(Logeion entry)](https://logeion.uchicago.edu/populus)
 * tempus, temporis, n. - time [(Logeion entry)](https://logeion.uchicago.edu/tempus)
+* uxor, uxōris, f. - wife [(Logeion entry)](https://logeion.uchicago.edu/uxor)
+* verbum, verbī, n. - word [(Logeion entry)](https://logeion.uchicago.edu/verbum)
+
+**
+
+## Verbs
+
+* ponō, ponere, posuī, positus - to put, place [(Logeion entry)](https://logeion.uchicago.edu/pono)
+* sedeō, sedēre, sēdī, sessus - to sit [(Logeion entry)](https://logeion.uchicago.edu/sedeo)
+* surgō, surgere, surrexī, surrectus - to wake up [(Logeion entry)](https://logeion.uchicago.edu/surgo)

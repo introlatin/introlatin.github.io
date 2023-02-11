@@ -288,6 +288,7 @@ Prepositions
 
 #### HW due by start of next class
 {: .no_toc }
+* OPTIONAL: [Homework 10.5](../homework/homework#homework-10.5) [This is for you to get practice with the topics of prepositions and expressions of place and time before the exam and get feedback via the answer key; there is no submission for this on Blackboard and it does not count for the semester grade.]
 * Exam 1
 
 ***

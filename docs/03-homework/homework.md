@@ -211,6 +211,8 @@ You will likely need the resources linked in Part 1 above.
 4. dux aurum laetōrum nautārum cēpit.
 5. puerī pulchrum corpus aquae vīdērunt.
 
+[Answer key here](answer-key#homework-6-due-w-28).
+
 ***
 
 ## Homework 7 (Due R 2/9)
@@ -251,6 +253,8 @@ You will likely need the resources linked in Part 1 above.
 4. dux aurum fēlicium nautārum cēpit.
 5. puerī velox corpus aquae vīdērunt.
 
+[Answer key here](answer-key#homework-7-due-r-29).
+
 ***
 
 ## Homework 8 (Due M 2/13)
@@ -263,10 +267,92 @@ Translate each of the following sentences into Latin.
 4. The girls were brave.
 5. The towns were lucky.
 
+[Answer key here](answer-key#homework-8-due-m-213).
+
 ***
 
 ## Homework 9 (Due W 2/15)
+
+### Part 1
+{: .no_toc }
+
+Use the [Week 5 Vocabulary](../vocabulary/week-05-vocabulary) and [Week 5 Paradigms](../paradigms/week-05-paradigms) to **replace the bolded noun with an appropriate form of is, ea, id**. For example:
+
+puella **taurōs** duxit.  
+**eōs**
+
+1. dux **nautārum** dormīvit.
+2. puer parvus **arbōrem** vīdit.
+3. pater omnia **matrī** dedit.
+4. **agricolae** multa fēcērunt.
+5. agricolae **oppidum** relīquērunt.
+
+### Part 2
+{: no_toc }
+
+Each sentence contains a form of **is, ea, id**; **suī, sibi, sē, sē**; or the reflexive adjective **suus, sua, suum**. **Identify the form, indicate whether it is personal or reflexive, and then translate the sentence.** For example:
+
+puer sē vīdit.  
+**sē - reflexive - "The boy saw himself."**
+
+1. fīliae dōna eī dedērunt.
+2. fīliae dōna sibi dedērunt.
+3. fīlius dōna sibi dedit.
+3. vir uxōrem suam amāvit.
+4. vir uxōrem eius amāvit.
+
+[Answer key here](answer-key#homework-9-due-w-215).
+
+***
+
 ## Homework 10 (Due R 2/16)
+
+### Part 1
+{: .no_toc }
+
+Each of the following sentences uses a **demonstrative pronoun or adjective**. Indicate the demonstrative; give its gender, case, and number; and translate the sentence. For example:
+
+agricola hoc oppidum vīdit.  
+**hoc - neuter accusative singular - "The farmer saw this town."**
+
+1. pater verba huius fīliī audīvit.
+2. mater omnia fīliae illī dedit.
+3. puella hunc taurum amāvit.
+4. dux illōs mīsit.
+5. nauta hoc nōmen nōn audīvit.
+
+### Part 2
+{: .no_toc }
+
+Translate each of the following sentences from English into Latin, making sure to use the correct version of the pronoun/adjective.
+
+1. The farmers saw themselves.
+2. The farmers saw the horses themselves.
+3. The girl led that bull.
+4. The girl led this bull.
+5. The woman did good things, but the man did bad things. The former slept, and the latter left the town.
+
+[Answer key here](answer-key#homework-10-due-r-216).
+
+***
+
+## Homework 10.5
+
+**NOTE**: This is a practice homework assignment for your own personal edification to practice with prepositions and expressions of space and time and get instant feedback via the answer key. This is not a submittable assignment on Blackboard and it will not count towards your semester grade.
+
+Translate each of the following sentences using the [Week 5 Vocabulary](../vocabulary/week-05-vocabulary). Keep in mind that there will be expressions of space and expressions of time amongst the following.
+
+1. equī ex agrīs cucurrērunt.
+2. equī ūnām hōram cucurrērunt.
+3. equī ad agrōs cucurrērunt.
+4. vir malum ducem hāc nocte interfēcit.
+5. vir malum ducem prō templō interfēcit.
+6. vir malum ducem ultimā hōrā interfēcit.
+
+[Answer key here](answer-key#homework-10.5).
+
+***
+
 ## Homework 11 (Due W 2/22)
 ## Homework 12 (Due R 2/23)
 ## Homework 13 (Due M 2/27)

@@ -364,7 +364,113 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 9 (Due W 2/15)
+
+### Part 1
+{: .no_toc }
+
+1. dux **nautārum** dormīvit.  
+**eōrum**
+
+2. puer parvus **arbōrem** vīdit.  
+**eam**
+
+3. pater omnia **matrī** dedit.  
+**eī**
+
+4. **agricolae** multa fēcērunt.  
+**eī** or **iī**
+
+5. agricolae **oppidum** relīquērunt.  
+**id**
+
+### Part 2
+{: .no_toc }
+
+1. fīliae dōna eī dedērunt.  
+**eī - personal - "The daughters gave gifts to him/her/it/them [singular]."**
+
+2. fīliae dōna sibi dedērunt.  
+**sibi - reflexive - "The daughters gave gifts to themselves."**
+
+3. fīlius dōna sibi dedit.  
+**sibi - reflexive - "The son gave gifts to himself."**
+
+4. vir uxōrem suam amāvit.  
+**suam - reflexive - "The man loved his own wife."**
+
+5. vir uxōrem eius amāvit.  
+**eius - personal - "The man loved his [i.e., someone else's!] wife."**
+
+***
+
 ## Homework 10 (Due R 2/16)
+
+### Part 1
+{: .no_toc }
+
+1. pater verba huius fīliī audīvit.  
+**huius - masculine genitive singular - "The father heard the words of this son."**
+
+2. mater omnia fīliae illī dedit.  
+**illī - feminine dative singular - "The mother gave everything to that daughter."**
+
+3. puella hunc taurum amāvit.  
+**hunc - masculine accusative singular - "The girl loved this bull."**
+
+4. dux illōs mīsit.  
+**illōs - masculine accusative plural - "The leader sent those men" or "The leader sent those people."**
+
+5. nauta hoc nōmen nōn audīvit.  
+**hoc - neuter accusative singular - "The sailor did not hear this name."**
+
+### Part 2
+{: .no_toc }
+
+1. The farmers saw themselves.  
+**agricolae sē vīdērunt.**
+
+2. The farmers saw the horses themselves.  
+**agricolae equōs ipsōs vīdērunt.**
+
+3. The girl led that bull.  
+**puella illum taurum duxit.**
+
+4. The girl led this bull.  
+**puella hunc taurum duxit.**
+
+5. The woman did good things, but the man did bad things. The former slept, and the latter left the town.  
+**fēmina bona fēcit, sed vir mala fēcit. illa dormīvit, et hic oppidum relīquit.**
+
+***
+
+## Homework 10.5
+
+**NOTE**: This is a practice homework assignment for your own personal edification to practice with prepositions and expressions of space and time and get instant feedback via the answer key. This is not a submittable assignment on Blackboard and it will not count towards your semester grade.
+
+1. equī ex agrīs cucurrērunt.  
+**The horses ran out of the fields.** [ablative of place from which / motion away from]
+
+2. equī ūnām hōram cucurrērunt.  
+**The horses ran for one hour.** [accusative of extent of time]
+
+3. equī ad agrōs cucurrērunt.  
+**The horses ran towards the fields.** [accusative of place to which / motion toward]
+
+4. vir malum ducem prīmīs mensibus interfēcit.  
+**The man killed the bad leader within the first months.** [ablative of time within which]
+
+* Note: While **prīmīs mensibus** can technically be an ablative of time when, keep in mind that the ablative of time when pinpoints a *specific* point in time at which the verbal action occurs. With a plural time word like **mensibus** and the length of time that it indicates, it makes more sense to take it here as an ablative of time within which.
+
+5. vir malum ducem prō templō interfēcit.  
+**The man killed the bad leader in front of the temple.** [ablative of place in which / place where]
+
+6. vir malum ducem ultimā hōrā interfēcit.  
+**The man killed the bad leader within the last hour.** [if **ultimā hōrā** is ablative of time within which]; ***or*** **The man killed the bad leader at the last hour.** [if **ultimā hōrā** is ablative of time when]
+
+* Note: While "hour" can indicate a range of time [and thus ablative of time within which is a legitimate interpretation], if you zoom out your timeline, you can consider an hour basically just one point on a timeline that spans months or years; thus, ablative of time when is also a legitimate interpretation, emphasizing that this was one action at one point in a long timeline.
+
+***
+
 ## Homework 11 (Due W 2/22)
 ## Homework 12 (Due R 2/23)
 ## Homework 13 (Due M 2/27)
