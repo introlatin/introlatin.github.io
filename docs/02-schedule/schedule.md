@@ -268,7 +268,7 @@ Demonstratives and Intensives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/15](#) (link TBD)
-* Demonstratives and Intensives
+* [Demonstratives and Intensives](../textbook/substantives/demonstratives-and-intensives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -284,12 +284,12 @@ Prepositions
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/16](#) (link TBD)
-* Prepositions and Expressions of Place and Time
+* [Prepositions and Expressions of Place and Time](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
 {: .no_toc }
 * OPTIONAL: [Homework 105](../homework/homework#homework-105)
-    * [This is for you to get practice with the topics of prepositions and expressions of place and time before the exam and get feedback via the answer key; there is no submission for this on Blackboard and it does not count for the semester grade.]
+    * [This is for you to get practice with the topics of prepositions and expressions of place and time before the exam and get feedback via the answer key; there is no submission for this on Blackboard and it does not count for the semester grade. Note, though, that there will be an in-class check-in on these topics next Tuesday, 2/21.]
 * Exam 1
 
 ***
