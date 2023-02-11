@@ -288,7 +288,7 @@ puella **taurōs** duxit.
 5. agricolae **oppidum** relīquērunt.
 
 ### Part 2
-{: no_toc }
+{: .no_toc }
 
 Each sentence contains a form of **is, ea, id**; **suī, sibi, sē, sē**; or the reflexive adjective **suus, sua, suum**. **Identify the form, indicate whether it is personal or reflexive, and then translate the sentence.** For example:
 
@@ -349,7 +349,7 @@ Translate each of the following sentences using the [Week 5 Vocabulary](../vocab
 5. vir malum ducem prō templō interfēcit.
 6. vir malum ducem ultimā hōrā interfēcit.
 
-[Answer key here](answer-key#homework-10.5).
+[Answer key here](answer-key#homework-105).
 
 ***
 
