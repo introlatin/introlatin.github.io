@@ -61,6 +61,7 @@ parent: Vocabulary
 
 ## Nouns
 
-* hora, horae, f. - hour [(Logeion entry)](https://logeion.uchicago.edu/hora)
-* tempus, temporis, n. - time [(Logeion entry)](https://logeion.uchicago.edu/tempus)
 * annus, annī, m. - year [(Logeion entry)](https://logeion.uchicago.edu/annus) [previously appeared in Week 3 Vocabulary]
+* hora, horae, f. - hour [(Logeion entry)](https://logeion.uchicago.edu/hora)
+* mensis, mensis, f. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
+* tempus, temporis, n. - time [(Logeion entry)](https://logeion.uchicago.edu/tempus)

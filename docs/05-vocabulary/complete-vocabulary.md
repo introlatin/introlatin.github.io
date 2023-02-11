@@ -112,6 +112,7 @@ parent: Vocabulary
 * manus, manūs, f. - hand; armed force (of soldiers) [(Logeion entry)](https://logeion.uchicago.edu/manus)
 * mare, maris, n. - sea [(Logeion entry)](https://logeion.uchicago.edu/mare)
 * mater, matris, f. - mother [(Logeion entry)](https://logeion.uchicago.edu/mater)
+* mensis, mensis, f. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
 * mīles, mīlitis, m. - soldier [(Logeion entry)](https://logeion.uchicago.edu/miles)
 * mittō, mittere, mīsī, missus - to send [(Logeion entry)](https://logeion.uchicago.edu/mitto)
 * moneō, monēre, monuī, monitus - to warn, advise [(Logeion entry)](https://logeion.uchicago.edu/moneo)
