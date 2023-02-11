@@ -459,7 +459,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 4. vir malum ducem prīmīs mensibus interfēcit.  
 **The man killed the bad leader within the first months.** [ablative of time within which]
 
-* Note: While **prīmīs mensibus** can technically be an ablative of time when, keep in mind that the ablative of time when pinpoints a *specific* point in time at which the verbal action occurs. With a plural time word like **mensibus** and the length of time that it indicates, it makes more sense to take it here as an ablative of time within which.
+    * Note: While **prīmīs mensibus** can technically be an ablative of time when, keep in mind that the ablative of time when pinpoints a *specific* point in time at which the verbal action occurs. With a plural time word like **mensibus** and the length of time that it indicates, it makes more sense to take it here as an ablative of time within which.
 
 5. vir malum ducem prō templō interfēcit.  
 **The man killed the bad leader in front of the temple.** [ablative of place in which / place where]
@@ -467,7 +467,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 6. vir malum ducem ultimā hōrā interfēcit.  
 **The man killed the bad leader within the last hour.** [if **ultimā hōrā** is ablative of time within which]; ***or*** **The man killed the bad leader at the last hour.** [if **ultimā hōrā** is ablative of time when]
 
-* Note: While "hour" can indicate a range of time [and thus ablative of time within which is a legitimate interpretation], if you zoom out your timeline, you can consider an hour basically just one point on a timeline that spans months or years; thus, ablative of time when is also a legitimate interpretation, emphasizing that this was one action at one point in a long timeline.
+    * Note: While "hour" can indicate a range of time [and thus ablative of time within which is a legitimate interpretation], if you zoom out your timeline, you can consider an hour basically just one point on a timeline that spans months or years; thus, ablative of time when is also a legitimate interpretation, emphasizing that this was one action at one point in a long timeline.
 
 ***
 
