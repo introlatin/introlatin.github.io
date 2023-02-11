@@ -88,6 +88,7 @@ parent: Vocabulary
 
 * habeō, habēre, habuī, habitus - to have [(Logeion entry)](https://logeion.uchicago.edu/habeo)
 * hic, haec, hoc - (demonstrative pronoun/adjective) this, these; (when used with ille) the latter [(Logeion entry)](https://logeion.uchicago.edu/hic)
+* hora, horae, f. - hour [(Logeion entry)](https://logeion.uchicago.edu/hora)
 * horribilis, horribile - horrible, terrible [(Logeion entry)](https://logeion.uchicago.edu/horribilis)
 * hostis, hostis, m. - enemy [(Logeion entry)](https://logeion.uchicago.edu/hostis)
 
@@ -177,6 +178,7 @@ parent: Vocabulary
 * sub - (+ abl.) under [(Logeion entry)](https://logeion.uchicago.edu/sub)
 * --, suī, sibi, sē, sē - (3rd person reflexive pronoun) himself, herself, itself, themselves [(Logeion entry)](https://logeion.uchicago.edu/sui)
 * sum, esse, fui, futūrus - to be; (3rd singular) there is/was; (3rd plural) there are/were [(Logeion entry)](https://logeion.uchicago.edu/sum)
+* suus, sua, suum - [his/her/its/their] own [(Logeion entry)](https://logeion.uchicago.edu/suus)
 
 * talis, tale - such [(Logeion entry)](https://logeion.uchicago.edu/talis)
 * tam (adverb) - so, such a (+ adjective) [(Logeion entry)](https://logeion.uchicago.edu/tam)
@@ -184,6 +186,7 @@ parent: Vocabulary
 * tantus, tanta, tantum - so much, such great [(Logeion entry)](https://logeion.uchicago.edu/tantus)
 * taurus, taurī, m. - bull [(Logeion entry)](https://logeion.uchicago.edu/taurus)
 * templum, templī, n. - temple [(Logeion entry)](https://logeion.uchicago.edu/templum)
+* tempus, temporis, n. - time [(Logeion entry)](https://logeion.uchicago.edu/tempus)
 * teneō, tenēre, tenuī, tentus - to hold [(Logeion entry)](https://logeion.uchicago.edu/teneo)
 * terreō, terrēre, terruī, territus - to frighten, alarm, terrify [(Logeion entry)](https://logeion.uchicago.edu/terreo)
 * tōtus, tōta, tōtum - whole, entire [(Logeion entry)](https://logeion.uchicago.edu/totus)

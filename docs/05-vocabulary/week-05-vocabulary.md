@@ -56,3 +56,11 @@ parent: Vocabulary
 ## Adjectives
 
 * suus, sua, suum - [his/her/its/their] own [(Logeion entry)](https://logeion.uchicago.edu/suus)
+
+**
+
+## Nouns
+
+* hora, horae, f. - hour [(Logeion entry)](https://logeion.uchicago.edu/hora)
+* tempus, temporis, n. - time [(Logeion entry)](https://logeion.uchicago.edu/tempus)
+* annus, annī, m. - year [(Logeion entry)](https://logeion.uchicago.edu/annus) [previously appeared in Week 3 Vocabulary]
