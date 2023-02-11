@@ -20,7 +20,7 @@ grand_parent: Textbook
 
 ## Demonstratives
 
-In the last unit, you learned about [personal and reflexive pronouns](personal-and-reflexive-pronouns). There are other kinds of pronouns that indicate a different kind of relationship to the antecedent that the pronouns are replacing; we'll encounter two new ones in this unit.
+In the last unit, you learned about [personal and reflexive pronouns](personal-and-reflexive-pronouns). There are other kinds of pronouns that indicate a different kind of relationship to the antecedents that the pronouns are replacing; we'll encounter two new ones in this unit.
 
 For example, there are irregular pronouns called **demonstratives** that serve to **point out** something that is nearby or far away from the speaker (from the Latin *demonstrāre*, "to point out"). Note that these pronouns can stand on their own, or they can also function as **adjectives** that modify an explicit noun. If a pronoun, we can sometimes treat it like a [substantive adjective](3rd-declension-adjectives#substantives) and supply a word like "man/men", "woman/women", "person/people", or "thing/things", depending on the gender and number of the pronoun, if our translation calls for it.
 
@@ -57,7 +57,7 @@ Some items of note:
 Again, the demonstratives can be used as either a **pronoun**, which stands alone, or as an **adjective**, which modifies an explicit noun. The latter allows you to match the form of **hic** with a noun in gender, case, and number, but the former asks you to use the pronoun's **gender and number** to supply a word in translation. Here are some examples:
 
 * puer **hōs taurōs** duxit. "The boy led **these bulls**."
-* puella nōmina **hōrum** audīvit. "The girl heard the names **of these people**." or "The girl heard the names **of these men**." (**hōrum** = masculine accusative plural)
+* puella nōmina **hōrum** audīvit. "The girl heard the names **of these people**." or "The girl heard the names **of these men**." (**hōrum** = masculine genitive plural)
 * agricola **hoc oppidum** relīquit. "The farmer left **this town**."
 * agricola **haec** fēcit. "The farmer did **these things**." (**haec** = neuter accusative plural)
 
@@ -114,7 +114,7 @@ Another kind of pronoun (that can either stand on its own as a pronoun or functi
 
 - *ipse puer*, "the boy himself" or "the very boy"
 - *ipsa puella*, "the girl herself" or "the very girl"
-- *ipsa animālia*, "the animals themselves" or "the very animals"
+- *ipsa oppida*, "the towns themselves" or "the very towns"
 
 The paradigm chart looks similar to that of **ille**:
 
@@ -131,11 +131,11 @@ The paradigm chart looks similar to that of **ille**:
 | **Acc. Pl.** | ipsōs | ipsās | ipsa |
 | **Abl. Pl.** | ipsīs | ipsīs | ipsīs |
 
-If you use the translation "the very [noun]", be careful not to confuse this adjective with the common adverb "very", as in "They are very happy." In addition, do not confuse the "-self" translations with the **reflexive pronoun** that you learned about in the last unit. The **intensive** serves to underline or put a big exclamation point over the noun that it's modifying or replacing; the **reflexive** specifically refers back to the subject of the sentence. 
+If you use the translation "the very [noun]", be careful not to confuse this adjective with the common adverb "very", as in "They are very happy." In addition, do not confuse the "-self" translations with the **reflexive pronoun** that you learned about in [the last unit](personal-and-reflexive-pronouns). The **intensive** serves to underline or put a big exclamation point over the noun that it's modifying or replacing; the **reflexive** specifically refers back to the subject of the sentence. 
 
 Note the following examples, using proper names Marcus and Titus (which decline as second declension nouns) to show the difference between the intensive and the reflexive:
 
-* Marcus **Titum ipsum** vīdit. "Marcus saw **Titus himself**" or "Marcus saw **the very Titus**
+* Marcus **Titum ipsum** vīdit. "Marcus saw **Titus himself**" or "Marcus saw **the very Titus**"
     * **ipsum** functions as an intensive adjective here, emphasizing or intensifying **Titum**.
 
 * Marcus **ipsum** vīdit. "Marcus saw **the man himself** / **the person themself**" (if **ipsum** = masc. acc. sg.) or "Marcus saw **the thing itself**" (if **ipsum** = neut. acc. sg.)

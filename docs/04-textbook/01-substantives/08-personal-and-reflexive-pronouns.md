@@ -140,7 +140,9 @@ It is worth noting that the **genitive** of the reflexive pronoun is generally *
 * puer **librum suum** habuit. "The boy had **his own** book."
 * puella **librum suum** habuit. "The girl had **her own** book."
 
-Note that the adjective **suus, sua, suum** matches its noun, **librum**, in **gender, case, and number** (masculine accusative singular) in both examples. However, the *translation* in each example is different because the *subject* to which the reflexive adjective refers is different: boy versus girl. So, let's revisit the last example in the personal pronouns section above, but this time interpreting **eius** as feminine genitive singular:
+Note that the adjective **suus, sua, suum** matches its noun, **librum**, in **gender, case, and number** (masculine accusative singular) in both examples. However, the *translation* in each example is different because the *subject* to which the reflexive adjective refers is different: boy versus girl. 
+
+To emphasize the difference between the personal pronoun and the reflexive pronoun/adjective, let's revisit the last example in the personal pronouns section above, but this time interpreting **eius** as feminine genitive singular:
 
 * puella nōmen **eius** audīvit. "The girl heard **her** name."
 * puella nōmen **suum** audīvit. "The girl heard **her own** name."

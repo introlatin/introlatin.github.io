@@ -33,12 +33,12 @@ Put differently, prepositional phrases add more information about the main actio
 
 * nauta puellam **in urbe** vīdit. ("The sailor saw the girl in the city.")
     * **Where** did the sailor see the girl? *In the city*. ***or*** **Which girl** did he see? The girl *who was in the city*.
-* **ob īgnem** fugiēbat. ("He was fleeing because of the fire.")
-    * **Why** was he fleeing? Because of the fire.
+* **ob īgnem** fūgit. ("He fled because of the fire.")
+    * **Why** did he flee? *Because of the fire*.
 * Hercules monstra **sub ponte** interfēcit. ("Hercules killed the monsters under the bridge.) 
     * **Which** monsters did Hercules kill? The ones under the bridge. OR **Where** did Hercules kill the monsters? Under the bridge.
 
-Each preposition is tied to a specific case that can be used as its prepositional object. For example, **ob** ("because of") can take only substantives in the **accusative case** as its object. In order to tell which case a preposition can take as its object, you must memorize its **dictionary entry**, which will include a marker like **"(+ abl.)"** for ablative prepositions or **"(+ acc.)"** for accusative prepositions. Note the following examples:
+Each preposition is tied to a specific case that can be used as its prepositional object. For example, **ob** ("because of") can take only substantives in the **accusative case** as its object. In order to tell which case a preposition can take as its object, you must memorize its **dictionary entry**, which will include a marker like "**(+ abl.)**" for ablative prepositions or "**(+ acc.)**" for accusative prepositions. Note the following examples:
 
 * ob - (+ acc.) because of
 * sub - (+ abl.) under
@@ -141,6 +141,6 @@ The **ablative of time within which** indicates *within what range of time* a ve
 
 The **ablative of time within which** species a *range* of time within which something happened, while the **ablative of time when** pinpoints an exact time at which the verb happened. There can be some slippage between the two depending on how you interpret the time expression. For example, in the sentence:
 
-* **illā nocte** puella ab agrīs cucurrit.
+* **illā nocte** equus ab agrīs cucurrit.
 
 used above as an example of an **ablative of time when** ("The horse ran away from the fields **on that night**"), we might also interpret *illā nocte* as an **ablative of time within which**, yielding the translation "The horse ran away from the fields **within that night**." Only the context of sentences around the sentence in question can help you figure out which use is more appropriate.
