@@ -69,7 +69,7 @@ parent: Vocabulary
 * lux, lucis, f. - light, daylight [(Logeion entry)](https://logeion.uchicago.edu/lux)
 * maritus, maritī, m. - husband [(Logeion entry)](https://logeion.uchicago.edu/maritus)
 * mensa, mensae, f. - table [(Logeion entry)](https://logeion.uchicago.edu/mensa)
-* mensis, mensis, f. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
+* mensis, mensis, m. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
 * monstrum, monstrī, n. - monster [(Logeion entry)](https://logeion.uchicago.edu/monstrum)
 * nox, noctis, f. - night [(Logeion entry)](https://logeion.uchicago.edu/nox)
 * pons, pontis, m. - bridge [(Logeion entry)](https://logeion.uchicago.edu/pons)

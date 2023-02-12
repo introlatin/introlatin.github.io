@@ -137,7 +137,7 @@ The **ablative of time when** indicates *at what specific point in time* a verba
 The **ablative of time within which** indicates *within what range of time* a verbal action takes place. As opposed to the ablative of time when, the **ablative of time within which** emphasizes a range of time **within which** an action occurred, rather than indicating a specific point in time. As a result, the translation will often supply prepositions like **"within" or "in"**, and you'll need to use context to determine whether you're looking at an ablative of time when versus an ablative of time within which.
 
 * **primō annō** rex oppidum vīcit. ("**In the first year**, the king conquered the town.") [i.e., the action of conquering happened some time within the 365 days of the first year]
-* **prīmā mense** agricolae ad urbem vēnērunt. ("**Within the first month**, the farmers came into the city.")
+* **prīmō mense** agricolae ad urbem vēnērunt. ("**Within the first month**, the farmers came into the city.")
 
 The **ablative of time within which** species a *range* of time within which something happened, while the **ablative of time when** pinpoints an exact time at which the verb happened. There can be some slippage between the two depending on how you interpret the time expression. For example, in the sentence:
 
