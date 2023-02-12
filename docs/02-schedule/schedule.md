@@ -283,12 +283,12 @@ Prepositions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/16](#) (link TBD)
+* [Slideshow - R 2/16](https://docs.google.com/presentation/d/1UhSCApWC4mx0ruRVfe0XaC5DV-5KrdCWJQhR8Pb1aEE/edit?usp=sharing)
 * [Prepositions and Expressions of Place and Time](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
 {: .no_toc }
-* OPTIONAL: [Homework 105](../homework/homework#homework-105)
+* OPTIONAL: [Homework 10.5](../homework/homework#homework-105)
     * [This is for you to get practice with the topics of prepositions and expressions of place and time before the exam and get feedback via the answer key; there is no submission for this on Blackboard and it does not count for the semester grade. Note, though, that there will be an in-class check-in on prepositions and expressions of place and time next Tuesday, 2/21.]
 * Exam 1
 
