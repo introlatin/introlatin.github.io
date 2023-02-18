@@ -472,6 +472,52 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ***
 
 ## Homework 11 (Due W 2/22)
+
+### Part 1
+{: .no_toc }
+
+1. capiō -> taurus __________.  
+taurus **captus est**. "The bull was taken" or "The bull has been taken."
+
+2. videō -> corpus __________.   
+corpus **vīsum est**. "The body was seen" or "The bull has been seen."
+
+    * Note: The passive voice here can technically mean translations like "The body *seemed*" or "The body *has seemed*." The nature of a linking verb like "seem", however, often expects a predicate nominative, while a passive verb like "was seen" can complete a thought in and of itself. The lack of a predicate nominative (e.g., "The body seemed *large*") makes "seemed" a less attractive option in terms of translation.
+
+3. audiō -> verba __________.  
+verba **audīta sunt**. "The words were heard" or "The words have been heard."
+
+4. relinquō -> via __________.  
+via **relicta est**. "The road was left" or "The road has been left."
+
+5. interficere -> ducēs __________.  
+ducēs **interfectī sunt**. "The leaders were killed" or "The leaders have been killed."
+
+### Part 2
+{: .no_toc }
+
+1. dōna fīliīs ā patre data sunt.  
+subject = **dōna**; verb = **data sunt**  
+**The gifts were given to the sons/daughters by the father.**
+
+2. fīlius ob cībum laetus factus est.  
+subject = **fīlius**; verb = **factus est**  
+**The son became happy because of the food.**
+
+3. equī ex agrīs ab agricolā ductī sunt.  
+subject = **equī**; verb = **ductī sunt**  
+**The horses were led out of the fields by the farmer.**
+
+4. dux nautārum fortis vīsus est.  
+subject = **dux**; verb = **vīsus est**  
+**The leader of the sailors seemed brave.**
+
+5. monstrum ultimā hōrā captum est.  
+subject = **monstrum**; verb = **captum est**  
+**The monster was caught in/at the last hour.**
+
+***
+
 ## Homework 12 (Due R 2/23)
 ## Homework 13 (Due M 2/27)
 ## Homework 14 (Due W 3/1)

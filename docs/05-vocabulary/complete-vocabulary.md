@@ -67,7 +67,7 @@ parent: Vocabulary
 * et - and [(Logeion entry)](https://logeion.uchicago.edu/et)
 * et ... et - both ... and [(Logeion entry)](https://logeion.uchicago.edu/et)
 
-* faciō, facere, fēcī, factus - to make, do [(Logeion entry)](https://logeion.uchicago.edu/facio)
+* faciō, facere, fēcī, factus - to make, do; (passive) to become [(Logeion entry)](https://logeion.uchicago.edu/facio)
 * familia, familiae, f. - family, household [(Logeion entry)](https://logeion.uchicago.edu/familia)
 * fēlix, fēlīcis - lucky, fortunate, happy [(Logeion entry)](https://logeion.uchicago.edu/felix)
 * fēmina, fēminae, f. - woman [(Logeion entry)](https://logeion.uchicago.edu/femina)

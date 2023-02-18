@@ -53,13 +53,13 @@ parent: Vocabulary
 * post - (+ acc.) after [(Logeion entry)](https://logeion.uchicago.edu/post)
 * trans - (+ acc.) across, through [(Logeion entry)](https://logeion.uchicago.edu/trans)
 
-**
+***
 
 ## Adjectives
 
 * suus, sua, suum - [his/her/its/their] own [(Logeion entry)](https://logeion.uchicago.edu/suus)
 
-**
+***
 
 ## Nouns
 
@@ -78,7 +78,7 @@ parent: Vocabulary
 * uxor, uxōris, f. - wife [(Logeion entry)](https://logeion.uchicago.edu/uxor)
 * verbum, verbī, n. - word [(Logeion entry)](https://logeion.uchicago.edu/verbum)
 
-**
+***
 
 ## Verbs
 

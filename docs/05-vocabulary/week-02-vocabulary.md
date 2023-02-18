@@ -24,7 +24,7 @@ parent: Vocabulary
 
 * dūcō, dūcere, dūxī, ductus - to lead [(Logeion entry)](https://logeion.uchicago.edu/duco)
 
-* faciō, facere, fēcī, factus - to make, do [(Logeion entry)](https://logeion.uchicago.edu/facio)
+* faciō, facere, fēcī, factus - to make, do; (passive) to become [(Logeion entry)](https://logeion.uchicago.edu/facio)
 
 * fugiō, fugere, fūgī, fugitus - to flee [(Logeion entry)](https://logeion.uchicago.edu/fugio)
 

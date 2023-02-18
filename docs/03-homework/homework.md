@@ -354,6 +354,36 @@ Translate each of the following sentences using the [Week 5 Vocabulary](../vocab
 ***
 
 ## Homework 11 (Due W 2/22)
+
+### Part 1
+{: .no_toc }
+
+Each of the following prompts gives you a **first principal part** of a verb followed by a **nominative noun**. **Conjugate the verb** into the **perfect passive** in an appropriate **gender and number** for the subject, and then **translate the sentence**. For example:
+
+amō -> puerī __________.  
+puerī **amātī sunt**. "The boys were loved" or "The boys have been loved"
+
+You will likely need the [Complete Vocabulary](../vocabulary/complete-vocabulary) to help.
+
+1. capiō -> taurus __________.
+2. videō -> corpus __________. 
+3. audiō -> verba __________. 
+4. relinquō -> via __________.
+5. interficere -> ducēs __________. 
+
+### Part 2
+{: .no_toc }
+
+In each of the following sentences, **identify the subject and the verb** and then **translate the sentence**. Be aware that each sentence contains substantives in non-nominative cases and uses, including ablatives of agent.
+
+1. dōna fīliīs ā patre data sunt.
+2. fīlius ob cībum laetus factus est.
+3. equī ex agrīs ab agricolā ductī sunt.
+4. dux nautārum fortis vīsus est.
+5. monstrum ultimā hōrā captum est.
+
+***
+
 ## Homework 12 (Due R 2/23)
 ## Homework 13 (Due M 2/27)
 ## Homework 14 (Due W 3/1)
