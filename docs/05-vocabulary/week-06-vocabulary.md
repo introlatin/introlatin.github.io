@@ -10,6 +10,7 @@ parent: Vocabulary
 
 ## Nouns
 
+* epistula, epistulae, f. - letter [(Logeion entry)](https://logeion.uchicago.edu/epistula)
 * mīles, mīlitis, m. - soldier [(Logeion entry)](https://logeion.uchicago.edu/miles)
 
 ### 3rd Declension i-stems
@@ -56,6 +57,7 @@ parent: Vocabulary
 ## Verbs
 
 * moveō, movēre, mōvī, mōtus - to move [(Logeion entry)](https://logeion.uchicago.edu/moveo)
+* scribō, scrībere, scripsī, scriptus - to write [(Logeion entry)](https://logeion.uchicago.edu/scribo)
 
 ## Adjectives
 
