@@ -584,6 +584,42 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 13 (Due M 2/27)
+
+1. ācer -> animālī  
+**ācrī** [neut. dat. or abl. sg.]
+
+2. brevis -> diērum  
+**brevium** [masc. gen. pl.]
+
+3. nullus -> noctium  
+**nullārum** [fem. gen. pl.]
+
+4. sapiens -> cīvium  
+**sapientium** [masc./fem. gen. pl.]
+
+5. magnus -> maria  
+**magna** [neut. nom./acc. pl.]
+
+6. hic -> faciēbus  
+**hīs** [fem. dat./abl. pl.]
+
+7. longus -> diēs
+    * **longus** [masc. nom. sg.] or
+    * **longī** [masc. nom. pl.] or
+    * **longōs** [masc. acc. pl.]
+
+8. parvus -> lacuum  
+**parvōrum** [masc. gen. pl.]
+
+9. ille -> animālia  
+**illa** [neut. nom./acc. pl.]
+
+10. celer -> motūs  
+    * **celeris** [masc. gen. sg.] or
+    * **celerēs** [masc. nom./acc. pl.]
+
+***
+
 ## Homework 14 (Due W 3/1)
 ## Homework 15 (Due R 3/2)
 ## Homework 16 (Due W 3/8)

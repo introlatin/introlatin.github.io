@@ -299,8 +299,8 @@ Prepositions
 ### Week 6 Resources
 {: .no_toc }
 
-* [Week 6 Vocabulary](#) (link TBD)
-* [Week 6 Paradigms](#) (link TBD)
+* [Week 6 Vocabulary](../vocabulary/week-06-vocabulary)
+* [Week 6 Paradigms](../paradigms/week-06-paradigms)
 
 ***
 
@@ -314,7 +314,7 @@ Perfect Passive; passive sentences and ablative of agent
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - T 2/21](#) (link TBD)
-* Perfect Passive (formation)
+* [Perfect Passive and Ablative of Agent](../textbook/verbs/perfect-passive-and-ablative-of-agent)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -330,7 +330,7 @@ Imperfect Tense
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/22](#) (link TBD)
-* Imperfect Tense
+* [Imperfect Tense](../textbook/verbs/imperfect-tense)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -346,9 +346,7 @@ Imperfect Tense
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/23](#) (link TBD)
-* 3rd Declension i-stems
-* 4th Declension
-* 5th Declension
+* [3rd Declension i-stems and 4th and 5th Declension](../textbook/verbs/i-stems-4th-and-5th)
 
 #### HW due by start of next class
 {: .no_toc }

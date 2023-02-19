@@ -54,7 +54,7 @@ The difference between "was" and "were" is a matter of the **number** of the ver
 * The bulls **have been led**.
 * The towns **have been taken**.
 
-The formation of the **perfect passive** ***in Latin*** involves a similar combination of multiple words. As opposed to the conjugation of the [**perfect active**](../substantives/perfect-active#perfect-active-1), which requires getting your verb stem from the verb's 3rd principal part minus -ī and adding an appropriate ending, the **perfect passive** will use two separate words that each fulfill a different function:
+The formation of the **perfect passive** ***in Latin*** involves a similar combination of multiple words. As opposed to the conjugation of the [**perfect active**](../substantives/perfect-active#perfect-active-1), which requires getting your verb stem from the verb's 3rd principal part minus -ī and adding an appropriate ending to create a one-word form, the **perfect passive** will use *two* separate words to form *one* verbal unit, with each word fulfilling a different function:
 
 1. the **4th principal part** (known as the *perfect passive participle* or "PPP" for short)
 2. a **present tense form** of the verb **esse** ("to be")
@@ -108,16 +108,20 @@ Here are the six example English sentences from above and their Latin translatio
 * The bulls have been led. **taurī ductī sunt.**
 * The towns have been taken. **oppida capta est.**
 
+### Sentence Structures with the Perfect Passive
+
 While the passive voice of the verb alters the relationship between the nominative subject and the verb, other cases and uses are still perfectly usable with the passive voice. For example:
 
-* The **father's** daughters were seen. 
-    * fīliae **patris** vīsae sunt. (genitive of possession)
-* The gold was given **to the leader**. 
-    * aurum **ducī** datum est. (dative, indirect object)
-* The towns were taken **in the first month**. 
-    * oppida **prīmō mense** capta est. (ablative of time within which)
+* fīliae **patris** vīsae sunt. (genitive of possession)
+    * The **father's** daughters were seen. 
+* aurum **ducī** datum est. (dative, indirect object)
+    * The gold was given **to the leader**. 
+* oppida **prīmō mense** capta sunt. (ablative of time within which)
+    * The towns were taken **in the first month**. 
 
-If there are multiple nouns in your sentence, it becomes extremely important not to lose sight of *which* noun serves as the **subject** of the perfect passive verb, a role that only a substantive in the **nominative case** can fill. This is where the **gender and number** of the 4th principal part comes in handy, since it has to match the gender and number of the subject. Note, for example, how **vīsae sunt** requires a **feminine plural** subject based on the **-ae** ending of **vīsae**; **patris**, masculine genitive singular, does not fit the bill. Similarly, **datum est** requires a **neuter singular** subject given the **-um** ending of the participle, and **ducī**, masculine dative singular, does not match. We need to go respectively to **fīliae** and **aurum** as our subjects because they are the nouns that match their respective participles in gender and number.
+If there are multiple nouns in your sentence, it becomes extremely important not to lose sight of *which* noun serves as the **subject** of the perfect passive verb, a role that only a substantive in the **nominative case** can fill. This is where the **gender and number** of the 4th principal part comes in handy, since it has to match the gender and number of the subject. Note, for example, how **vīsae sunt** requires a **feminine plural** subject based on the **-ae** ending of **vīsae**; **patris**, masculine genitive singular, does not fit the bill. Similarly, **datum est** requires a **neuter singular** subject given the **-um** ending of the participle, and **ducī**, masculine dative singular, does not match; **capta sunt** needs a **neuter plural** subject (do not be fooled by the -a on **capta**; if it were feminine singular, our form of **esse** would have to be **est**), and **mense**, masculine singular, doesn't fit. We need to go respectively to **fīliae**, **aurum**, and **oppida** as our subjects because they are the nouns that match their respective participles in gender and number.
+
+### Special Definitions of Passive Verbs
 
 Be aware, also, that certain verbs can have a change in meaning when used in the passive voice rather than the active voice. Here are two notable examples:
 
@@ -137,7 +141,7 @@ It is technically possible for these verbs to be used in a pure passive sense (e
 
 ## Ablative of Agent
 
-The passive voice directs the action of the verb at the subject as the one receiving the action. However, this means that an indicator of the one *performing* the action isn't syntactically necessary for the sentence to make sense. Note how in each of the six example sentences just above, the subject and verb are enough to form a complete thought.
+The passive voice directs the action of the verb at the subject as the one receiving the action. However, this means that an indicator of the one *performing* the action isn't syntactically necessary for the sentence to make sense. Note how in each of the six example sentences just above, the subject and passive verb are enough to form a complete thought.
 
 In order to indicate the performer of the action of a passive verb, English uses an optional **prepositional phrase** introduced by the preposition "by":
 
@@ -154,12 +158,16 @@ Latin works similarly by using a **prepositional phrase** with the preposition *
 * The gold was given **by the farmers**. 
     * aurum **ab agricolīs** datum est.
 
-Note that **you can only have an ablative of agent with a** ***passive verb*** **in the sentence**. If you have **ab/ā** + an ablative substantive in a sentence with an **active** verb, it's likely that **ab/ā** retains its core definition as "away from" and governs an **ablative of motion from**. **ab/ā** means "by" ***only*** when the ablative that it governs is being used as an ablative of agent. Note the difference in the following examples:
+### Ablative of Agent versus Ablative of Motion From
+
+Note that **you can only have an ablative of agent with a** ***passive verb*** **in the sentence**. If you have **ab/ā** + an ablative substantive in a sentence with an **active** verb, it's likely that **ab/ā** retains its core definition as "away from" and governs an [**ablative of motion away from**](../substantives/prepositions-and-expressions-of-space-and-time#ablative-of-place-from-which-or-ablative-of-motion-away-from). **ab/ā** means "by" ***only*** when the ablative that it governs is being used as an ablative of agent. Note the difference in the following examples:
 
 * puer **ā puellīs** vīsus est. The boy was seen **by the girls**.
 * puer **ā puellīs** cucurrit. The boy ran **away from the girls**.
 
 **ā puellīs** is the same prepositional phrase but interpreted differently based on the context of the main verb; with the perfect passive **vīsus est**, it becomes an ablative of agent ("**by** the girls"), but with the intransitive active **cucurrit**, it is an ablative of motion from ("**away from** the girls").
+
+### Ablative of Agent with Passive of videō and faciō
 
 An ablative of agent can also help disambiguate between 'alternate' and 'pure passive' translations of the two verbs mentioned above, **videō** and **faciō**. Note the following comparison:
 

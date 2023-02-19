@@ -22,12 +22,12 @@ grand_parent: Textbook
 
 This unit introduces a new tense: the **imperfect**. The name is composed of a negation **im-** prefixed on "perfect", which derives from the Latin verb *perficere*, "to finish." Thus, the **imperfect tense** indicates a verbal action that is *not finished*; put differently, the action of an imperfect verb is *incomplete* or *in progress*. Like the perfect tense, the **imperfect tense** indicates an action that occurred in the **past**, but the major difference is that the imperfect indicates an action that is **in progress** and takes place **over a period of time**, versus the perfect which indicates an action that is **completed** and happened **in an instant**. Note the following comparisons:
 
-* The boy **saw** the ship. (perfect tense, instantaneous action in the past)
+* The boy **said** hello. (perfect tense, instantaneous action in the past)
 * The teacher **was saying** those words. (imperfect tense, an action in the past that takes place over a period of time)
 * The bull **has been led** by the farmer. (perfect tense, completed action)
 * The bull **was being led** by the farmer. (imperfect tense, in progress action)
 
-Thus, in English, we form the imperfect tense using helping verbs to indicate its pastness and its incomplete nature:
+Thus, in English, we form the imperfect tense using helping verbs and specific participial forms of the main verb to indicate its pastness and its incomplete nature:
 
 * (active voice) **was/were [verb]ing**
 * (passive voice) **was/were being [verb]ed**
@@ -45,7 +45,7 @@ For the **imperfect tense** in both the **active and passive voices**, we will u
 
 The **second principal part** is the **present active infinitive**, or the "to" form of the verb (e.g., "to love", "to see"). As explained in the last module, the second principal part also helps us determine [what conjugation the verb belongs to](../substantives/verbs-overview#conjugation): 1st, 2nd, 3rd, 3rd -iō, or 4th. While this distinction did not make a difference for conjugating the perfect tense, **we must know a verb's conjugation in order to conjugate in the imperfect tense**. This is because the verb's conjugation may dictate certain vowel changes in the verb's stem.
 
-The imperfect conjugates like the perfect active, in that you combine a stem with an ending, but there are some steps in between that must be completed as well:
+The imperfect conjugates like the perfect active, in that you combine a stem with an ending to create a one-word verb form, but there are some steps in between that must be completed as well:
 
 1. Get the **verb stem** by removing the **-re** from the end of the **2nd principal part**.
 2. If the verb belongs to the **3rd -iō or 4th conjugation**, change the vowel left at the end of the stem (see below).
@@ -78,6 +78,8 @@ The **personal endings** reflect the different **person and number** combination
 | **2nd** | -s | -tis |
 | **3rd** | -t | -nt |
 
+One helpful mnemonic to remember these endings is **MOST MUST ISN'T** (M/O, S, T, MUS, TIS, NT).
+
 #### Passive Personal Endings (Present System Tenses)
 
 | | **Singular** | **Plural** |
@@ -86,7 +88,7 @@ The **personal endings** reflect the different **person and number** combination
 | **2nd** | -ris | -minī |
 | **3rd** | -tur | -ntur |
 
-### Conjugation Examples
+### Conjugation Examples - Dictionary Entry to Form
 
 So, with all of these elements in place, let's consider the following examples of conjugating in the imperfect tense.
 
@@ -108,11 +110,37 @@ For a **3rd -iō verb** like **capio, capere**, however, we need to take step 2 
 
 If **capiēbantur** is 3rd person plural imperfect passive indicative, then a sample translation can be **"they were being taken"**.
 
-We must also be able to work in the opposite direction, i.e., taking a conjugated verb form and being able to parse and translate it. For example:
+Here are two example paradigms of verbs conjugated fully in the imperfect active and passive, a 2nd conjugation verb (habeō, habēre -> stem = **habē-**) and a 4th conjugation verb (audiō, audīre -> stem with vowel change = **audiē-**), to illustrate respectively a verb with and a verb without step 2 (the stem vowel change) in the conjugation process.
+
+| | **Active** | **Passive** |
+| --- | --- | --- |
+| **1st sg.** | habēbam | habēbar |
+| **2nd sg.** | habēbās | habēbāris |
+| **3rd sg.** | habēbat | habēbātur |
+| **1st pl.** | habēbāmus | habēbāmur |
+| **2nd pl.** | habēbātis | habēbāminī |
+| **3rd pl.** | habēbant | habēbantur |
+
+| | **Active** | **Passive** |
+| --- | --- | --- |
+| **1st sg.** | audiēbam | audiēbar |
+| **2nd sg.** | audiēbās | audiēbāris |
+| **3rd sg.** | audiēbat | audiēbātur |
+| **1st pl.** | audiēbāmus | audiēbāmur |
+| **2nd pl.** | audiēbātis | audiēbāminī |
+| **3rd pl.** | audiēbant | audiēbantur |
+
+### Conjugation Examples - Form to Parsing and Translation
+
+We must also be able to work in the opposite direction, i.e., taking a conjugated verb form and being able to parse and translate it. In order to do so, it is helpful to break the verb form down into the parts that make it up and determine the verb's person, number, tense, voice, and mood from those components. For example:
 
 * **vidēbant**
 
 In this verb form, when we identify its constituent elements, it becomes relatively straightforward to identify its person, number, tense, voice, and mood. For example, the personal ending **-nt** is used to attribute a **3rd person plural** subject to **active** verbs. The **-bā-** syllable that precedes it characterizes the **imperfect** tense verbs in the **indicative** mood, and the **vidē-** stem tells us that the verb comes from **videō, vidēre**, "to see." Thus, **"they were seeing"**.
+
+* **capiēbātur**
+
+This verb form is composed of similar components: a stem in **capiē-** leads to a definition of "to take, seize", and the **-bā-** syllable tells us that we're in the **imperfect indicative**. The personal ending **-tur** fills out the remaining aspects (**3rd singular passive**), for a translation like **"he was being taken"**.
 
 ### Imperfect of *esse*
 
@@ -128,6 +156,8 @@ Thus:
 
 * puer sapiens **erat**. "The boy **was** wise."
 * puellae fortēs **erant**. "The girls **were** brave."
+
+***
 
 ## Imperfect Tense in Context
 

@@ -10,6 +10,7 @@ parent: Vocabulary
 
 * ā / ab - (+ abl.) from, away from; (+ abl. of personal agent) by [(Logeion entry)](https://logeion.uchicago.edu/ab)
 * ācer, ācris, ācre - sharp, keen [(Logeion entry)](https://logeion.uchicago.edu/acer)
+* aciēs, aciēī, m. - battle line [(Logeion entry)](https://logeion.uchicago.edu/acies)
 * ad - (+ acc.) to, towards, for, at [(Logeion entry)](https://logeion.uchicago.edu/ad)
 * adeō (adverb) - to such an extent [(Logeion entry)](https://logeion.uchicago.edu/adeo)
 * ager, agrī, m. - field [(Logeion entry)](https://logeion.uchicago.edu/ager)
@@ -31,6 +32,7 @@ parent: Vocabulary
 
 * bellum, bellī, n. - war [(Logeion entry)](https://logeion.uchicago.edu/bellum)
 * bonus, bona, bonum - good [(Logeion entry)](https://logeion.uchicago.edu/bonus)
+* brevis, breve - short [(Logeion entry)](https://logeion.uchicago.edu/brevis)
 
 * capiō, capere, cēpī, captus - to take, seize [(Logeion entry)](https://logeion.uchicago.edu/capio)
 * calidus, calida, calidum - warm, hot [(Logeion entry)](https://logeion.uchicago.edu/calidus)
@@ -48,6 +50,7 @@ parent: Vocabulary
 * dē - (+ abl.) about, down from [(Logeion entry)](https://logeion.uchicago.edu/de)
 * debeō, debēre, debuī, debitus - to ought to, to be obligated to, should (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/debeo)
 * dēmonstrō, dēmonstrāre, dēmonstrāvī, dēmonstrātus - to show, point out, demonstrate [(Logeion entry)](https://logeion.uchicago.edu/demonstro)
+* dens, dentis, m. - tooth [(Logeion entry)](https://logeion.uchicago.edu/dens)
 * deus, deī, m. - god [(Logeion entry)](https://logeion.uchicago.edu/deus)
 * dīcō, dīcere, dixī, dictus - to say, speak, tell [(Logeion entry)](https://logeion.uchicago.edu/dico)
 * discō, discere, didicī, disciturus - to learn [(Logeion entry)](https://logeion.uchicago.edu/disco)
@@ -66,12 +69,15 @@ parent: Vocabulary
 * equus, equī, m. - horse [(Logeion entry)](https://logeion.uchicago.edu/equus)
 * et - and [(Logeion entry)](https://logeion.uchicago.edu/et)
 * et ... et - both ... and [(Logeion entry)](https://logeion.uchicago.edu/et)
+* exemplar, exemplāris, n. - example [(Logeion entry)](https://logeion.uchicago.edu/exemplar)
 
+* faciēs, faciēī, f. - shape, form figure, face [(Logeion entry)](https://logeion.uchicago.edu/facies)
 * faciō, facere, fēcī, factus - to make, do; (passive) to become [(Logeion entry)](https://logeion.uchicago.edu/facio)
 * familia, familiae, f. - family, household [(Logeion entry)](https://logeion.uchicago.edu/familia)
 * fēlix, fēlīcis - lucky, fortunate, happy [(Logeion entry)](https://logeion.uchicago.edu/felix)
 * fēmina, fēminae, f. - woman [(Logeion entry)](https://logeion.uchicago.edu/femina)
 * ferō, ferre, tulī, latus - to bring, bear, carry [(Logeion entry)](https://logeion.uchicago.edu/fero)
+* fidēs, fideī, f. - trust, faith [(Logeion entry)](https://logeion.uchicago.edu/fides)
 * fīlia, fīliae, f. - daughter [(Logeion entry)](https://logeion.uchicago.edu/filia)
 * fīlius, filiī, m. - son [(Logeion entry)](https://logeion.uchicago.edu/filius)
 * flectō, flectere, flexī, flexus - to bend [(Logeion entry)](https://logeion.uchicago.edu/flecto)
@@ -107,6 +113,7 @@ parent: Vocabulary
 * līber, lībera, līberum - free [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * liber, librī, m. - book [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * licet - (impersonal verb) it is allowed; (conjunction + pres. or perf. subjunctive) although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/licet)
+* longus, longa, longum - long [(Logeion entry)](https://logeion.uchicago.edu/longus)
 * lux, lucis, f. - light, daylight [(Logeion entry)](https://logeion.uchicago.edu/lux)
 
 * magnus, magna, magnum - large, great, big [(Logeion entry)](https://logeion.uchicago.edu/magnus)
@@ -122,6 +129,7 @@ parent: Vocabulary
 * moneō, monēre, monuī, monitus - to warn, advise [(Logeion entry)](https://logeion.uchicago.edu/moneo)
 * monstrum, monstrī, n. - monster [(Logeion entry)](https://logeion.uchicago.edu/monstrum)
 * mortalis, mortale - mortal [(Logeion entry)](https://logeion.uchicago.edu/mortalis)
+* motus, motūs, m. - movement, motion [(Logeion entry)](https://logeion.uchicago.edu/motus)
 * moveō, movēre, mōvī, mōtus - to move [(Logeion entry)](https://logeion.uchicago.edu/moveo)
 * multus, multa, multum - (singular) much; (plural) many [(Logeion entry)](https://logeion.uchicago.edu/multus)
 
@@ -185,6 +193,7 @@ parent: Vocabulary
 * sine - (+ abl.) without [(Logeion entry)](https://logeion.uchicago.edu/sine)
 * sōlus, sōla, sōlum - alone, only, single, sole [(Logeion entry)](https://logeion.uchicago.edu/solus)
 * sperō, sperāre, sperāvī, sperātus - to hope [(Logeion entry)](https://logeion.uchicago.edu/spero)
+* spēs, speī, f. - hope, expectation [(Logeion entry)](https://logeion.uchicago.edu/spes)
 * stō, stare, stetī, status - to stand [(Logeion entry)](https://logeion.uchicago.edu/sto)
 * sub - (+ abl.) under [(Logeion entry)](https://logeion.uchicago.edu/sub)
 * --, suī, sibi, sē, sē - (3rd person reflexive pronoun) himself, herself, itself, themselves [(Logeion entry)](https://logeion.uchicago.edu/sui)

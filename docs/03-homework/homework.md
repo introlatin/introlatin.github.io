@@ -427,6 +427,27 @@ amābant
 ***
 
 ## Homework 13 (Due M 2/27)
+
+Each of the following prompts gives you the first principal part of an adjective followed by a declined noun. Using the [Week 6 Vocabulary](../vocabulary/week-06-vocabulary), [Complete Vocabulary](../vocabulary/complete-vocabulary), and the [Week 6 Paradigms](../paradigms/week-06-paradigms), make the adjective match the noun. If more than one possibility exists, you need only give one. For example:
+
+magnus -> lacibus  
+**magnīs**
+
+1. ācer -> animālī
+2. brevis -> diērum
+3. nullus -> noctium
+4. sapiens -> cīvium
+5. magnus -> maria
+6. hic -> faciēbus
+7. longus -> diēs
+8. parvus -> lacuum
+9. ille -> animālia
+10. celer -> motūs
+
+[Answer key here](answer-key#homework-13-due-m-227).
+
+***
+
 ## Homework 14 (Due W 3/1)
 ## Homework 15 (Due R 3/2)
 ## Homework 16 (Due W 3/8)
