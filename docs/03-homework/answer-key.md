@@ -482,13 +482,18 @@ taurus **captus est**. "The bull was taken" or "The bull has been taken."
 2. videō -> corpus __________.   
 corpus **vīsum est**. "The body was seen" or "The bull has been seen."
 
-    * Note: The passive voice here can technically mean translations like "The body *seemed*" or "The body *has seemed*." The nature of a linking verb like "seem", however, often expects a predicate nominative, while a passive verb like "was seen" can complete a thought in and of itself. The lack of a predicate nominative (e.g., "The body seemed *large*") makes "seemed" a less attractive option in terms of translation.
+    * Note: The passive voice here can technically yield translations like "The body *seemed*" or "The body *has seemed*." The nature of a linking verb like "seem", however, often expects a predicate nominative, while a passive verb like "was seen" can complete a thought in and of itself. The lack of a predicate nominative (e.g., "The body seemed *large*") makes "seemed" a less attractive option in terms of translation.
+    * Note 2: Don't be fooled by the -us ending on **corpus**: its dictionary entry is **corpus, corporis, n. - "body"**, meaning that it's a neuter noun.
 
 3. audiō -> verba __________.  
 verba **audīta sunt**. "The words were heard" or "The words have been heard."
 
+    * Note: Again, be aware of the gender of your noun -- the -a ending on **verbum, verbī, n. - "word"**, a 2nd declension *neuter* noun, means not only that your participle must be **neuter plural** but also that your form of **esse** has to be **3rd plural**.
+
 4. relinquō -> via __________.  
 via **relicta est**. "The road was left" or "The road has been left."
+
+    * Note: This noun, on the other hand, is a first declension noun (**via, viae, f. - "road"**), making the subject (and thus your participle) **feminine singular** and your form of **esse** **3rd singular**.
 
 5. interficere -> ducēs __________.  
 ducēs **interfectī sunt**. "The leaders were killed" or "The leaders have been killed."
@@ -519,6 +524,65 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 12 (Due R 2/23)
+
+### Part 1
+{: .no_toc }
+
+1. amō -> 3rd singular imperfect passive indicative  
+**amābātur - "it was being loved"**
+
+2. moveō -> 3rd plural imperfect passive indicative  
+**movēbantur - "they were being moved"**
+
+3. capiō -> 3rd singular perfect active indicative  
+**cēpit - "she took"**
+
+4. capiō -> 3rd singular imperfect active indicative  
+**capiēbat - "he was taking"**
+
+5. sum -> 3rd plural imperfect active indicative  
+**erant - "they were"**
+
+6. regō -> 3rd plural perfect passive indicative (masculine)  
+**rectī sunt - "they were ruled" or "they have been ruled"**
+
+7. faciō -> 3rd singular imperfect active indicative  
+**faciēbat - "she was making/doing"**
+
+8. currō -> 3rd plural perfect active indicative  
+**cucurrērunt / cucurrēre - "they ran"** 
+
+9. stō -> 3rd plural imperfect active indicative  
+**stābant - "they were standing"**
+
+10. veniō -> 3rd singular perfect active indicative  
+**vēnit - "he came" or "he has come"**
+
+### Part 2
+{: .no_toc }
+
+1. fugiēbat  
+**imperfect active: stem from 2nd principal part, -bā- tense marker, -t active personal ending**  
+"he was fleeing"
+
+2. positum est  
+**perfect passive: 4th principal part, present tense of esse**  
+"it was placed", "it has been placed"
+
+3. vīcit  
+**perfect active: stem from 3rd principal part, -it ending**  
+"she won/conquered"
+
+4. vidēbātur  
+**imperfect passive: stem from 2nd principal part, -bā- tense marker, -tur passive personal ending**  
+"it was being seen", "it was seeming"
+
+5. audiēbant  
+**imperfect active: stem from 2nd principal part, -bā- tense marker, -nt active personal ending**  
+"they were hearing"
+
+***
+
 ## Homework 13 (Due M 2/27)
 ## Homework 14 (Due W 3/1)
 ## Homework 15 (Due R 3/2)

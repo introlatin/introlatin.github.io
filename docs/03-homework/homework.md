@@ -382,9 +382,50 @@ In each of the following sentences, **identify the subject and the verb** and th
 4. dux nautārum fortis vīsus est.
 5. monstrum ultimā hōrā captum est.
 
+[Answer key here](answer-key#homework-11-due-w-222).
+
 ***
 
 ## Homework 12 (Due R 2/23)
+
+### Part 1
+{: .no_toc }
+
+Each of the following gives you the first principal part of a verb. **Conjugate the verb into the requested parse**, and then **give a sample translation of the form that you just created**. Keep in mind that not all prompts will ask you to conjugate in the imperfect tense. Make sure to use the [Complete Vocabulary](../vocabulary/complete-vocabulary) to check your verb's conjugation, 2nd principal part spelling, and meaning. For example:
+
+relinquō -> 3rd singular imperfect active indicative  
+**relinquēbat - "she was leaving"**
+
+1. amō -> 3rd singular imperfect passive indicative
+2. moveō -> 3rd plural imperfect passive indicative
+3. capiō -> 3rd singular perfect active indicative
+4. capiō -> 3rd singular imperfect active indicative
+5. sum -> 3rd plural imperfect active indicative
+6. regō -> 3rd plural perfect passive indicative (masculine)
+7. faciō -> 3rd singular imperfect active indicative
+8. currō -> 3rd plural perfect active indicative
+9. stō -> 3rd plural imperfect active indicative
+10. veniō -> 3rd singular perfect active indicative
+
+### Part 2
+{: .no_toc }
+
+For each of the following conjugated verb forms, **identify the verb's tense and voice** and **indicate what clues you used to determine them**. Optionally, give a sample translation for each form. For example:
+
+amābant  
+**imperfect active: stem from 2nd principal part, -bā- tense marker, -nt personal ending**  
+**"They were loving"**
+
+1. fugiēbat
+2. positum est
+3. vīcit
+4. vidēbātur
+5. audiēbant
+
+[Answer key here](answer-key#homework-12-due-r-223).
+
+***
+
 ## Homework 13 (Due M 2/27)
 ## Homework 14 (Due W 3/1)
 ## Homework 15 (Due R 3/2)

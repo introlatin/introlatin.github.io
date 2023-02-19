@@ -69,6 +69,8 @@ The verb **esse** (from **sum, esse, fuī, futūrus - to be**) was introduced [i
 | **2nd** | es | estis |
 | **3rd** | est | sunt |
 
+Focus for now on the **3rd person** forms, **est** and **sunt**, as we'll be using them the most often.
+
 So, in order to form the perfect passive, we now need to be aware of more than just the subject's **number** (which we previously had to take into account due to **subject-verb agreement** [if a verb is singular, the subject must be singular; if the verb is plural, the subject must be plural]). The subject's **number** will continue to be important, since it will dictate to us which form(s) of **esse** we can use as the second element of our verb. However, we must now also be aware of the subject's **gender**, because the subject's **gender and number** will dictate which ending we need to use on the 4th principal part.
 
 Let's take the sentence "The boy was loved" from above as an example. The subject, **the boy**, is **masculine singular** and would need to be in the **nominative** case (since the boy is the subject). When we go to the 4th principal part of the verb "to love" (amō, amāre, amāvī, **amātus**) and treat it like a **2-1-2 adjective** (**amātus, amāta, amātum**), we need to use a form of it that will match a **masculine nominative singular** subject; thus, we'll use **amātus**.

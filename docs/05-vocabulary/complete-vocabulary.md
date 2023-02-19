@@ -122,6 +122,7 @@ parent: Vocabulary
 * moneō, monēre, monuī, monitus - to warn, advise [(Logeion entry)](https://logeion.uchicago.edu/moneo)
 * monstrum, monstrī, n. - monster [(Logeion entry)](https://logeion.uchicago.edu/monstrum)
 * mortalis, mortale - mortal [(Logeion entry)](https://logeion.uchicago.edu/mortalis)
+* moveō, movēre, mōvī, mōtus - to move [(Logeion entry)](https://logeion.uchicago.edu/moveo)
 * multus, multa, multum - (singular) much; (plural) many [(Logeion entry)](https://logeion.uchicago.edu/multus)
 
 * nauta, nautae, m. - sailor [(Logeion entry)](https://logeion.uchicago.edu/nauta)
