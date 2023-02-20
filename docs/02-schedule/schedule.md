@@ -313,7 +313,7 @@ Perfect Passive; passive sentences and ablative of agent
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - T 2/21](#) (link TBD)
+* [Slideshow - T 2/21](https://docs.google.com/presentation/d/145EyR9up9qHIuNbwi8H23kD4i_ciX5B6L_aiKBlZVN0/edit?usp=sharing)
 * [Perfect Passive and Ablative of Agent](../textbook/verbs/perfect-passive-and-ablative-of-agent)
 
 #### HW due by start of next class
