@@ -345,7 +345,7 @@ Imperfect Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/23](#) (link TBD)
+* [Slideshow - R 2/23](https://docs.google.com/presentation/d/1Ad2MKm20PwurDiFGxlsZgB3sqe2HI_isYRdWKEfqZO0/edit?usp=sharing)
 * [3rd Declension i-stems and 4th and 5th Declension](../textbook/verbs/i-stems-4th-and-5th)
 
 #### HW due by start of next class
