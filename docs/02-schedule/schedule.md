@@ -360,8 +360,8 @@ Imperfect Tense
 ### Week 7 Resources
 {: .no_toc }
 
-* [Week 7 Vocabulary](#) (link TBD)
-* [Week 7 Paradigms](#) (link TBD)
+* [Week 7 Vocabulary](../vocabulary/week-07-vocabulary)
+* [Week 7 Paradigms](../paradigms/week-07-paradigms)
 
 ***
 
@@ -372,8 +372,8 @@ Present Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/27](#) (link TBD)
-* Present Tense
+* [Slideshow - M 2/27](https://docs.google.com/presentation/d/1H_FCgH-fmTkUse_0ALiOqMzKO7BvHSjF2D8ULjIoBEY/edit?usp=sharing)
+* [Present Tense](../textbook/verbs/present-tense)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -383,13 +383,13 @@ Present Tense
 
 ### Wednesday, March 1
 {: .no_toc }
-Future Tense
+Future Tense - 1st and 2nd Conjugations
 * In class: Check-in 15
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/1](#) (link TBD)
-* Future Tense
+* [Slideshow - W 3/1](https://docs.google.com/presentation/d/1Txstjiqwwq_QlpjqCRwdfyijWDTWCdKVU6naoTdoAM0/edit?usp=sharing)
+* [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -399,12 +399,12 @@ Future Tense
 
 ### Thursday, March 2
 {: .no_toc }
-Tense Review
+Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 * In class: Check-in 16
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/2](#) (link TBD)
+* [Slideshow - R 3/2](https://docs.google.com/presentation/d/1Txstjiqwwq_QlpjqCRwdfyijWDTWCdKVU6naoTdoAM0/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }

@@ -36,7 +36,9 @@ parent: Vocabulary
 
 * capiō, capere, cēpī, captus - to take, seize [(Logeion entry)](https://logeion.uchicago.edu/capio)
 * calidus, calida, calidum - warm, hot [(Logeion entry)](https://logeion.uchicago.edu/calidus)
+* canō, canere, cecinī, cantus - to sing [(Logeion entry)](https://logeion.uchicago.edu/cano)
 * caput, capitis, n. - head [(Logeion entry)](https://logeion.uchicago.edu/caput)
+* carmen, carminis, n. - song, poem [(Logeion entry)](https://logeion.uchicago.edu/carmen)
 * celer, celeris, celere - swift, quick [(Logeion entry)](https://logeion.uchicago.edu/celer)
 * certāmen, certāminis, n. - contest [(Logeion entry)](https://logeion.uchicago.edu/certamen)
 * cībus, cībī, m. - food  [(Logeion entry)](https://logeion.uchicago.edu/cibus)
@@ -45,6 +47,7 @@ parent: Vocabulary
 * corpus, corporis, n. - body [(Logeion entry)](https://logeion.uchicago.edu/corpus)
 * credō, credere, credidī, creditus - to believe (+ dative object, or + indirect statement) [(Logeion entry)](https://logeion.uchicago.edu/credo)
 * cum - (+ abl.) with; (as conjunction + indicative) when, after; (as conjunction + subjunctive) when, since, because, although [(Logeion entry)](https://logeion.uchicago.edu/cum)
+* cupiō, cupere, cūpīvī / cupiī, cupītus - to desire, long for [(Logeion entry)](https://logeion.uchicago.edu/cupio)
 * currō, currere, cucurrī, cursus - to run [(Logeion entry)](https://logeion.uchicago.edu/curro)
 
 * dē - (+ abl.) about, down from [(Logeion entry)](https://logeion.uchicago.edu/de)

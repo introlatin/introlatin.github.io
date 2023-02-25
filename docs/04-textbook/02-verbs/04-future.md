@@ -150,3 +150,31 @@ Again, one letter makes the difference between present and future. For example:
 - audi**e**ntur, "they will be heard" (fuure tense)
 
 Analyze the word carefully in terms of spelling to determine what tense it is!
+
+***
+
+## Summary
+
+You must be aware of a verb's conjugation when dealing with the future tense, because of the differences in endings used (**bo bi bu in 1 and 2, a and e in 4 and 3**). For comparison, here are charts that have future tense forms across all five conjugations:
+
+### Future Tense - Active Voice
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābō | monēbō | regam | cupiam | audiam |
+| 2nd sg. | amābis | monēbis | regēs | cupiēs | audiēs |
+| 3rd sg. | **amābit** | **monēbit** | **reget** | **cupiet** | **audiet** |
+| 1st pl. | amābimus | monēbimus | regēmus | cupiēmus | audiēmus |
+| 2nd pl. | amābitis | monēbitis | regētis | cupiētis | audiētis |
+| 3rd pl. | **amābunt** | **monēbunt** | **regent** | **cupient** | **audient** |
+
+### Future Tense - Passive Voice
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābor | monēbor | regar | cupiar | audiar |
+| 2nd sg. | amāberis | monēberis | regēris | cupiēris | audiēris |
+| 3rd sg. | **amābitur** | **monēbitur** | **regētur** | **cupiētur** | **audiētur** |
+| 1st pl. | amābimur | monēbimur | regēmur | cupiēmur | audiēmur |
+| 2nd pl. | amābiminī | monēbiminī | regēminī | cupiēminī | audiēminī |
+| 3rd pl. | **amābuntur** | **monēbuntur** | **regentur** | **cupientur** | **audientur** |
