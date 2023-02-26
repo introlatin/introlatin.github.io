@@ -449,7 +449,101 @@ magnus -> lacibus
 ***
 
 ## Homework 14 (Due W 3/1)
+
+### Part 1
+{: .no_toc }
+
+Use the [Complete Vocabulary](../vocabulary/complete-vocabulary) and [Week 7 Paradigms](../paradigms/week-07-paradigms) to conjugate each of the following verbs, of which you're given just the first principal part, into the requested **person, number, tense, and mood**. Then, **give a sample translation of the verb you just created**. For example:
+
+amō -> 3rd sg. present active  
+**amat -- "she loves"**
+
+1. canō -> 3rd sg. present active
+2. dormiō -> 3rd pl. present active
+3. habeō -> 3rd sg. present passive
+4. audiō -> 3rd pl. present passive
+5. demonstrō -> 3rd sg. present active
+6. regō -> 3rd pl. present active
+7. ducō -> 3rd sg. present passive
+8. moveō -> 3rd pl. present passive
+9. scrībō -> 3rd sg. present active
+10. teneō -> 3rd pl. present active
+
+### Part 2
+{: .no_toc }
+
+Translate each of the following sentences.
+
+1. puerī carmina cum matribus suīs canunt.
+2. equī ab agricolā ducuntur.
+3. periculum ab omnibus nautīs vidētur.
+4. hostēs in domūs cīvium currunt.
+5. monstrum ē marī venit.
+
+[Answer key here](answer-key#homework-14-due-w-31).
+
+***
+
 ## Homework 15 (Due R 3/2)
+
+Use the [Complete Vocabulary](../vocabulary/complete-vocabulary) and [Week 7 Paradigms](../paradigms/week-07-paradigms) to conjugate each of the following verbs, of which you're given just the first principal part, into the requested **person, number, tense, and mood**. Read carefully, as not all prompts will ask you to conjugate in the future tense.
+
+Then, **give a sample translation of the form that you've created.**
+
+1. habeō -> 3rd sg. future active
+2. habeō -> 3rd sg. imperfect active
+3. demonstrō -> 3rd pl. future passive
+4. demonstrō -> 3rd pl. imperfect passive
+5. moveō -> 3rd sg. future passive
+6. moveō -> 3rd sg. imperfect passive
+7. teneō -> 3rd pl. future active
+8. teneō -> 3rd pl. imperfect active
+9. amō -> 3rd sg. future active
+10. amō -> 3rd sg. future passive
+
+[Answer key here](answer-key#homework-15-due-r-32).
+
+***
+
+## Homework 15.5 (Due M 3/6)
+
+**NOTE**: This homework assignment wasn't originally factored into the semester total, but if you complete it, consider it "extra credit" for the homework component of your semester grade.
+
+### Part 1
+{: .no_toc }
+
+Use the [Complete Vocabulary](../vocabulary/complete-vocabulary) and [Week 7 Paradigms](../paradigms/week-07-paradigms) to conjugate each of the following verbs, of which you're given just the first principal part, into the requested **person, number, tense, and mood**. Read carefully, as not all prompts will ask you to conjugate in the future tense.
+
+Then, **give a sample translation of the verb you just created**. For example:
+
+amō -> 3rd sg. future active  
+**amābit -- "she will love"**
+
+1. canō -> 3rd sg. future active
+2. canō -> 3rd sg. present active
+3. dormiō -> 3rd pl. future active
+4. dormiō -> 3rd pl. present active
+5. moneō -> 3rd sg. future passive
+6. moneō -> 3rd sg. imperfect passive
+7. scrībō -> 3rd pl. future passive
+8. scrībō -> 3rd pl. present passive
+9. scrībō -> 3rd pl. imperfect passive
+10. audiō -> 3rd pl. present active
+11. audiō -> 3rd pl. future active
+12. faciō -> 3rd sg. imperfect active
+13. faciō -> 3rd sg. future active
+14. faciō -> 3rd sg. present active
+15. faciō -> 3rd sg. future passive
+
+### Part 2
+{: .no_toc }
+
+Complete a synopsis in the **3rd person singular** across all the verb tenses (present, imperfect, future, perfect) and voice (active, passive) that you know of the verb **cupiō**.
+
+[Answer key here](answer-key#homework-155-due-m-36).
+
+***
+
 ## Homework 16 (Due W 3/8)
 ## Homework 17 (Due R 3/9)
 ## Homework 18 (Due W 3/22)

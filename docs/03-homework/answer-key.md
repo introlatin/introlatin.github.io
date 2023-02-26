@@ -621,7 +621,158 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 14 (Due W 3/1)
+
+### Part 1
+{: .no_toc }
+
+1. canō -> 3rd sg. present active  
+**canit -- "he sings"**
+
+2. dormiō -> 3rd pl. present active  
+**dormiunt -- "they sleep"**
+
+3. habeō -> 3rd sg. present passive  
+**habētur -- "it is (being) held"**
+
+4. audiō -> 3rd pl. present passive  
+**audiuntur - "they are (being) heard"**
+
+5. dēmonstrō -> 3rd sg. present active  
+**dēmonstrat -- "she shows"**
+
+6. regō -> 3rd pl. present active  
+**regunt -- "they rule"**
+
+7. ducō -> 3rd sg. present passive  
+**ducitur -- "it is (being) led"**
+
+8. moveō -> 3rd pl. present passive  
+**moventur -- "they are (being) moved"**
+
+9. scrībō -> 3rd sg. present active  
+**scrībit -- "she writes"**
+
+10. teneō -> 3rd pl. present active  
+**tenent -- "they hold"**
+
+### Part 2
+{: .no_toc }
+
+1. puerī carmina cum matribus suīs canunt.  
+**The boys are singing the songs with their mothers.**
+
+2. equī ab agricolā ducuntur.  
+**The horses are (being) led by the farmer.**
+
+3. periculum ab omnibus nautīs vidētur.  
+**The danger is (being) seen by all the sailors.**
+
+4. hostēs in domūs cīvium currunt.  
+**The enemies are running into the homes of the citizens.**
+
+5. monstrum ē marī venit.  
+**The monster is coming out of the sea.**
+
+***
+
 ## Homework 15 (Due R 3/2)
+
+1. habeō -> 3rd sg. future active  
+**habēbit -- "she will have"**
+
+2. habeō -> 3rd sg. imperfect active  
+**habēbat -- "she was having"**
+
+3. demonstrō -> 3rd pl. future passive  
+**dēmonstrābuntur -- "they will be shown"**
+
+4. demonstrō -> 3rd pl. imperfect passive  
+**dēmonstrābantur -- "they were being shown"**
+
+5. moveō -> 3rd sg. future passive  
+**movēbitur -- "he will be moved"**
+
+6. moveō -> 3rd sg. imperfect passive  
+**movēbātur -- "he was being moved"**
+
+7. teneō -> 3rd pl. future active  
+**tenēbunt -- "they will hold"**
+
+8. teneō -> 3rd pl. imperfect active  
+**tenēbant -- "they were holding"**
+
+9. amō -> 3rd sg. future active  
+**amābit -- "she will love"**
+
+10. amō -> 3rd sg. future passive  
+**amābitur -- "she will be loved"**
+
+***
+
+## Homework 15.5 (Due M 3/6)
+
+### Part 1
+{: .no_toc }
+
+1. canō -> 3rd sg. future active  
+**canet -- "he will sing"**
+
+2. canō -> 3rd sg. present active  
+**canit -- "he is singing"**
+
+3. dormiō -> 3rd pl. future active  
+**dormient -- "they will sleep"**
+
+4. dormiō -> 3rd pl. present active  
+**dormiunt -- "they are sleeping"**
+
+5. moneō -> 3rd sg. future passive  
+**monēbitur -- "she will be warned"**
+
+6. moneō -> 3rd sg. imperfect passive  
+**monēbātur -- "she was being warned"**
+
+7. scrībō -> 3rd pl. future passive  
+**scrībentur -- "they will be written"**
+
+8. scrībō -> 3rd pl. present passive  
+**scrībuntur -- "they are writing"**
+
+9. scrībō -> 3rd pl. imperfect passive  
+**scrībēbantur -- "they were being written"**
+
+10. audiō -> 3rd pl. present active  
+**audiunt -- "they hear"**
+
+11. audiō -> 3rd pl. future active  
+**audient -- "they will hear"**
+
+12. faciō -> 3rd sg. imperfect active  
+**faciēbātur -- "it was being made / it was becoming"**
+
+13. faciō -> 3rd sg. future active  
+**faciet -- "he will make"**
+
+14. faciō -> 3rd sg. present active  
+**facit -- "he makes"**
+
+15. faciō -> 3rd sg. future passive  
+**faciētur -- "it will be made / it will become"**
+
+### Part 2
+{: .no_toc }
+
+* 3rd sg. pres. act: **cupit**
+* 3rd sg. pres. pass.: **cupitur**
+* 3rd sg. impf. act.: **cupiēbat**
+* 3rd sg. impf. pass.: **cupiēbātur**
+* 3rd sg. fut. act.: **cupiet**
+* 3rd sg. fut. pass.: **cupiētur**
+* 3rd sg. perf. act.: **cupīvit / cupiit**
+* 3rd sg. perf. pass.: **cupitus, -a, -um est**
+
+***
+
 ## Homework 16 (Due W 3/8)
 ## Homework 17 (Due R 3/9)
 ## Homework 18 (Due W 3/22)
