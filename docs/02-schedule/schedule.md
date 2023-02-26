@@ -408,6 +408,7 @@ Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 
 #### HW due by start of next class
 {: .no_toc }
+* (Optional) [Homework 15.5](../homework/homework#homework-155-due-m-36)
 * Quiz 5
 * Article Reflection 2
 
