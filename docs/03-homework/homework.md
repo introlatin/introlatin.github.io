@@ -520,7 +520,7 @@ amō -> 3rd sg. future active
 **amābit -- "she will love"**
 
 1. canō -> 3rd sg. future active
-2. canō -> 3rd sg. present active
+2. moveō -> 3rd sg. present active
 3. dormiō -> 3rd pl. future active
 4. dormiō -> 3rd pl. present active
 5. moneō -> 3rd sg. future passive

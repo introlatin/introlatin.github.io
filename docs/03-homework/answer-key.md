@@ -717,8 +717,8 @@ subject = **monstrum**; verb = **captum est**
 1. canō -> 3rd sg. future active  
 **canet -- "he will sing"**
 
-2. canō -> 3rd sg. present active  
-**canit -- "he is singing"**
+2. moveō -> 3rd sg. present active  
+**movet -- "he is moving"**
 
 3. dormiō -> 3rd pl. future active  
 **dormient -- "they will sleep"**
