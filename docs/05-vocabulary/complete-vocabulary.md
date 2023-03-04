@@ -114,6 +114,7 @@ parent: Vocabulary
 * lacus, lacūs, m. - lake [(Logeion entry)](https://logeion.uchicago.edu/lacus)
 * laetus, laeta, laetum - happy [(Logeion entry)](https://logeion.uchicago.edu/laetus)
 * līber, lībera, līberum - free [(Logeion entry)](https://logeion.uchicago.edu/liber)
+* līber, līberī, m. - child [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * liber, librī, m. - book [(Logeion entry)](https://logeion.uchicago.edu/liber)
 * licet - (impersonal verb) it is allowed; (conjunction + pres. or perf. subjunctive) although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/licet)
 * longus, longa, longum - long [(Logeion entry)](https://logeion.uchicago.edu/longus)

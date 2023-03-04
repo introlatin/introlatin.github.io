@@ -419,8 +419,8 @@ Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 ### Week 8 Resources
 {: .no_toc }
 
-* [Week 8 Vocabulary](#) (link TBD)
-* [Week 8 Paradigms](#) (link TBD)
+* [Week 8 Vocabulary](../vocabulary/week-08-vocabulary)
+* [Week 8 Paradigms](../vocabulary/week-08-vocabulary)
 
 ***
 
