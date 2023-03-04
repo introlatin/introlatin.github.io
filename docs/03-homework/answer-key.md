@@ -831,7 +831,42 @@ subject = **monstrum**; verb = **captum est**
 **dormīre - complementary**  
 **The daughter was able to sleep for the entire night.**
 
+***
+
 ## Homework 17 (Due R 3/9)
+
+### Part 1
+{: .no_toc }
+
+1. agricola equōs ā viā duxit.  
+**dīcit agricolam equōs ā viā duxisse.**  
+**She says that the farmer led the horses away from the road.**
+
+2. pater prīmā hōrā in domum venit. (present tense)  
+**dīcit patrem prīmā hōrā in domum venīre.**  
+**She says that the father is coming into the home at/in the first hour.**
+
+3. vocēs ā liberīs audītae sunt.  
+**dīcit vocēs ā liberīs audītās sunt.**  
+**She says that the voices were / have been heard by the children.**
+
+### Part 2
+{: .no_toc }
+
+1. dīcit cīvēs laetōs factōs esse.  
+**cīvēs laetī factī sunt.**  
+**The citizens became happy.** 
+
+2. dīcit carmen ā virō canī.  
+**carmen ā virō canitur.**  
+**The song is (being) sung by the man.**
+
+3. dīcit puellās in agrōs cucurrisse.  
+**puellae in agrōs cucurrērunt.**  
+**The girls ran into the fields.**
+
+***
+
 ## Homework 18 (Due W 3/22)
 ## Homework 19 (Due R 3/23)
 ## Homework 20 (Due M 3/27)

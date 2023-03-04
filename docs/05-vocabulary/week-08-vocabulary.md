@@ -22,6 +22,7 @@ parent: Vocabulary
 
 ### Head Verbs (introducing indirect statements)
 
+* cognoscō, cognoscere, cognōvī, cognitus - to perceive, recognize, see, understand, know [(Logeion entry)](https://logeion.uchicago.edu/cognosco) 
 * credō, credere, credidī, creditus - to believe (+ dative object, or + indirect statement) [(Logeion entry)](https://logeion.uchicago.edu/credo)
 * dīcō, dīcere, dixī, dictus - to say, speak, tell [(Logeion entry)](https://logeion.uchicago.edu/dico)
 * discō, discere, didicī, disciturus - to learn [(Logeion entry)](https://logeion.uchicago.edu/disco)

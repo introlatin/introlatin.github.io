@@ -583,9 +583,42 @@ puer potest in domum currere.
 4. licet cībum capere.
 5. fīlia dormīre tōtam noctem poterat.
 
+[Answer key here](answer-key#homework-16-due-w-38).
+
 ***
 
 ## Homework 17 (Due R 3/9)
+
+### Part 1
+{: .no_toc }
+
+Each of the following sentences presents a direct statement. Turn it into an **indirect statement** following the main verb **dīcit** ("she says"), and then **translate the indirect statement**. For example:
+
+fīlius ā matre amātur.  
+**dīcit fīlium ā matre amārī.**  
+**She says that the son is (being loved) by his mother.**
+
+1. agricola equōs ā viā duxit.
+2. pater prīmā hōrā in domum venit. (present tense)
+3. vocēs ā liberīs audītae sunt.
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences presents an indirect statement introduced by the main verb **dīcit** ("she says"). Turn the indirect statement into a **direct statement**, and **translate the direct statement**. For example:
+
+dīcit arbōrem magnam esse.  
+**arbor magna est.**  
+**The tree is large.**
+
+1. dīcit cīvēs laetōs factōs esse.
+2. dīcit carmen ā virō canī.
+3. dīcit puellās in agrōs cucurrisse.
+
+[Answer key here](answer-key#homework-17-due-r-39).
+
+***
+
 ## Homework 18 (Due W 3/22)
 ## Homework 19 (Due R 3/23)
 ## Homework 20 (Due M 3/27)
