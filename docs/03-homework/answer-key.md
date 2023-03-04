@@ -774,6 +774,63 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 16 (Due W 3/8)
+
+### Part 1
+{: .no_toc }
+
+1. canō -> present passive  
+**canī, "to be sung"**
+
+2. moveō -> present passive  
+**movērī, "to be moved"**
+
+3. interficiō -> present active  
+**interficere, "to kill"**
+
+4. stō -> perfect active  
+**stetisse, "to have stood"**
+
+5. videō -> perfect passive  
+**vīsum esse, "to have been seen" or "to seem"**
+
+6. sciō -> present passive  
+**scīrī, "to be known"**
+
+7. sum -> present active  
+**esse, "to be"**
+
+8. sum -> perfect active  
+**fuisse, "to have been"**
+
+9. rogō -> perfect passive  
+**rogātum esse, "to have been asked"**
+
+10. relinquō -> perfect passive  
+**relictum esse, "to have been left"**
+
+### Part 2
+{: .no_toc }
+
+1. est bonum illō aurum dare.  
+**dare - subjective**  
+**It is good to give the gold to that person.** or **To give the gold to that person is good.**
+
+2. nautae ē nāvibus venīre debent.  
+**venīre - complementary**  
+**The sailors should come out of the ships.**
+
+3. carmina illa ab omnibus audīrī poterunt.  
+**audīrī - complementary**  
+**Those songs will be able to be heard by all the people / everyone.**
+
+4. licet cībum capere.  
+**capere - subjective**  
+**It is allowed to take the food."** or **"To take the food is allowed."**
+
+5. fīlia dormīre tōtam noctem poterat.  
+**dormīre - complementary**  
+**The daughter was able to sleep for the entire night.**
+
 ## Homework 17 (Due R 3/9)
 ## Homework 18 (Due W 3/22)
 ## Homework 19 (Due R 3/23)

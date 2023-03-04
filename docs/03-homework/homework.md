@@ -545,6 +545,46 @@ Complete a synopsis in the **3rd person singular** across all the verb tenses (p
 ***
 
 ## Homework 16 (Due W 3/8)
+
+### Part 1
+{: .no_toc }
+
+Each of the following gives you the first principal part of a verb that can be found in our [Complete Vocabulary](../vocabulary/complete-vocabulary). Give the requested form of the **infinitive** of that verb. If asked for the **perfect passive infinitive**, use the **neuter singular** participle. Then, **translate the infinitive**. For example:
+
+amō -> perfect active  
+**amāvisse, "to have loved"**
+
+amō -> perfect passive  
+**amātum esse, "to have been loved"**
+
+1. canō -> present passive
+2. moveō -> present passive
+3. interficiō -> present active
+4. stō -> perfect active
+5. videō -> perfect passive
+6. sciō -> present passive 
+7. sum -> present active
+8. sum -> perfect active
+9. rogō -> perfect passive
+10. relinquō -> perfect passive
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains either a **subjective infinitive** or **complementary infinitive**. Indicate **the infinitive**, whether it's **subjective or copmlementary**, and then **translate the sentence**. For example:
+
+puer potest in domum currere.  
+**currere - complementary**  
+**The boy is able to run into the home.** *or* **The boy can run into the home.**
+
+1. est bonum illō aurum dare.
+2. nautae ē nāvibus venīre debent.
+3. carmina illa ab omnibus audīrī poterunt.
+4. licet cībum capere.
+5. fīlia dormīre tōtam noctem poterat.
+
+***
+
 ## Homework 17 (Due R 3/9)
 ## Homework 18 (Due W 3/22)
 ## Homework 19 (Due R 3/23)

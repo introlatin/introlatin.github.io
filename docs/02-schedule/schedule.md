@@ -431,8 +431,8 @@ Infinitives; *possum, posse, potuī*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/6](#) (link TBD)
-* Infinitives
+* [Slideshow - M 3/6](https://docs.google.com/presentation/d/1t0MWmarSsYI1XIbeP-NOrycSbZ4o4s9TfHtfZ-9IgX0/edit?usp=sharing)
+* [Infinitives](../textbook/verbs/infinitives)
 
 #### HW due by start of next class
 {: .no_toc }

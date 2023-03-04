@@ -153,6 +153,18 @@ Analyze the word carefully in terms of spelling to determine what tense it is!
 
 ***
 
+## esse
+
+The future tense of **sum, esse, fuī, futūrus - "to be"** is irregular, just like its present system counterparts in the present tense and imperfect tense.
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | erō       | erimus      |
+| 2nd  | eris        | eritis       |
+| 3rd  | **erit**        | **erunt**     |
+
+***
+
 ## Summary
 
 You must be aware of a verb's conjugation when dealing with the future tense, because of the differences in endings used (**bo bi bu in 1 and 2, a and e in 4 and 3**). For comparison, here are charts that have future tense forms across all five conjugations:
