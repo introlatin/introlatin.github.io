@@ -868,6 +868,28 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 18 (Due W 3/22)
+
+**NOTE**: Word order is highly variable in sentences of this length, so the sentences below are just examples of how the words in the sentence can be organized. What is more important, however, is that your nouns are in the same cases and your verbs are in the same tenses.
+
+1. The leader recognized that the sailor had given the gold to the farmers.  
+**dux cognōvit nautam aurum agricolīs dedisse.**
+
+2. The boy saw that the horses were in the fields.  
+**puer vīdit equōs in agrīs esse.**
+
+3. The father believes that the sons were able to see the trees.  
+**pater credit fīliōs vidēre arbōrēs potuisse.**
+
+4. The girls are learning that their father wrote many things.  
+**puellae discunt patrem (suum) multa scripsisse.**
+
+    * NOTE: A reflexive in an indirect statement can refer either to the subject of the indirect statement *or* the subject of the main verb.
+
+5. The soldier said that the enemies had taken the city.  
+**miles dixit hostēs urbem cēpisse.**
+
+***
+
 ## Homework 19 (Due R 3/23)
 ## Homework 20 (Due M 3/27)
 ## Homework 21 (Due W 3/29)

@@ -620,6 +620,19 @@ dīcit arbōrem magnam esse.
 ***
 
 ## Homework 18 (Due W 3/22)
+
+Translate each of the following sentences into Latin. Be aware of the tenses of your main verb and your infinitive in terms of relativity of time.
+
+1. The leader recognized that the sailor had given the gold to the farmers.
+2. The boy saw that the horses were in the fields.
+3. The father believes that the sons were able to see the trees.
+4. The girls are learning that their father wrote many things.
+5. The soldier said that the enemies had taken the city.
+
+[Answer key here](answer-key#homework-18-due-w-322).
+
+***
+
 ## Homework 19 (Due R 3/23)
 ## Homework 20 (Due M 3/27)
 ## Homework 21 (Due W 3/29)

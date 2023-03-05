@@ -447,8 +447,8 @@ Indirect Statement
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/8](#) (link TBD)
-* Indirect Statement
+* [Slideshow - W 3/8](https://docs.google.com/presentation/d/1TR-y8RJu8t7pT3w-pAf-p1N4pIZTzXfAzDvcORWet30/edit?usp=sharing)
+* [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -463,8 +463,8 @@ Indirect Statement continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/9](#) (link TBD)
-* Indirect Statement
+* [Slideshow - R 3/9](https://docs.google.com/presentation/d/1TR-y8RJu8t7pT3w-pAf-p1N4pIZTzXfAzDvcORWet30/edit?usp=sharing)
+* [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
 {: .no_toc }
