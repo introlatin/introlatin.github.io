@@ -634,6 +634,18 @@ Translate each of the following sentences into Latin. Be aware of the tenses of 
 ***
 
 ## Homework 19 (Due R 3/23)
+
+For each of the following sentences, fill in the blank with an appropriate form of the **relative pronoun**, based on an antecedent that immediately precedes the blank and the idea communicated in the relative clause, and then **translate the whole sentence**. For example:
+
+puer ___________ carmina cecinit in domō erat.  
+* **quī** [relative clause goes until **cecinit**; **carmina** is neuter plural, so it cannot be the nominative subject and must be an accusative direct object; this means we need a *nominative singular* subject for **cecinit**, and with **puer** as the antecedent, we need it to be masculine]
+* **The boy who sang the songs was in the house.**
+
+1. mater ______ fīliae amāvērunt patrī lībrōs dedit.
+2. 
+
+***
+
 ## Homework 20 (Due M 3/27)
 ## Homework 21 (Due W 3/29)
 ## Homework 22 (Due R 3/30)
