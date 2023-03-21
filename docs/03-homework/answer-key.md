@@ -891,7 +891,48 @@ subject = **monstrum**; verb = **captum est**
 ***
 
 ## Homework 19 (Due R 3/23)
+
+1. līberī dormiunt dum mater et pater laborant.  
+dependent clause: dum mater et pater laborant  
+translation: The children are sleeping while the mother and father are working.
+
+2. cum mīles nāvēs vīdit, dixit hostēs venīre.  
+dependent clause: cum mīles nāvēs vīdit  
+translation: When the soldier saw the ships, he said that the enemies were coming.
+
+3. puerī ubi arborēs magnae erant sēdērunt.  
+dependent clause: ubi arbōrēs magnae erant  
+translation: The boys sat where the trees were large.
+
+4. pater laetus erat quia fīlium cum sorōre vīdit.  
+dependent clause: quia fīlium cum sorōre vīdit.  
+translation: The father was happy because he saw his son with his sister.
+
+5. dum puer cum matre carmina canēbat, puella cum patre in templum veniēbat.  
+dependent clause: dum puer cum matre carmina canēbat  
+translation: While the boy was singing songs with his mother, the girl was coming into the temple with her father.
+
+***
+
 ## Homework 20 (Due M 3/27)
+
+1. mater ______ fīliae amāvērunt patrī lībrōs dedit. [Make the relative pronoun a *direct object.*]  
+**quam** [fem. acc. sg.] - The mother whom the daughters loved gave the books to the father.
+
+2. oppidum ______ ā cīvibus vīsum est pulchrum erat. [Make the relative pronoun a *subject*.]  
+**quod** [neut. nom. sg.] - The town which was seen by the citizens was beautiful.
+
+3. ducēs ______ mīlitēs fortēs erant ā nāvibus vēnērunt. [Make the relative pronoun a *possessor*.]  
+**quōrum** [masc. gen. pl.] - The leaders whose soldiers were brave came from the ships.
+
+4. pater dīxit nōmina ______ puella cognōvit. [Make the relative pronoun a *direct object*.]  
+**quae** [neut. acc. pl.] - The father said names that the girl recognized.
+
+5. rex _______ cīvēs aurum dant malus est. [Make the relative pronoun an *indirect object*.]  
+**cui** [masc. dat. sg.] - The king to whom the citizens give the gold is evil.
+
+***
+
 ## Homework 21 (Due W 3/29)
 ## Homework 22 (Due R 3/30)
 ## Homework 23 (Due W 4/12)

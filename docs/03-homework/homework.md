@@ -635,18 +635,40 @@ Translate each of the following sentences into Latin. Be aware of the tenses of 
 
 ## Homework 19 (Due R 3/23)
 
-For each of the following sentences, fill in the blank with an appropriate form of the **relative pronoun**, based on an antecedent that immediately precedes the blank and the idea communicated in the relative clause, and then **translate the whole sentence**. For example:
+Identify the **dependent clause** in each of the following sentences, and then **translate the sentence**. For example:
 
-puer ___________ carmina cecinit in domō erat.  
-* **quī** [relative clause goes until **cecinit**; **carmina** is neuter plural, so it cannot be the nominative subject and must be an accusative direct object; this means we need a *nominative singular* subject for **cecinit**, and with **puer** as the antecedent, we need it to be masculine]
-* **The boy who sang the songs was in the house.**
+quia in domō erat, agricola equōs nōn vīdit.  
+* dependent clause: **quia in domō erat**
+* translation: "Because he was in the house, the farmer did not see the horse."
 
-1. mater ______ fīliae amāvērunt patrī lībrōs dedit.
-2. 
+1. līberī dormiunt dum mater et pater laborant.
+2. cum mīles nāvēs vīdit, dixit hostēs venīre.
+3. puerī ubi arborēs magnae erant sēdērunt.
+4. pater laetus erat quia fīlium cum sorōre vīdit.
+5. dum puer cum matre carmina canēbat, puella cum patre in templum veniēbat.
+
+[Answer key here](answer-key#homework-19-due-r-323).
 
 ***
 
 ## Homework 20 (Due M 3/27)
+
+For each of the following sentences, fill in the blank with an appropriate form of the **relative pronoun**, based on an antecedent that immediately precedes the blank and the clue following the sentence, and then **translate the whole sentence**. For example:
+
+puer ___________ carmina cecinit in domō erat. [Make the relative pronoun a *subject*.]  
+* **quī** [masc. nominative sg.]
+* **The boy who sang the songs was in the house.**
+
+1. mater ______ fīliae amāvērunt patrī lībrōs dedit. [Make the relative pronoun a *direct object*.]
+2. oppidum ______ ā cīvibus vīsum est pulchrum erat. [Make the relative pronoun a *subject*.]
+3. ducēs ______ mīlitēs fortēs erant ā nāvibus vēnērunt. [Make the relative pronoun a *possessor*.]
+4. pater dīxit nōmina ______ puella cognōvit. [Make the relative pronoun a *direct object*.]
+5. rex _______ cīvēs aurum dant malus est. [Make the relativfe pronoun an *indirect object*.]
+
+[Answer key here](answer-key#homework-20-due-m-327).
+
+***
+
 ## Homework 21 (Due W 3/29)
 ## Homework 22 (Due R 3/30)
 ## Homework 23 (Due W 4/12)

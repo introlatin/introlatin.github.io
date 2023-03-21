@@ -89,6 +89,7 @@ parent: Vocabulary
 * forsitan - (adverb) perhaps [(Logeion entry)](https://logeion.uchicago.edu/forsitan)
 * fortasse - (adverb) perhaps [(Logeion entry)](https://logeion.uchicago.edu/fortasse)
 * fortis, forte - strong, brave [(Logeion entry)](https://logeion.uchicago.edu/fortis)
+* frāter, frātris, m. - brother [(Logeion entry)](https://logeion.uchicago.edu/frater)
 * frigidus, frigida, frigidum - cold, cool [(Logeion entry)](https://logeion.uchicago.edu/frigidus)
 * fugiō, fugere, fūgī, fugitus - to flee [(Logeion entry)](https://logeion.uchicago.edu/fugio)
 
@@ -111,6 +112,7 @@ parent: Vocabulary
 * ita (adverb) - so, such a (+ adjective) [(Logeion entry)](https://logeion.uchicago.edu/ita)
 * iuvat - (impersonal) it is pleasing [(Logeion entry)](https://logeion.uchicago.edu/iuvo)
 
+* laborō, laborāre, laborāvī, laborātus - to work [(Logeion entry)](https://logeion.uchicago.edu/laboro)
 * lacus, lacūs, m. - lake [(Logeion entry)](https://logeion.uchicago.edu/lacus)
 * laetus, laeta, laetum - happy [(Logeion entry)](https://logeion.uchicago.edu/laetus)
 * līber, lībera, līberum - free [(Logeion entry)](https://logeion.uchicago.edu/liber)
@@ -196,6 +198,7 @@ parent: Vocabulary
 * similis, simile - similar [(Logeion entry)](https://logeion.uchicago.edu/similis)
 * sine - (+ abl.) without [(Logeion entry)](https://logeion.uchicago.edu/sine)
 * sōlus, sōla, sōlum - alone, only, single, sole [(Logeion entry)](https://logeion.uchicago.edu/solus)
+* soror, sorōris, f. - sister [(Logeion entry)](https://logeion.uchicago.edu/soror)
 * sperō, sperāre, sperāvī, sperātus - to hope [(Logeion entry)](https://logeion.uchicago.edu/spero)
 * spēs, speī, f. - hope, expectation [(Logeion entry)](https://logeion.uchicago.edu/spes)
 * stō, stare, stetī, status - to stand [(Logeion entry)](https://logeion.uchicago.edu/sto)
