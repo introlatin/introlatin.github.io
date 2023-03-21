@@ -505,7 +505,7 @@ Dependent Clauses and Relative Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/22](#) (link TBD)
+* [Slideshow - W 3/22](https://docs.google.com/presentation/d/1cV2gWoo18i_bqSAPIk6N49JQvhVNtsDGxs3RVnTtUvI/edit?usp=sharing)
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
@@ -521,7 +521,7 @@ Relative Clauses continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/23](#) (link TBD)
+* [Slideshow - R 3/23](https://docs.google.com/presentation/d/1cV2gWoo18i_bqSAPIk6N49JQvhVNtsDGxs3RVnTtUvI/edit?usp=sharing)
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
