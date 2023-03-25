@@ -934,6 +934,54 @@ translation: While the boy was singing songs with his mother, the girl was comin
 ***
 
 ## Homework 21 (Due W 3/29)
+
+1. est  
+3rd sg. present active, "she is"
+
+2. ferunt  
+3rd pl. present active, "they carry"
+
+3. ībant  
+3rd pl. imperfect active, "they were going"
+
+4. potuērunt  
+3rd pl. perfect active, "they were able"
+
+5. poterant  
+3rd pl. imperfect active, "they were able"
+
+6. tulit  
+3rd sg. perfect active, "he brought"
+
+7. eunt  
+3rd pl. present active, "they go"
+
+8. feret  
+3rd sg. future active, "she will bring"
+
+9. fertur  
+3rd sg. present passive, "it is brought"
+
+10. erat  
+3rd sg. imperfect active, "it was"
+
+11. latum est  
+3rd sg. perfect passive, "it was brought"
+
+12. ferentur  
+3rd pl. future passive, "they will be brought"
+
+13. feruntur  
+3rd pl. present passive, "they are brought"
+
+14. ībit  
+3rd sg. future active, "she will go"
+
+15. ībat  
+3rd sg. imperfect active, "she was going"
+
+***
+
 ## Homework 22 (Due R 3/30)
 ## Homework 23 (Due W 4/12)
 ## Homework 24 (Due R 4/13)

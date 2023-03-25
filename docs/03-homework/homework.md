@@ -670,6 +670,29 @@ puer ___________ carmina cecinit in domō erat. [Make the relative pronoun a *su
 ***
 
 ## Homework 21 (Due W 3/29)
+
+Identify the **person, number, tense, and voice** of each of the following irregular verbs and **give a sample translation**.
+
+1. est
+2. ferunt
+3. ībant
+4. potuērunt
+5. poterant
+6. tulit
+7. eunt
+8. feret
+9. fertur
+10. erat
+11. latum est
+12. ferentur
+13. feruntur
+14. ībit
+15. ībat
+
+[Answer key here](answer-key#homework-21-due-w-329).
+
+***
+
 ## Homework 22 (Due R 3/30)
 ## Homework 23 (Due W 4/12)
 ## Homework 24 (Due R 4/13)

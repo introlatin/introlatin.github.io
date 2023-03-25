@@ -548,7 +548,7 @@ Irregular Verbs: *ferō*, *eō*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/27](#) (link TBD)
+* [Slideshow - M 3/27](https://docs.google.com/presentation/d/1maCKJGyvzfMmjqOzhe6GdTzNtptdm8cQthhiMIpAkgs/edit?usp=sharing)
 * [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
