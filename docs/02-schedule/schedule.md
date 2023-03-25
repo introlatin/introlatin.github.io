@@ -420,7 +420,7 @@ Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 {: .no_toc }
 
 * [Week 8 Vocabulary](../vocabulary/week-08-vocabulary)
-* [Week 8 Paradigms](../vocabulary/week-08-vocabulary)
+* [Week 8 Paradigms](../paradigms/week-08-paradigms)
 
 ***
 
@@ -486,8 +486,8 @@ Indirect Statement continued
 ### Week 9 Resources
 {: .no_toc }
 
-* [Week 9 Vocabulary](#) (link TBD)
-* [Week 9 Paradigms](#) (link TBD)
+* [Week 9 Vocabulary](../vocabulary/week-09-vocabulary) (link TBD)
+* [Week 9 Paradigms](../paradigms/week-09-paradigms) (link TBD)
 
 ***
 
@@ -536,8 +536,8 @@ Relative Clauses continued
 ### Week 10 Resources
 {: .no_toc }
 
-* [Week 10 Vocabulary](#) (link TBD)
-* [Week 10 Paradigms](#) (link TBD)
+* [Week 10 Vocabulary](../vocabulary/week-10-vocabulary)
+* [Week 10 Paradigms](../paradigms/week-10-paradigms)
 
 ***
 
@@ -549,6 +549,7 @@ Irregular Verbs: *ferō*, *eō*
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/27](#) (link TBD)
+* [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -564,6 +565,7 @@ Irregular Verbs: *volo*, *nolo*, *malo*
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/29](#) (link TBD)
+* [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
 {: .no_toc }

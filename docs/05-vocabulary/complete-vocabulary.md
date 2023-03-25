@@ -123,6 +123,7 @@ parent: Vocabulary
 * lux, lucis, f. - light, daylight [(Logeion entry)](https://logeion.uchicago.edu/lux)
 
 * magnus, magna, magnum - large, great, big [(Logeion entry)](https://logeion.uchicago.edu/magnus)
+* mālō, malle, maluī, -- - to prefer (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/malo)
 * malus, mala, malum - bad, evil [(Logeion entry)](https://logeion.uchicago.edu/malus)
 * manus, manūs, f. - hand; armed force (of soldiers) [(Logeion entry)](https://logeion.uchicago.edu/manus)
 * mare, maris, n. - sea [(Logeion entry)](https://logeion.uchicago.edu/mare)
@@ -147,6 +148,7 @@ parent: Vocabulary
 * nesciō, nescīre, nescīvī, nescītus - not to know, to be ignorant [(Logeion entry)](https://logeion.uchicago.edu/nescio)
 * neuter, neutra, neutrum - neither [of two] [(Logeion entry)](https://logeion.uchicago.edu/neuter)
 * nisī - if ... not, unless [(Logeion entry)](https://logeion.uchicago.edu/nisi)
+* nōlō, nolle, noluī, -- - not to want, not to be willing (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/nolo)
 * nōmen, nōminis, n. - name [(Logeion entry)](https://logeion.uchicago.edu/nomen)
 * nōn - not [(Logeion entry)](https://logeion.uchicago.edu/non)
 * nox, noctis, f. - night [(Logeion entry)](https://logeion.uchicago.edu/nox)
@@ -175,6 +177,7 @@ parent: Vocabulary
 * pulcher, pulchra, pulchrum - beautiful, handsome, pretty [(Logeion entry)](https://logeion.uchicago.edu/pulcher)
 * putō, putāre, putāvī, putātus - to think [(Logeion entry)](https://logeion.uchicago.edu/puto)
 
+* quam - (rather) than (when used with *mālō* or a comparative adjective or adverb) [(Logeion entry)](https://logeion.uchicago.edu/quam)
 * quamquam - (+ ind. or subj.) although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/quamquam)
 * quamvis - (+ subj.) although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/quamvis)
 * quī, quae, quod - (relative pronoun) who(m), which, that [(Logeion entry)](https://logeion.uchicago.edu/qui)
@@ -239,4 +242,5 @@ parent: Vocabulary
 * vincō, vincere, vīci, victus - to conquer, win [(Logeion entry)](https://logeion.uchicago.edu/vinco)
 * vir, virī, m. - man [(Logeion entry)](https://logeion.uchicago.edu/vir)
 * virtus, virtūtis, f. - courage, virtue, strength, character [(Logeion entry)](https://logeion.uchicago.edu/virtus)
+* volō, velle, voluī, -- - to want, to be willing (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/volo)
 * vox, vocis, f. - voice [(Logeion entry)](https://logeion.uchicago.edu/vox)
