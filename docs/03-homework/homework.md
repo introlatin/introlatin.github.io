@@ -694,6 +694,22 @@ Identify the **person, number, tense, and voice** of each of the following irreg
 ***
 
 ## Homework 22 (Due R 3/30)
+
+Each of the following sentences contains a blank. Fill it in with an appropriate form of the requested verb in the requested tense, and then translate the whole sentence. For example:
+
+puer _________ matrem vidēre. [volō -> present]  
+* **vult** - "The boy wants to see his mother."
+
+1. mīles _________ ē nāve venīre. [nōlō -> future]
+2. equī _________ currere in agrīs quam in urbe. [mālō -> present]
+3. dux _________ cum mīlitibus ad hostēs īre. [vōlō -> imperfect]
+4. puella _________ urbem relinquere. [nōlō -> present]
+5. sorōrēs _________ dōna frātribus dare. [mālō -> future]
+
+[Answer key here](answer-key#homework-22-due-r-330).
+
+***
+
 ## Homework 23 (Due W 4/12)
 ## Homework 24 (Due R 4/13)
 ## Homework 25 (Due M 4/17)

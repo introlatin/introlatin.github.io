@@ -564,7 +564,7 @@ Irregular Verbs: *volo*, *nolo*, *malo*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/29](#) (link TBD)
+* [Slideshow - W 3/29](https://docs.google.com/presentation/d/1k0Z1j9a042P3CXgh1nr1yYTEMky5dGF2o2wTQQEReVw/edit?usp=sharing)
 * [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class

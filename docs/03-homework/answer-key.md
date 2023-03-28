@@ -983,6 +983,24 @@ translation: While the boy was singing songs with his mother, the girl was comin
 ***
 
 ## Homework 22 (Due R 3/30)
+
+1. mīles _________ ē nāve venīre. [nōlō -> future]  
+**nōlet** - The soldier will not want to come out of the ship.
+
+2. equī _________ currere in agrīs quam in urbe. [mālō -> present]  
+**mālunt** - The horses prefer to run in the fields (rather) than in the city.
+
+3. dux _________ cum mīlitibus ad hostēs īre. [vōlō -> imperfect]  
+**volēbat** - The leader was willing to go towards the enemies with the soldiers.
+
+4. puella _________ urbem relinquere. [nōlō -> present]  
+**nōn vult** - The girl does not want to leave the city.
+
+5. sorōrēs _________ dōna frātribus dare. [mālō -> future]  
+**mālent** - The sisters will prefer to give the gifts to their brothers.
+
+***
+
 ## Homework 23 (Due W 4/12)
 ## Homework 24 (Due R 4/13)
 ## Homework 25 (Due M 4/17)
