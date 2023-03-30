@@ -580,7 +580,7 @@ Pluperfect and Future Perfect Tenses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/30](#) (link TBD)
+* [Slideshow - R 3/30](https://docs.google.com/presentation/d/1TU1aNLhMK8FyzRFp43_hVcQ-YQ8I_lItWU8QbOqnzII/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
