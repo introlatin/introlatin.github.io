@@ -1002,6 +1002,45 @@ translation: While the boy was singing songs with his mother, the girl was comin
 ***
 
 ## Homework 23 (Due W 4/12)
+
+1. regō -> 3rd sg. present active subjunctive  
+**regat**
+
+2. regō -> 3rd sg. future active indicative  
+**reget**
+
+3. regō -> 3rd sg. present active indicative  
+**regit**
+
+4. capiō -> 3rd pl. future passive indicative  
+**capientur**
+
+5. capiō -> 3rd pl. present passive indicative  
+**capiuntur**
+
+6. capiō -> 3rd pl. present passive subjunctive  
+**capiantur**
+
+7. dēmonstrō -> 3rd sg. imperfect active subjunctive  
+**dēmonstrāret**
+
+8. dēmonstrō -> 3rd sg. imperfect active indicative  
+**dēmonstrābat**
+
+9. dēmonstrō -> 3rd sg. future active indicative  
+**dēmonstrābit**
+
+10. moveō -> 3rd pl. imperfect passive indicative  
+**movērentur**
+
+11. moveō -> 3rd pl. future passive indicative  
+**movēbuntur** 
+
+12. moveō -> 3rd pl. imperfect passive subjunctive  
+**movēbantur**
+
+***
+
 ## Homework 24 (Due R 4/13)
 ## Homework 25 (Due M 4/17)
 ## Homework 26 (Due W 4/19)

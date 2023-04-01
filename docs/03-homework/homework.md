@@ -711,6 +711,26 @@ puer _________ matrem vidēre. [volō -> present]
 ***
 
 ## Homework 23 (Due W 4/12)
+
+Generate the requested form of the given verb.
+
+1. regō -> 3rd sg. present active subjunctive
+2. regō -> 3rd sg. future active indicative
+3. regō -> 3rd sg. present active indicative
+4. capiō -> 3rd pl. future passive indicative
+5. capiō -> 3rd pl. present passive indicative
+6. capiō -> 3rd pl. present passive subjunctive
+7. dēmonstrō -> 3rd sg. imperfect active subjunctive
+8. dēmonstrō -> 3rd sg. imperfect active indicative
+9. dēmonstrō -> 3rd sg. future active indicative
+10. moveō -> 3rd pl. imperfect passive indicative
+11. moveō -> 3rd pl. future passive indicative
+12. moveō -> 3rd pl. imperfect passive subjunctive
+
+[Answer key here](answer-key#homework-23-due-w-412).
+
+***
+
 ## Homework 24 (Due R 4/13)
 ## Homework 25 (Due M 4/17)
 ## Homework 26 (Due W 4/19)

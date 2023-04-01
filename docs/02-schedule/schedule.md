@@ -593,8 +593,8 @@ Pluperfect and Future Perfect Tenses
 ### Week 11 Resources
 {: .no_toc }
 
-* [Week 11 Vocabulary](#) (link TBD)
-* [Week 11 Paradigms](#) (link TBD)
+* [Week 11 Vocabulary](../vocabulary/week-11-vocabulary)
+* [Week 11 Paradigms](../paradigms/week-11-paradigms)
 
 ***
 
@@ -606,6 +606,8 @@ Imperative Mood and Subjunctive Overview
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 4/3](#) (link TBD)
+* [Imperative Mood](../textbook/subjunctive/imperative-mood)
+* [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -621,6 +623,7 @@ Present and Imperfect Subjunctive
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 4/5](#) (link TBD)
+* [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
 {: .no_toc }
