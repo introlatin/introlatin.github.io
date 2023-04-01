@@ -605,7 +605,7 @@ Imperative Mood and Subjunctive Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/3](#) (link TBD)
+* [Slideshow - M 4/3](https://docs.google.com/presentation/d/1VgEx6YgYxpWdfyvbJbyDT68fLW9a43f7zHeBQGdyca8/edit?usp=sharing)
 * [Imperative Mood](../textbook/subjunctive/imperative-mood)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
