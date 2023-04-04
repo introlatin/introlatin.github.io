@@ -57,6 +57,26 @@ parent: Paradigms
 | 2nd pl. | am**ē**minī | vid**eā**minī | reg**ā**minī | fac**iā**minī | aud**iā**minī |
 | 3rd pl. | am**e**ntur | vid**ea**ntur | reg**a**ntur | fac**ia**ntur | aud**ia**ntur |
 
+#### Irregulars
+
+| Pres. Subj. | (pos)sum | eō | ferō (act.) | ferō (pass.) |
+| --- | --- | --- | --- | --- |
+| 1st sg. | sim | eam | feram | ferar |
+| 2nd sg. | sīs | eās | ferās | ferāris |
+| 3rd sg. | sit | eat | ferat | ferātur |
+| 1st pl. | sīmus | eāmus | ferāmus | ferāmur |
+| 2nd pl. | sītis | eātis | ferātis | ferāminī |
+| 3rd pl. | sint | eant | ferant | ferantur |
+
+| Pres. Subj. | volō | nōlō | mālō |
+| --- | --- | --- | --- |
+| 1st sg. | velim | nōlim | mālim |
+| 2nd sg. | velīs | nōlīs | mālīs |
+| 3rd sg. | velit | nōlit | mālit |
+| 1st pl. | velīmus | nōlīmus | malīmus |
+| 2nd pl. | velītis | nōlītis | mālītis |
+| 3rd pl. | velint | nōlint | malint |
+
 ### Imperfect Subjunctive
 
 | Impf. Subj. | Active | Passive |

@@ -1039,6 +1039,30 @@ translation: While the boy was singing songs with his mother, the girl was comin
 12. moveō -> 3rd pl. imperfect passive subjunctive  
 **movēbantur**
 
+13. ferō -> 3rd sg. imperfect passive subjunctive  
+**ferrētur**
+
+14. ferō -> 3rd sg. future passive indicative  
+**ferētur**
+
+15. ferō -> 3rd sg. present passive subjunctive  
+**ferātur**
+
+16. eō -> 3rd pl. present active subjunctive  
+**eant**
+
+17. eō -> 3rd pl. present active indicative  
+**eunt**
+
+18. eō -> 3rd pl. imperfect active subjunctive  
+**īrent**
+
+19. sum -> 3rd pl. present active subjunctive  
+**sint**
+
+20. sum -> 3rd pl. present active indicative  
+**sunt**
+
 ***
 
 ## Homework 24 (Due R 4/13)

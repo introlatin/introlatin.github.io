@@ -726,6 +726,14 @@ Generate the requested form of the given verb.
 10. moveō -> 3rd pl. imperfect passive indicative
 11. moveō -> 3rd pl. future passive indicative
 12. moveō -> 3rd pl. imperfect passive subjunctive
+13. ferō -> 3rd sg. imperfect passive subjunctive
+14. ferō -> 3rd sg. future passive indicative
+15. ferō -> 3rd sg. present passive subjunctive
+16. eō -> 3rd pl. present active subjunctive
+17. eō -> 3rd pl. present active indicative
+18. eō -> 3rd pl. imperfect active subjunctive
+19. sum -> 3rd pl. present active subjunctive
+20. sum -> 3rd pl. present active indicative
 
 [Answer key here](answer-key#homework-23-due-w-412).
 
