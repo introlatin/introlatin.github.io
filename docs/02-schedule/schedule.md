@@ -622,7 +622,7 @@ Present and Imperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/5](#) (link TBD)
+* [Slideshow - W 4/5](https://docs.google.com/presentation/d/1rRZhDKFGo0b1-wGBvGw87GolZ2rgHuQpUMqhKIa_w8I/edit?usp=sharing)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
@@ -641,8 +641,8 @@ Present and Imperfect Subjunctive
 ### Week 12 Resources
 {: .no_toc }
 
-* [Week 12 Vocabulary](#) (link TBD)
-* [Week 12 Paradigms](#) (link TBD)
+* [Week 12 Vocabulary](../vocabulary/week-12-vocabulary)
+* [Week 12 Paradigms](../paradigms/week-12-paradigms)
 
 ***
 
@@ -653,7 +653,7 @@ Perfect and Pluperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/12](#) (link TBD)
+* [Slideshow - W 4/12](https://docs.google.com/presentation/d/1iscPHSxXN9WDuYqSXnhZSesewqADnqEEaol824vkZsQ/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -667,8 +667,6 @@ Perfect and Pluperfect Subjunctive
 Independent Subjunctives: Deliberative, Potential, Optative
 * In class: Check-in 28
 
-**NOTE: Twitch Stream is tonight (R 4/13) from 6 to 8pm, for the stream response due on M 4/17. It will be recorded if you cannot join live!**
-
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/13](#) (link TBD)
@@ -679,7 +677,6 @@ Independent Subjunctives: Deliberative, Potential, Optative
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 25](../homework/homework#homework-25-due-w-417)
-* Twitch Stream Response
 
 ***
 
@@ -697,6 +694,8 @@ Independent Subjunctives: Deliberative, Potential, Optative
 {: .no_toc }
 Dependent Subjunctives and Sequence of Tenses
 * In class: Check-in 29
+
+**NOTE: Twitch Stream is Tuesday afternoon (4/18) from 12 to 2pm, for the stream response due on R 4/20. It will be recorded if you cannot join live!**
 
 #### Resources and Readings
 {: .no_toc }
@@ -721,6 +720,7 @@ Circumstantial, Causal, and Concessive Clauses
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 27](../homework/homework#homework-27-due-r-420)
+* Twitch Stream Response
 
 ***
 
