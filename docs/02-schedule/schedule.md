@@ -670,9 +670,7 @@ Independent Subjunctives: Deliberative, Potential, Optative
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/13](#) (link TBD)
-* Deliberative Subjunctive
-* Potential Subjunctive
-* Optative Subjunctive
+* [Independent Subjunctives](../textbook/subjunctive/independent-subjunctives)
 
 #### HW due by start of next class
 {: .no_toc }

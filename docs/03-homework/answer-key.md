@@ -1066,6 +1066,54 @@ translation: While the boy was singing songs with his mother, the girl was comin
 ***
 
 ## Homework 24 (Due R 4/13)
+
+1. regō -> 3rd sg. perfect active subjunctive  
+**rexerit**
+
+2. regō -> 3rd sg. future perfect active indicative  
+**rexerit**
+
+3. regō -> 3rd sg. pluperfect active indicative  
+**rexerat**
+
+4. capiō -> 3rd pl. perfect passive indicative (masculine)  
+**captī sunt**
+
+5. capiō -> 3rd pl. pluperfect passive subjunctive (masculine)  
+**captī essent**
+
+6. capiō -> 3rd pl. perfect passive subjunctive (masculine)  
+**captī sint**
+
+7. dēmonstrō -> 3rd sg. pluperfect active subjunctive  
+**dēmonstrāvisset**
+
+8. dēmonstrō -> 3rd sg. perfect active indicative  
+**dēmonstrāvit**
+
+9. dēmonstrō -> 3rd sg. pluperfect passive subjunctive (neuter)  
+**dēmonstrātum esset**
+
+10. moveō -> 3rd pl. perfect passive indicative (feminine)  
+**motae sunt**
+
+11. moveō -> 3rd pl. future perfect active indicative  
+**mōverint**
+
+12. moveō -> 3rd pl. perfect active subjunctive  
+**mōverint**
+
+13. ferō -> 3rd sg. pluperfect passive subjunctive (neuter)  
+**latum esset**
+
+14. ferō -> 3rd sg. pluperfect active subjunctive  
+**tulisset**
+
+15. ferō -> 3rd sg. pluperfect active indicative  
+**tulerat**
+
+***
+
 ## Homework 25 (Due M 4/17)
 ## Homework 26 (Due W 4/19)
 ## Homework 27 (Due R 4/20)

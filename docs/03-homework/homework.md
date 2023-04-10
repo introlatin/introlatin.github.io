@@ -740,6 +740,29 @@ Generate the requested form of the given verb.
 ***
 
 ## Homework 24 (Due R 4/13)
+
+Generate the requested form of the given verb.
+
+1. regō -> 3rd sg. perfect active subjunctive
+2. regō -> 3rd sg. future perfect active indicative
+3. regō -> 3rd sg. pluperfect active indicative
+4. capiō -> 3rd pl. perfect passive indicative (masculine)
+5. capiō -> 3rd pl. pluperfect passive subjunctive (masculine)
+6. capiō -> 3rd pl. perfect passive subjunctive (masculine)
+7. dēmonstrō -> 3rd sg. pluperfect active subjunctive
+8. dēmonstrō -> 3rd sg. perfect active indicative
+9. dēmonstrō -> 3rd sg. pluperfect passive subjunctive (neuter)
+10. moveō -> 3rd pl. perfect passive indicative (feminine)
+11. moveō -> 3rd pl. future perfect active indicative
+12. moveō -> 3rd pl. perfect active subjunctive
+13. ferō -> 3rd sg. pluperfect passive subjunctive (neuter)
+14. ferō -> 3rd sg. pluperfect active subjunctive
+15. ferō -> 3rd sg. pluperfect active indicative
+
+[Answer key here](answer-key#homework-24-due-r-413).
+
+***
+
 ## Homework 25 (Due M 4/17)
 ## Homework 26 (Due W 4/19)
 ## Homework 27 (Due R 4/20)
