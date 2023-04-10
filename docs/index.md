@@ -26,3 +26,4 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Spring 2023, at Fairf
 
 ### Due M 4/17 at 9:30am
 
+* [Homework 25](../homework/homework#homework-25-due-m-417)
