@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Week 11 Vocabulary
-permalink: /vocabulary/week-11-vocabulary
-nav_order: 10
+title: Week 12 Vocabulary
+permalink: /vocabulary/week-12-vocabulary
+nav_order: 11
 parent: Vocabulary
 ---
 
-# Week 11 Vocabulary
+# Week 12 Vocabulary
 
 ## Adverbs / Particles
 

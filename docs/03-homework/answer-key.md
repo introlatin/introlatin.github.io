@@ -1115,6 +1115,24 @@ translation: While the boy was singing songs with his mother, the girl was comin
 ***
 
 ## Homework 25 (Due M 4/17)
+
+1. utinam nē monstrum in domum eat!  
+optative - If only the monster would not go into the home!
+
+2. forsitan equī ex agrīs veniant.  
+potential - Perhaps the horses might come out of the fields.
+
+3. nauta pecūniam caperet?  
+deliberative - Should the sailor have taken the money?
+
+4. utinam periculum vīdisset.  
+optative - If only she had seen the danger.
+
+5. magister hanc epistulam scrībat?  
+deliberative - Should the teacher write this letter?
+
+***
+
 ## Homework 26 (Due W 4/19)
 ## Homework 27 (Due R 4/20)
 ## Homework 28 (Due M 4/24)

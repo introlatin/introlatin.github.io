@@ -764,6 +764,19 @@ Generate the requested form of the given verb.
 ***
 
 ## Homework 25 (Due M 4/17)
+
+Each of the following sentences contains an independent use of the subjunctive. **Identify whether the sentence contains a deliberative, potential, or optative subjunctive, and then translate the sentence.**
+
+1. utinam nē monstrum in domum eat!
+2. forsitan equī ex agrīs veniant.
+3. nauta pecūniam caperet?
+4. utinam periculum vīdisset.
+5. magister hanc epistulam scrībat?
+
+[Answer key here](answer-key#homework-25-due-m-417).
+
+***
+
 ## Homework 26 (Due W 4/19)
 ## Homework 27 (Due R 4/20)
 ## Homework 28 (Due M 4/24)
