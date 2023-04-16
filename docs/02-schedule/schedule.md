@@ -683,8 +683,8 @@ Independent Subjunctives: Deliberative, Potential, Optative
 ### Week 13 Resources
 {: .no_toc }
 
-* [Week 13 Vocabulary](#) (link TBD)
-* [Week 13 Paradigms](#) (link TBD)
+* [Week 13 Vocabulary](../vocabulary/week-13-vocabulary)
+* [Week 13 Paradigms](../paradigms/week-13-paradigms)
 
 ***
 
@@ -693,12 +693,12 @@ Independent Subjunctives: Deliberative, Potential, Optative
 Dependent Subjunctives and Sequence of Tenses
 * In class: Check-in 29
 
-**NOTE: Twitch Stream is Tuesday afternoon (4/18) from 12 to 2pm, for the stream response due on R 4/20. It will be recorded if you cannot join live!**
+**NOTE: Twitch Stream is Tuesday afternoon (4/18) from 12 to 2pm, for the stream response due on R 4/20. It will be recorded if you cannot join live!** The link is: [https://twitch.tv/thedancinggrad](https://twitch.tv/thedancinggrad).
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/17](#) (link TBD)
-* Sequence of Tenses
+* [Slideshow - M 4/17](https://docs.google.com/presentation/d/1_zLOuD_664WV7oWu33tq2SIqglDS_tyZMPjaPKSKkr4/edit?usp=sharing)
+* [Sequence of Tenses](../textbook/subjunctive/sequence-of-tenses)
 
 #### HW due by start of next class
 {: .no_toc }

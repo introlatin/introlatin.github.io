@@ -2,7 +2,7 @@
 layout: page
 title: Independent Subjunctives
 permalink: /textbook/subjunctive/independent-subjunctives
-nav_order: 0
+nav_order: 2
 parent: 03 - Subjunctive
 grand_parent: Textbook
 ---

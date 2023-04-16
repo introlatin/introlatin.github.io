@@ -1134,6 +1134,25 @@ deliberative - Should the teacher write this letter?
 ***
 
 ## Homework 26 (Due W 4/19)
+
+1. cum pecūniam ____________, dux in templō sedēbat. (dō, completed)  
+**dedisset**, "After he had given the money, the leader was sitting in the temple."
+
+2. sorōrēs ē domō currunt quod pater ____________. (canō, in progress)  
+**canat**, "The sisters are running away from the house because their father is singing."
+
+3. nautae in templum iērunt cum periculum ____________. (cognoscō, completed)  
+**cognōvissent**, "The sailors went into the temple because they (had) perceived the danger."  
+***OR*** **cognitum esset**, "The sailors went into the temple because the danger was / had been perceived."
+
+4. cum ex agrīs ____________, agricola dormit. (veniō, completed)  
+**vēnerit**, "After he came out of the fields, the farmer is sleeping."
+
+5. quia mīles haec verba ____________, puer territus est. (dīcō, completed)  
+**dixisset**, "Because the soldier (had) said these words, the boy was terrified."
+
+***
+
 ## Homework 27 (Due R 4/20)
 ## Homework 28 (Due M 4/24)
 ## Homework 29 (Due W 4/26)

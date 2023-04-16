@@ -2,7 +2,7 @@
 layout: page
 title: Subjunctive Overview and Formation
 permalink: /textbook/subjunctive/subjunctive-overview-and-formation
-nav_order: 0
+nav_order: 1
 parent: 03 - Subjunctive
 grand_parent: Textbook
 ---

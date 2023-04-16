@@ -778,6 +778,22 @@ Each of the following sentences contains an independent use of the subjunctive. 
 ***
 
 ## Homework 26 (Due W 4/19)
+
+Each of the following sentences contains a blank for the dependent verb, followed by the first principal part of a verb and relationship between the dependent verb and main verb (e.g., "in progress/incomplete" or "completed"). Use the sequence of tenses and the context of the full sentence to conjugate the verb into an appropriate person, number, tense, voice, and mood, and then translate the whole sentence. For example:
+
+puella laeta est quia mater epistulam ________. (scrībō, completed)  
+* **scrīpserit**, "The girl is happy because her mother wrote the letter."
+
+1. cum pecūniam ____________, dux in templō sedēbat. (dō, completed)
+2. sorōrēs ē domō currunt quod pater ____________. (canō, in progress)
+3. nautae in templum iērunt cum periculum ____________. (cognoscō, completed)
+4. cum ex agrīs ____________, agricola dormit. (veniō, completed)
+5. quia mīles haec verba ____________, puer territus est. (dīcō, completed)
+
+[Answer key here](answer-key#homework-26-due-w-419).
+
+***
+
 ## Homework 27 (Due R 4/20)
 ## Homework 28 (Due M 4/24)
 ## Homework 29 (Due W 4/26)
