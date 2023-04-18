@@ -9,6 +9,7 @@ parent: Vocabulary
 # Complete Vocabulary
 
 * ā / ab - (+ abl.) from, away from; (+ abl. of personal agent) by [(Logeion entry)](https://logeion.uchicago.edu/ab)
+* accipiō, accipere, accēpī, acceptus - to accept, take [(Logeion entry)](https://logeion.uchicago.edu/accipio)
 * ācer, ācris, ācre - sharp, keen [(Logeion entry)](https://logeion.uchicago.edu/acer)
 * aciēs, aciēī, m. - battle line [(Logeion entry)](https://logeion.uchicago.edu/acies)
 * ad - (+ acc.) to, towards, for, at [(Logeion entry)](https://logeion.uchicago.edu/ad)
@@ -184,6 +185,7 @@ parent: Vocabulary
 * quod/quia - because [(Logeion entry)](https://logeion.uchicago.edu/quia)
 * quoniam - (+ ind. or subj.) because [(Logeion entry)](https://logeion.uchicago.edu/quoniam)
 
+* recipiō, recipere, recēpī, receptus - to receive, take back [(Logeion entry)](https://logeion.uchicago.edu/recipio) 
 * regō, regere, rexī, rectus - to rule [(Logeion entry)](https://logeion.uchicago.edu/rego)
 * relinquō, relinquere, relīquī, relictus - to leave [(Logeion entry)](https://logeion.uchicago.edu/relinquo)
 * rēs, reī, f. - matter, situation, thing, affair [(Logeion entry)](https://logeion.uchicago.edu/res)
