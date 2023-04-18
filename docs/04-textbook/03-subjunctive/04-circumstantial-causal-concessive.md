@@ -85,4 +85,35 @@ The English **concessive clause** is introduced by the conjunction **"although",
 
 For *quamquam*, there is no functional difference in meaning between the use of the indicative or the subjunctive.
 
-In addition to the 
+Thus:
+
+* quamvis pater ridēret, laetus nōn erat.
+    * Although the father was laughing, he was not happy.
+
+* licet nāvis magna sit, puellae eam nōn vident.
+    * Even though the ship is large, the girls do not see it.
+
+In addition to the conjunction that marks the concessive clause, there can also be an adverb that appears in the **main clause** that signals the presence of a concessive clause in the sentence:
+
+* **tamen** - "nevertheless", "still"
+
+The presence of **tamen** in a main clause can help you determine what type of dependent clause is in a sentence, particularly if the conjunction used can mean multiple things, like **cum**. For example:
+
+* cum mīles epistulam mīsisset, mater eam tamen nōn recēpit.
+    * Although the soldier had sent the letter, his mother nevertheless did not receive it.
+
+***
+
+## cum Clauses
+
+On the note of the various meanings of **cum**, see the following example:
+
+* cum agricola equōs videat, cībum eīs nōn dat.
+
+The **cum** clause in this sentence takes the subjunctive verb **videat**, but as we've seen, **cum** + the subjunctive can signal a **circumstantial**, **causal**, or **concessive** clause, such that any of the following three translations is technically correct:
+
+* **When** the farmer sees the horses, he does not give them food. (circumstantial)
+* **Because** the farmer sees the horses, he does not give them food. (causal)
+* **Although** the farmer sees the horses, he does not give them food. (concessive)
+
+Often, the context around the sentence in question will help you figure out which option makes the most sense, in the absence of other clear clues like a **tamen** in the main clause. In this example above, to my (Prof. Libatique's) mind, the concessive translation makes the most sense: you might expect a farmer to give food to horses when he sees them, but he doesn't do so. Causal is less plausible: why would seeing the horses be a reason why the farmer doesn't give them food? Circumstantial is possible: perhaps the farmer seeing the horses is just given as background information to the action of not giving them food. You're empowered to use your own logic skills and common sense to try out the different options and see what makes the most sense!

@@ -1154,6 +1154,24 @@ deliberative - Should the teacher write this letter?
 ***
 
 ## Homework 27 (Due R 4/20)
+
+1. puerī dormiēbant cum nox vēnisset. (causal)  
+The boys were sleeping because the night had come.
+
+2. puerī dormiēbant cum nox vēnisset. (circumstantial)  
+The boys were sleeping after the night had come.
+
+3. cum nox vēnisset, puerī tamen nōn dormiēbant. (concessive)  
+Although the night had come, the boys nevertheless were not sleeping.
+
+4. cīves oppidum rēliquērunt quod hostēs cēperant. (relative)  
+The citizens left the town which the enemies had taken.
+
+5. cīves oppidum rēliquērunt quod hostēs id cēpissent. (causal)  
+The citizens left the town because the enemies had taken it.
+
+***
+
 ## Homework 28 (Due M 4/24)
 ## Homework 29 (Due W 4/26)
 ## Homework 30 (Due R 4/27)

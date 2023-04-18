@@ -24,4 +24,6 @@ parent: Vocabulary
 
 ## Verbs
 
+* accipiō, accipere, accēpī, acceptus - to accept, take [(Logeion entry)](https://logeion.uchicago.edu/accipio)
+* recipiō, recipere, recēpī, receptus - to receive, take back [(Logeion entry)](https://logeion.uchicago.edu/recipio) 
 * terreō, terrēre, terruī, territus - to frighten, alarm, terrify [(Logeion entry)](https://logeion.uchicago.edu/terreo)

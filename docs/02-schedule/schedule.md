@@ -713,7 +713,7 @@ Circumstantial, Causal, and Concessive Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/19](#) (link TBD)
+* [Slideshow - W 4/19](https://docs.google.com/presentation/d/1ZHPwZSyAI3cfruqU-N18IBXfyrHndrSK1De3dbo0fcU/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }

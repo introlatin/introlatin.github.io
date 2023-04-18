@@ -795,6 +795,19 @@ puella laeta est quia mater epistulam ________. (scrībō, completed)
 ***
 
 ## Homework 27 (Due R 4/20)
+
+Each of the following sentences is followed by a specific type of dependent clause (relative, temporal, circumstantial, causal, or concessive). Translate the sentence according to the dependent clause type.
+
+1. puerī dormiēbant cum nox vēnisset. (causal)
+2. puerī dormiēbant cum nox vēnisset. (circumstantial)
+3. cum nox vēnisset, puerī tamen nōn dormiēbant. (concessive)
+4. cīves oppidum rēliquērunt quod hostēs cēperant. (relative)
+5. cīves oppidum rēliquērunt quod hostēs id cēpissent. (causal)
+
+[Answer key here](answer-key#homework-27-due-r-420).
+
+***
+
 ## Homework 28 (Due M 4/24)
 ## Homework 29 (Due W 4/26)
 ## Homework 30 (Due R 4/27)
