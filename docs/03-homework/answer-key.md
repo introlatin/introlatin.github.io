@@ -1173,6 +1173,25 @@ The citizens left the town because the enemies had taken it.
 ***
 
 ## Homework 28 (Due M 4/24)
+
+1. He went into the house in order to write a letter.  
+in domum iit ut epistulam scrīberet.
+
+2. Although she was willing to hear the song, nevertheless her son did not sing it.  
+cum audīre carmen vellet, fīlius id tamen nōn cecinit.
+
+* NOTE: "Although" can be rendered by various conjunctions, including **cum** + subjunctive but also **quamquam** + indicative or subjunctive, **quamvis** + subjunctive, or **licet** + (present or perfect) subjunctive.
+
+3. The leader does not see the gold because the sailor placed it in the temple.  
+dux aurum nōn videt cum nauta in templō id posuerit.
+
+* NOTE: "because" can be rendered by various conjunctions, including **cum** + subjunctive but also **quia, quod, or quoniam** + indicative or subjunctive.
+
+4. The daughter was happy after she (had) received her father's letter.  
+fīlia laeta erat cum epistulam patris recēpisset.
+
+***
+
 ## Homework 29 (Due W 4/26)
 ## Homework 30 (Due R 4/27)
 ## Homework 31 (Due M 5/1)

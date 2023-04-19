@@ -729,7 +729,7 @@ Purpose Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/20](#) (link TBD)
+* [Slideshow - R 4/20](https://docs.google.com/presentation/d/1V_qbBO5WTpWRD6Jg5mUHPYMu4yuFxd5aR48tU8kNudE/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }

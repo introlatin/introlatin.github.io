@@ -809,6 +809,18 @@ Each of the following sentences is followed by a specific type of dependent clau
 ***
 
 ## Homework 28 (Due M 4/24)
+
+Render the following English sentences into Latin.
+
+1. He went into the house in order to write a letter.
+2. Although she was willing to hear the song, nevertheless her son did not sing it.
+3. The leader does not see the gold because the sailor placed it in the temple.
+4. The daughter was happy after she (had) received her father's letter.
+
+[Answer key here](answer-key#homework-27-due-r-420).
+
+***
+
 ## Homework 29 (Due W 4/26)
 ## Homework 30 (Due R 4/27)
 ## Homework 31 (Due M 5/1)
