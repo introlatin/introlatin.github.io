@@ -15,15 +15,13 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Spring 2023, at Fairf
 
 ## Next Deadlines
 
-### Due W 4/12 at 9am
+### Due R 4/20 at 9:30am
 
-* [Homework 23](../homework/homework#homework-23-due-w-412)
+* [Homework 27](../homework/homework#homework-27-due-r-420)
+* Twitch Stream Response
 
-### Due R 4/13 at 9:30am
+### Due M 4/24 at 9:30am
 
-* [Homework 24](../homework/homework#homework-24-due-r-413)
-* Quiz 8 (**NOTE OFF-CYCLE DATE!**)
-
-### Due M 4/17 at 9:30am
-
-* [Homework 25](../homework/homework#homework-25-due-m-417)
+* [Homework 28](../homework/homework#homework-28-due-m-424)
+* Quiz 9
+* Article Reflection 3
