@@ -1193,5 +1193,23 @@ fīlia laeta erat cum epistulam patris recēpisset.
 ***
 
 ## Homework 29 (Due W 4/26)
+
+1. equī ita magnī erant ut puer terrērētur.  
+result clause - "The horses were so large that the boy was terrified."
+
+2. puer in domum cucurrit nē ab equīs vidērētur.  
+purpose clause - "The boy ran into the house so that he would not be seen by the horses." or "The boy ran into the house in order not to be seen by the horses."
+
+3. discipulī sīc rīsērunt ut magister flēret.  
+result clause - "The students laughed in such a way that the teacher cried."
+
+4. magister docet ut discipulī discant.  
+purpose clause - "The teacher teaches so that the students might learn."
+
+5. magister sīc docet ut discipulī discant.  
+result clause - "The teacher teaches in such a way that the students learn."
+
+***
+
 ## Homework 30 (Due R 4/27)
 ## Homework 31 (Due M 5/1)

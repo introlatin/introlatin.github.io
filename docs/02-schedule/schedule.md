@@ -714,6 +714,7 @@ Circumstantial, Causal, and Concessive Clauses
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 4/19](https://docs.google.com/presentation/d/1ZHPwZSyAI3cfruqU-N18IBXfyrHndrSK1De3dbo0fcU/edit?usp=sharing)
+* [Circumstantial, Causal, and Concessive Clauses](../textbook/subjunctive/circumstantial-causal-concessive)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -730,6 +731,7 @@ Purpose Clauses
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/20](https://docs.google.com/presentation/d/1V_qbBO5WTpWRD6Jg5mUHPYMu4yuFxd5aR48tU8kNudE/edit?usp=sharing)
+* [Purpose Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -744,8 +746,8 @@ Purpose Clauses
 ### Week 14 Resources
 {: .no_toc }
 
-* [Week 14 Vocabulary](#) (link TBD)
-* [Week 14 Paradigms](#) (link TBD)
+* [Week 14 Vocabulary](../vocabulary/week-14-vocabulary)
+* [Week 14 Paradigms](../paradigms/week-14-paradigms)
 
 ***
 
@@ -756,7 +758,7 @@ Result Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/24](#) (link TBD)
+* [Slideshow - M 4/24](https://docs.google.com/presentation/d/1qS2ANYXWguJ30HEp9ZNfBfATaLWBSIIHVnwMdwtDTfo/edit?usp=sharing)
 * Result Clauses
 
 #### HW due by start of next class

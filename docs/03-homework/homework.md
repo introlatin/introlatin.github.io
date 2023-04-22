@@ -817,10 +817,23 @@ Render the following English sentences into Latin.
 3. The leader does not see the gold because the sailor placed it in the temple.
 4. The daughter was happy after she (had) received her father's letter.
 
-[Answer key here](answer-key#homework-27-due-r-420).
+[Answer key here](answer-key#homework-28-due-m-424).
 
 ***
 
 ## Homework 29 (Due W 4/26)
+
+Determine whether each of the following sentences contains a **purpose clause** or a **result clause** -- then, translate the sentence.
+
+1. equī ita magnī erant ut puer terrērētur.
+2. puer in domum cucurrit nē ab equīs vidērētur.
+3. discipulī sīc rīsērunt ut magister flēret.
+4. magister docet ut discipulī discant.
+5. magister sīc docet ut discipulī discant.
+
+[Answer key here](answer-key#homework-29-due-w-426).
+
+***
+
 ## Homework 30 (Due R 4/27)
 ## Homework 31 (Due M 5/1)

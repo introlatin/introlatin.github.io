@@ -60,6 +60,7 @@ parent: Vocabulary
 * discō, discere, didicī, disciturus - to learn [(Logeion entry)](https://logeion.uchicago.edu/disco)
 * diēs, diēī, m. - day [(Logeion entry)](https://logeion.uchicago.edu/dies)
 * dō, dare, dedī, datus - to give [(Logeion entry)](https://logeion.uchicago.edu/do)
+* doceō, docēre, docuī, doctus - to teach  [(Logeion entry)](https://logeion.uchicago.edu/doceo)
 * domus, domūs, f. - house [(Logeion entry)](https://logeion.uchicago.edu/domus) (4th and 2nd declension — see [paradigm chart](../paradigms/nouns#domus))
 * dōnum, dōnī, n. - gift [(Logeion entry)](https://logeion.uchicago.edu/donum)
 * dormiō, dormīre, dormiī / dormīvī, dormītus - to sleep [(Logeion entry)](https://logeion.uchicago.edu/dormio)
