@@ -759,7 +759,7 @@ Result Clauses
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 4/24](https://docs.google.com/presentation/d/1qS2ANYXWguJ30HEp9ZNfBfATaLWBSIIHVnwMdwtDTfo/edit?usp=sharing)
-* Result Clauses
+* [Result Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -774,8 +774,8 @@ Conditions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/26](#) (link TBD)
-* Conditions
+* [Slideshow - W 4/26](https://docs.google.com/presentation/d/1xMbaRC8JgaEuA_6dFHhuHCBNFUqkdj_IKHtHsfNghTc/edit?usp=sharing)
+* [Conditions](../textbook/subjunctive/conditions)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -790,7 +790,7 @@ Conditions continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/27](#) (link TBD)
+* [Slideshow - R 4/27](https://docs.google.com/presentation/d/1xMbaRC8JgaEuA_6dFHhuHCBNFUqkdj_IKHtHsfNghTc/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }

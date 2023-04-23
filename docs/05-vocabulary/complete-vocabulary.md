@@ -26,6 +26,7 @@ parent: Vocabulary
 * arbor, arboris, f. - tree [(Logeion entry)](https://logeion.uchicago.edu/arbor)
 * argentum, argentī, n. - silver [(Logeion entry)](https://logeion.uchicago.edu/argentum)
 * ars, artis, f. - skill [(Logeion entry)](https://logeion.uchicago.edu/ars)
+* aspiciō, aspicere, aspexī, aspectus - to look at [(Logeion entry)](https://logeion.uchicago.edu/aspicio)
 * audiō, audīre, audīvī/audiī, audītus - to hear [(Logeion entry)](https://logeion.uchicago.edu/audio)
 * aurum, aurī, n. - gold [(Logeion entry)](https://logeion.uchicago.edu/aurum)
 * aut - or [(Logeion entry)](https://logeion.uchicago.edu/aut)

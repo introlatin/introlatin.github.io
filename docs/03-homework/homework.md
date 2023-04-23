@@ -836,4 +836,23 @@ Determine whether each of the following sentences contains a **purpose clause** 
 ***
 
 ## Homework 30 (Due R 4/27)
+
+Identify which type of indicative condition each sentence contains, and then render each indicative condition into Latin.
+
+1. If the book was not in the home, the daughter took it.
+2. The sailor will go into the temple if the road is short.
+3. The father is happy if his son has a wife.
+
+[Answer key here](answer-key#homework-30-due-r-427).
+
+***
+
 ## Homework 31 (Due M 5/1)
+
+Identify which type of subjunctive condition each sentence contains, and then render each subjunctive condition into Latin.
+
+1. The enemy would have taken the city if the soldiers had not been in the road.
+2. If the man should sing that song, the daughter would run away from the house.
+3. If the man were singing that song, the daughter would run away from the house.
+
+[Answer key here](answer-key#homework-31-due-m-51).

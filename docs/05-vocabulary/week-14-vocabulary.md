@@ -34,5 +34,7 @@ parent: Vocabulary
 
 ## Nouns
 
+* maritus, maritī, m. - husband [(Logeion entry)](https://logeion.uchicago.edu/maritus)
+* uxor, uxoris, f. - wife [(Logeion entry)](https://logeion.uchicago.edu/uxor)
 * virtus, virtūtis, f. - courage, virtue, strength, character [(Logeion entry)](https://logeion.uchicago.edu/virtus)
 

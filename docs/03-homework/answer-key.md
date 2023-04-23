@@ -1212,4 +1212,27 @@ result clause - "The teacher teaches in such a way that the students learn."
 ***
 
 ## Homework 30 (Due R 4/27)
+
+1. If the book was not in the home, the daughter took it.  
+past simple - nisī liber in domō erat, fīlia eum cēpit.
+
+2. The sailor will go into the temple if the road is short.  
+future more vivid - nauta in templum ībit sī via brevis erit.
+
+* NOTE: This is a future more vivid condition, as you can tell from the future tense of the apodosis ("will go"); while English can render the protasis as a present tense ("is"), Latin cannot -- you must use the future or future perfect tense.
+
+3. The father is happy if his son has a wife.  
+present simple - pater laetus est sī fīlius uxōrem habet.
+
+***
+
 ## Homework 31 (Due M 5/1)
+
+1. The enemy would have taken the city if the soldiers had not been in the road.  
+past contrary-to-fact - hostis urbem cēpisset nisī mīlitēs in viā fuissent.
+
+2. If the man should sing that song, the daughter would run away from the house.  
+future less vivid - sī vir illud carmen canat, fīlia ā domō currat.
+
+3. If the man were singing that song, the daughter would run away from the house.  
+present contrary-to-fact - sī vir illud carmen caneret, fīlia ā domō curreret.
