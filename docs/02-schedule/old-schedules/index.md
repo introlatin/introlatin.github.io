@@ -18,4 +18,4 @@ has_children: true
 
 ***
 
-This tab contains the schedules for previous semester of LATN 1111.
+This tab contains the schedules for previous semesters of LATN 1111.
