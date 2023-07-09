@@ -8,14 +8,14 @@ parent: Course Information
 
 # Course Information
 
-**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
+**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1hXAiZLVPesEXbv-ah-blBEcr_Noly4O5QjQgDGG2P2s/edit?usp=sharing).
 
 ***
 
-## Course Details (Spring 2023)
+## Course Details (Fall 2023)
 
 **Meeting time**: MR 9:30 - 10:20am, W 9-9:50am  
-**Meeting Place**: CNS 206  
+**Meeting Place**: TBD  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
 **Office**: Donnarumma 124  
 **Student Hours**: M 10:30-11:30am, W 10-11am, or by appointment.  

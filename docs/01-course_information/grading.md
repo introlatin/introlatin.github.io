@@ -46,13 +46,13 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 
 ### Homework
 
-* **5 points** per homework assignment, **thirty-one (31)** assignments total = **155 total points**
-* There will be **thirty-one (31) homework assignments** throughout the semester, with due dates specified in the [Course Schedule](../schedule) and on Blackboard. Each homework assignment will give you practice with the concept that was learned in class that day, and each homework assignment will be graded on the basis of **completeness, not correctness**. All assignments will be administered through Blackboard and due at the beginning of the following class period.
+* **5 points** per homework assignment, **thirty-six (36)** assignments total = **180 total points**
+* There will be **thirty-six (36) homework assignments** throughout the semester, with due dates specified in the [Course Schedule](../schedule) and on Blackboard. Each homework assignment will give you practice with the concept that was learned in class that day, and each homework assignment will be graded on the basis of **completeness, not correctness**. All assignments will be administered through Blackboard and due at the beginning of the following class period.
 
 ### Daily Check-Ins
 
-* **5 points** per check-in, **thirty-five (35)** check-ins total = **175 total points**
-* There will be **thirty-five (35) daily check-ins** throughout the semester, with a practice one in class on W 1/25 and the first graded one in class on R 1/26 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
+* **5 points** per check-in, **thirty-six (36)** check-ins total = **180 total points**
+* There will be **thirty-six (36) daily check-ins** throughout the semester, with the first graded one in class on W 9/13 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
 
 ### Weekly Quizzes
 
@@ -66,5 +66,5 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 
 ### Written Responses
 
-* **6** responses, **4** at **10 pts.** and **2** at **15 pts.** = **70 total points**
-* Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. The 10-point responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a response to a Twitch stream of an ancient world video game; the 15-point responses include a coin analysis project using Fairfield Classical Studies’ ancient coins collection and an object analysis project using the holdings in the Fairfield University Art Museum. More details to come!
+* **10 points** per response,**four (4)** responses total = **40 total points**
+* Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. These responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a coin analysis project using Fairfield Classical Studies’ ancient coins collection. More details to come!
