@@ -1234,7 +1234,7 @@ present simple - pater laetus est sī fīlius uxōrem habet.
 
 ***
 
-## Homework 36 (Due M 12/10)
+## Homework 36 (Due M 12/11)
 
 1. The enemy would have taken the city if the soldiers had not been in the road.  
 past contrary-to-fact - hostis urbem cēpisset nisī mīlitēs in viā fuissent.
