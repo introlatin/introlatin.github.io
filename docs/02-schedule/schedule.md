@@ -25,7 +25,7 @@ Syllabus Day
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/6](#) (Link TBD)
+* [Slideshow - W 9/6](https://docs.google.com/presentation/d/1dh5k3vr8rO4esRHjCywF7IzzcM0Qb2L2NYtiWor1chs/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
