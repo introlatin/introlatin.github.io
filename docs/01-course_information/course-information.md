@@ -15,7 +15,7 @@ parent: Course Information
 ## Course Details (Fall 2023)
 
 **Meeting time**: MR 9:30 - 10:20am, W 9-9:50am  
-**Meeting Place**: TBD  
+**Meeting Place**: Donnarumma 348  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
 **Office**: Donnarumma 124  
 **Student Hours**: M 10:30-11:30am, W 10-11am, or by appointment.  
