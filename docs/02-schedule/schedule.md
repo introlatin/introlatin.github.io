@@ -41,7 +41,7 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/7](#) (Link TBD)
+* [Slideshow - R 9/7](https://docs.google.com/presentation/d/1tlpmekui1Nmg1xyjbV_V4hAwd8HI-pPtT8sMdl6M6fI/edit?usp=sharing)
 * [Alphabet and Pronunciation](../textbook/basics/alphabet-and-pronunciation)
 * [Inflection](../textbook/basics/inflection)
 
