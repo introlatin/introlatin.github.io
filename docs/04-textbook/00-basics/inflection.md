@@ -33,6 +33,7 @@ However, although word order does exist in Latin (and we'll discuss its rules th
 * The girl the boy loves. (Who's the subject? Who's the object?)
 
 Note, though, how the same Latin sentence can be written in multiple word orders with no difference in the core meaning of the sentence:
+
 * puer amat puellam. (puer = the boy, amat = loves, puellam = the girl)
 * puer puellam amat.
 * amat puer puellam.
