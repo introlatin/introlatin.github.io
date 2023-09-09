@@ -67,7 +67,7 @@ Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/11](#) (Link TBD)
+* [Slideshow - M 9/11](https://docs.google.com/presentation/d/18AQTWIQvlp0P2OWU_SvsC63i_Tfvq24xd299HWxrhfY/edit?usp=sharing)
 * [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
