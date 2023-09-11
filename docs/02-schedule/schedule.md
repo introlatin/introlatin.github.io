@@ -83,7 +83,7 @@ Perfect Active
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/13](#) (Link TBD)
+* [Slideshow - W 9/13](https://docs.google.com/presentation/d/14tm-79_VeZTIrN1lbyJhfXVDPlFG28C8sRotbZttQpU/edit?usp=sharing)
 * [Perfect Active](../textbook/substantives/perfect-active)
 
 #### HW due by start of next class
