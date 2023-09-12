@@ -99,13 +99,13 @@ Noun Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/14](#) (Link TBD)
+* [Slideshow - R 9/14](https://docs.google.com/presentation/d/1LO5bkQglz5oci2iYkjYuwVwVah-2aUa_NwPrl-L3SNY/edit?usp=sharing)
 * [Noun Overview](../textbook/substantives/nouns-overview)
 
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 3](../homework/homework#homework-3-due-m-918) (on Blackboard)
-* Quiz 1 (on Blackboard)
+* [Quiz 1](https://docs.google.com/document/d/1UquClx8wOdMsy_BFtvuRw1DMMIsY4_XBS3gwhhfLDyQ/edit?usp=sharing) (submit on Blackboard)
 
 ***
 
