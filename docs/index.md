@@ -27,4 +27,4 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Fall 2023, at Fairfie
 ### Due Monday September 18 at 9:30am
 
 * Complete [Homework 3](../homework/homework#homework-3-due-m-918) (submit on Blackboard)
-* Complete [Quiz 1](https://docs.google.com/document/d/1UquClx8wOdMsy_BFtvuRw1DMMIsY4_XBS3gwhhfLDyQ/edit?usp=sharing) (submit on Blackboard)
+* Complete Quiz 1 (on Blackboard)

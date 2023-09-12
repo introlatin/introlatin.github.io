@@ -105,7 +105,7 @@ Noun Overview
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 3](../homework/homework#homework-3-due-m-918) (on Blackboard)
-* [Quiz 1](https://docs.google.com/document/d/1UquClx8wOdMsy_BFtvuRw1DMMIsY4_XBS3gwhhfLDyQ/edit?usp=sharing) (submit on Blackboard)
+* Quiz 1 (on Blackboard)
 
 ***
 
