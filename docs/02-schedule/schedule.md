@@ -127,7 +127,7 @@ Noun Endings
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/18](#) (Link TBD)
+* [Slideshow - M 9/18](https://docs.google.com/presentation/d/1nY_bNfqfLj-Ed-qjI6IcI94ugNiRZ356ia12uspnnFc/edit?usp=sharing)
 * [Noun Endings](../textbook/substantives/noun-endings)
 
 #### HW due by start of next class
