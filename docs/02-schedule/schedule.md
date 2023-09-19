@@ -143,7 +143,7 @@ Nominative and Genitive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/20](#) (Link TBD)
+* [Slideshow - W 9/20](https://docs.google.com/presentation/d/1RBsz3EsHy0THPZ0P5I9egt2CNNynIOXuEWMoPu7-lJQ/edit?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
