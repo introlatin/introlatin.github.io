@@ -159,7 +159,7 @@ Accusative and Dative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/21](#) (Link TBD)
+* [Slideshow - R 9/21](https://docs.google.com/presentation/d/1figbspZ45l0m9EsW_GLJiaA8McyHYe18dbk4WdLdA5w/edit?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
