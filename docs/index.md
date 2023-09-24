@@ -15,19 +15,17 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Fall 2023, at Fairfie
 
 ## Next Deadlines
 
-### Due Wednesday September 20 at 9am
-
-* Complete [Homework 4](../homework/homework#homework-4-due-w-920) (submit on Blackboard)
-* Begin memorizing noun paradigms, especially 3rd declension neuter
-
-### Due Thursday September 21 at 9:30am
-
-* Complete [Homework 5](../homework/homework#homework-5-due-r-921) (submit on Blackboard)
-* Complete Check-in 4 on noun endings on Blackboard
-
 ### Due Monday September 25 at 9:30am
 
 * [Homework 6](../homework/homework#homework-6-due-m-925)
 * Check-in 5 on nominative and genitive (on Blackboard)
 * Quiz 2
 * Article Reflection 1
+
+### Due Wednesday September 27 at 9am
+
+* [Homework 7](../homework/homework#homework-7-due-w-927)
+
+### Due Thursday September 28 at 9:30am
+
+* [Homework 8](../homework/homework#homework-8-due-r-928)

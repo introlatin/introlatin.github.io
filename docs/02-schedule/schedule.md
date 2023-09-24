@@ -188,7 +188,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/25](#) (Link TBD)
+* [Slideshow - M 9/25](https://docs.google.com/presentation/d/1kVhDHEWVz8rhFP5Ke96QJmZHm9rbsAt6aRIpfRpsNsk/edit?usp=sharing)
 * [2-1-2 Adjectives](../textbook/substantives/2-1-2-adjectives)
 
 #### HW due by start of next class
