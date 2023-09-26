@@ -204,7 +204,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/27](#) (Link TBD)
+* [Slideshow - W 9/27](https://docs.google.com/presentation/d/16Gw8Ldx0vcdRNS6gzQdqMTIxXzKPqnfWIF5it5azzX8/edit?usp=sharing)
 * [3rd Declension Adjectives](../textbook/substantives/3rd-declension-adjectives)
 
 #### HW due by start of next class
