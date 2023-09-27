@@ -220,7 +220,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/28](#) (Link TBD)
+* [Slideshow - R 9/28](https://docs.google.com/presentation/d/1EIRJAh7etGGdOm8BkGawcHlfP-e3yLCA4sLT4pRxat8/edit?usp=sharing)
 * [Linking Sentences](../textbook/substantives/linking-sentences)
 
 #### HW due by start of next class
