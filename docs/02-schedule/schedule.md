@@ -247,7 +247,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 10/2](#) (Link TBD)
+* [Slideshow - M 10/2](https://docs.google.com/presentation/d/1Zoh0MWUvQgsZ3A_bK0yVJvSAbcEgcnBjW4zceug8R4U/edit?usp=sharing)
 * [3rd Person Personal and Reflexive Pronouns](../textbook/substantives/personal-and-reflexive-pronouns)
 
 #### HW due by start of next class
