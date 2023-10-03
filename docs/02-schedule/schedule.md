@@ -263,7 +263,7 @@ Demonstratives and Intensives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/4](#) (Link TBD)
+* [Slideshow - W 10/4](https://docs.google.com/presentation/d/1iHqpTpYT3LnE69aUuyxgbbanwUNl5pfxV4YYtovcQV0/edit?usp=sharing)
 * [Demonstratives and Intensives](../textbook/substantives/demonstratives-and-intensives)
 
 #### HW due by start of next class
