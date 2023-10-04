@@ -279,7 +279,7 @@ Prepositions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/5](#) (Link TBD)
+* [Slideshow - R 10/5](https://docs.google.com/presentation/d/14Czh-xQhxOFk787Q9CQWzZOYkZQhUUcyoKTxyUExxVQ/edit?usp=sharing)
 * [Prepositions and Expressions of Place and Time](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
