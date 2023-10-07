@@ -19,6 +19,28 @@ parent: Paradigms
 
 ## Verbs
 
+### Future Tense - Active Voice
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābō | monēbō | regam | cupiam | audiam |
+| 2nd sg. | amābis | monēbis | regēs | cupiēs | audiēs |
+| 3rd sg. | **amābit** | **monēbit** | **reget** | **cupiet** | **audiet** |
+| 1st pl. | amābimus | monēbimus | regēmus | cupiēmus | audiēmus |
+| 2nd pl. | amābitis | monēbitis | regētis | cupiētis | audiētis |
+| 3rd pl. | **amābunt** | **monēbunt** | **regent** | **cupient** | **audient** |
+
+### Future Tense - Passive Voice
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābor | monēbor | regar | cupiar | audiar |
+| 2nd sg. | amāberis | monēberis | regēris | cupiēris | audiēris |
+| 3rd sg. | **amābitur** | **monēbitur** | **regētur** | **cupiētur** | **audiētur** |
+| 1st pl. | amābimur | monēbimur | regēmur | cupiēmur | audiēmur |
+| 2nd pl. | amābiminī | monēbiminī | regēminī | cupiēminī | audiēminī |
+| 3rd pl. | **amābuntur** | **monēbuntur** | **regentur** | **cupientur** | **audientur** |
+
 ### Infinitives
 
 | | **1st** | **2nd** | **3rd** | **3rd -io** | **4th** |
