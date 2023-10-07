@@ -328,7 +328,7 @@ Imperfect Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/12](#) (Link TBD)
+* [Slideshow - R 10/12](https://docs.google.com/presentation/d/1ZmkYGWSWAvWZhvca0GNkUikqJFxAwuNLEPeqEcTbIrs/edit?usp=sharing)
 * [Imperfect Tense](../textbook/verbs/imperfect-tense)
 
 #### HW due by start of next class
