@@ -371,7 +371,7 @@ Present Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/18](#) (Link TBD)
+* [Slideshow - W 10/18](https://docs.google.com/presentation/d/1v7ycVcT1ThxmqsBev9DaK7B-pwox3yRcLnyFiC1Alf0/edit?usp=drive_link)
 * [Present Tense](../textbook/verbs/present-tense)
 
 #### HW due by start of next class
@@ -387,7 +387,7 @@ Future Tense - 1st and 2nd Conjugations
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/19](#) (Link TBD)
+* [Slideshow - R 10/19](https://docs.google.com/presentation/d/1ziUvLFkOrEc-WQtkRT95NuLysAROTAUHxXO618QrXB4/edit?usp=drive_link)
 * [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
@@ -415,7 +415,7 @@ Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 10/23](#) (Link TBD)
+* [Slideshow - M 10/23](https://docs.google.com/presentation/d/1ziUvLFkOrEc-WQtkRT95NuLysAROTAUHxXO618QrXB4/edit?usp=drive_link)
 * [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
@@ -431,7 +431,7 @@ Infinitives; *possum, posse, potuī*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/25](#) (Link TBD)
+* [Slideshow - W 10/25](https://docs.google.com/presentation/d/1DfUOiU0L0eJ5cbVfcgt_j_mspIcjrY00dwCcJqahaP0/edit?usp=drive_link)
 * [Infinitives](../textbook/verbs/infinitives)
 
 #### HW due by start of next class
@@ -447,7 +447,7 @@ Indirect Statement
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/19](#) (Link TBD)
+* [Slideshow - R 10/19](https://docs.google.com/presentation/d/1Z0xHj-DCNJN226GaF3zblLR4Y6PkWa1qgnILfjxiJiA/edit?usp=drive_link)
 * [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
@@ -475,7 +475,7 @@ Indirect Statement continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 10/30](#) (Link TBD)
+* [Slideshow - M 10/30](https://docs.google.com/presentation/d/1Z0xHj-DCNJN226GaF3zblLR4Y6PkWa1qgnILfjxiJiA/edit?usp=drive_link)
 * [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
