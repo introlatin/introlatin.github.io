@@ -551,7 +551,7 @@ Irregular Verbs: *volo*, *nolo*, *malo*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/8](#) (Link TBD)
+* [Slideshow - W 11/8](https://docs.google.com/presentation/d/1II35qonv6IfeSeN3kv2Por5ettKJeRzTsQ2QqnnQo9Y/edit?usp=drive_link)
 * [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
@@ -567,7 +567,7 @@ Pluperfect and Future Perfect Tenses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/9](#) (Link TBD)
+* [Slideshow - R 11/9](https://docs.google.com/presentation/d/1PfTj7wpDPENb-n9DRpTtKZYaDFsc95WV7ByKI_FgpMs/edit?usp=sharing)
 * [Pluperfect and Future Perfect Tenses](../textbook/verbs/pluperfect-and-future-perfect)
 
 #### HW due by start of next class
