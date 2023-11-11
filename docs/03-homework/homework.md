@@ -710,7 +710,16 @@ puer _________ matrem vidēre. [volō -> present]
 
 ## Homework 26 (Due M 11/13)
 
-TBD (pluperfect and future perfect indicative)
+Conjugate the verb into the given PNTVM and give a sample translation of the form that you just created. For example:
+
+amō - 3rd sg. future perfect active indicative
+* **amāverit** - **she will have loved**
+
+1. videō - 3rd pl. pluperfect passive indicative (masculine)
+2. regō - 3rd sg. pluperfect active indicative
+3. relinquō - 3rd pl. future perfect passive indicative (feminine)
+4. audiō - 3rd sg. future perfect active indicative
+5. demonstrō - 3rd sg. pluperfect passive indicative (neuter)
 
 ***
 
