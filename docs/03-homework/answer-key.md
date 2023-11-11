@@ -1003,6 +1003,21 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ## Homework 26 (Due M 11/13)
 
+1. videō - 3rd pl. pluperfect passive indicative (masculine)  
+* visi erant - they had been seen
+  
+2. regō - 3rd sg. pluperfect active indicative  
+* rexerat - she had ruled
+
+3. relinquō - 3rd pl. future perfect passive indicative (feminine)  
+* relictae erunt - they will have been left
+
+4. audiō - 3rd sg. future perfect active indicative  
+* audiverit or audierit - he will have heard
+
+5. demonstrō - 3rd sg. pluperfect passive indicative (neuter)
+* demonstratum erat - it had been shown
+
 ***
 
 ## Homework 27 (Due W 11/15)
