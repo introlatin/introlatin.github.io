@@ -1022,6 +1022,21 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ## Homework 27 (Due W 11/15)
 
+1. urbem rege!  
+Rule the city!
+
+2. aspicite hanc domum.  
+Look at this house.
+
+3. vocem magistrī audī!  
+Listen to the teacher's voice!
+
+4. fac bona!  
+Do good things!
+
+5. dūc equōs in agrōs.  
+Lead the horses into the fields.
+
 ***
 
 ## Homework 28 (Due R 11/16)

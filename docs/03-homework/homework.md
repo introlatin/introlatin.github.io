@@ -725,7 +725,13 @@ amō - 3rd sg. future perfect active indicative
 
 ## Homework 27 (Due W 11/15)
 
-TBD (subjunctive overview - imperative?)
+Translate the following sentences.
+
+1. urbem rege!
+2. aspicite hanc domum.
+3. vocem magistrī audī!
+4. fac bona!
+5. dūc equōs in agrōs.
 
 ***
 
