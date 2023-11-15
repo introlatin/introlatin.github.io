@@ -611,7 +611,7 @@ Present and Imperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/15](#) (Link TBD)
+* [Slideshow - W 11/15](https://docs.google.com/presentation/d/1ZaYppe3ja21AkhqSMnUHdW3ukDQsaJSyiY3TzTTKi5A/edit?usp=sharing)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
