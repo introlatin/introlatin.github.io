@@ -627,7 +627,7 @@ Perfect and Pluperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/16](#) (Link TBD)
+* [Slideshow - R 11/16](https://docs.google.com/presentation/d/18bXixTM7Xac-FY_UGgoQOOynWTEcOZzZVCUrCV0Ueug/edit?usp=sharing)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class

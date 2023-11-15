@@ -20,3 +20,7 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Fall 2023, at Fairfie
 
 ### Due Thursday November 16 at 9:30am
 * [Homework 28](../homework/homework#homework-18-due-r-1116)
+
+### Due Monday November 20 at 9:30am
+* [Homework 29](../homework/homework#homework-29-due-m-1120)
+* NOTE: No quiz this weekend (Quiz 8 will be due after Thanksgiving Break)
