@@ -808,5 +808,5 @@ In Conclusion
 ***
 
 ## Exam Period (12/14 - 12/20)
-* Exam 3 will be due at **11am on M 12/18**.
+* Exam 3 will be due at **11am on M 12/18**. 
 
