@@ -653,7 +653,8 @@ Independent Subjunctives: Deliberative, Potential, Optative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 11/20](#) (Link TBD)
+* [Zoom Recording - M 11/20](https://Fairfield.zoom.us/rec/share/Eieqan_l-zckG05WwksjefDKQpZdQ1Q_pDXCOxk53U3KJ-yq-h67RwkzDw2Hwutw.dqhrIFaKDx197G1D)
+* [Slideshow - M 11/20](https://docs.google.com/presentation/d/1kgrnO8cZ75XoKz8gzWM1ebir34ClyATlHK4bOjJzfVg/edit?usp=sharing)
 * [Independent Subjunctives](../textbook/subjunctive/independent-subjunctives)
 
 #### HW due by start of next class
@@ -808,5 +809,4 @@ In Conclusion
 ***
 
 ## Exam Period (12/14 - 12/20)
-* Exam 3 will be due at **11am on M 12/18**. 
-
+* Exam 3 will be due at **11am on M 12/18**.
