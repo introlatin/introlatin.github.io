@@ -686,7 +686,7 @@ Dependent Subjunctives and Sequence of Tenses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 11/27](#) (Link TBD)
+* [Slideshow - M 11/27](https://docs.google.com/presentation/d/1Sbaqr0ZgX4y22M4BwTgO2lpZyZflcKA5rNZyBx2MX7E/edit?usp=sharing)
 * [Sequence of Tenses](../textbook/subjunctive/sequence-of-tenses)
 
 #### HW due by start of next class
