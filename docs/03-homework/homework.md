@@ -804,7 +804,7 @@ Each of the following sentences contains an independent use of the subjunctive. 
 
 ## Homework 31 (Due W 11/29)
 
-Each of the following sentences contains a blank for the dependent verb, followed by the first principal part of a verb and relationship between the dependent verb and main verb (e.g., "in progress/incomplete" or "completed"). Use the sequence of tenses and the context of the full sentence to conjugate the verb into an appropriate person, number, tense, voice, and mood, and then translate the whole sentence. For example:
+Each of the following sentences contains a blank for the dependent verb, followed by the first principal part of a verb and relationship between the dependent verb and main verb (e.g., "in progress/incomplete" or "completed"). Use the sequence of tenses and the context of the full sentence to conjugate the verb into the subjunctive mood in an appropriate person, number, tense, and voice, and then translate the whole sentence. For example:
 
 puella laeta est quia mater epistulam ________. (scrībō, completed)  
 * **scrīpserit**, "The girl is happy because her mother wrote the letter."
