@@ -702,7 +702,7 @@ Circumstantial, Causal, and Concessive Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/29](#) (Link TBD)
+* [Slideshow - W 11/29](https://docs.google.com/presentation/d/1FkyNyilKW4NTTghimPpKQpGhCx0Bvxztcxj__6EnPzQ/edit?usp=sharing)
 * [Circumstantial, Causal, and Concessive Clauses](../textbook/subjunctive/circumstantial-causal-concessive)
 
 #### HW due by start of next class
