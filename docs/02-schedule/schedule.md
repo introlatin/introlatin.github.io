@@ -718,7 +718,7 @@ Purpose Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/30](#) (Link TBD)
+* [Slideshow - R 11/30](https://docs.google.com/presentation/d/18j01GBUWCX9dgdVjrREivJuUmrMS5S8Slq29Kh6eaXs/edit?usp=sharing)
 * [Purpose Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
