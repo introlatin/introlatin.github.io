@@ -746,7 +746,7 @@ Result Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 12/4](#) (Link TBD)
+* [Slideshow - M 12/4](https://docs.google.com/presentation/d/1IMt2TIWQ-ExNINJrlnKI0UMsNbdxNbJL5Z5L_U75iEY/edit?usp=sharing)
 * [Result Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
