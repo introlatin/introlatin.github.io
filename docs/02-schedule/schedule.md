@@ -762,7 +762,7 @@ Conditions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 12/6](#) (Link TBD)
+* [Slideshow - W 12/6](https://docs.google.com/presentation/d/1GrmaxbywFWj-7xr2iezkEc3mfiNo2cSY2dpCwWnzy2M/edit?usp=sharing)
 * [Conditions](../textbook/subjunctive/conditions)
 
 #### HW due by start of next class
@@ -778,7 +778,7 @@ Conditions continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 12/7](#) (Link TBD)
+* [Slideshow - R 12/7](https://docs.google.com/presentation/d/1GrmaxbywFWj-7xr2iezkEc3mfiNo2cSY2dpCwWnzy2M/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
