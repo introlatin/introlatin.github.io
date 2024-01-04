@@ -21,7 +21,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Practice Homework 1 (Due R 9/7)
+## Practice Homework 1 (Due R 1/18)
 
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages).  
 **Monday 10:30-11:30am, Wednesday 10am-11am, or by appointment, in Donnarumma 124.**
@@ -40,7 +40,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Practice Homework 2 (Due M 9/11)
+## Practice Homework 2 (Due M 1/22)
 
 1. What is the definition of a diphthong?  
 **a combination of two vowels that makes one vowel sound**
@@ -59,7 +59,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 1 (Due W 9/13)
+## Homework 1 (Due W 1/24)
 
 1. amō, amāre  
 **1st**
@@ -93,7 +93,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 2 (Due R 9/14)
+## Homework 2 (Due R 1/25)
 
 1. videō, vidēre, vīdī, vīsus - to see; (passive) to seem  
 **vīdit - 'he saw' (or 'she has seen', 'it saw', 'they [singular] saw', etc.)**  
@@ -117,7 +117,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 3 (Due M 9/18)
+## Homework 3 (Due M 1/29)
 
 1. arbūtus, arbūtī, f. - strawberry bush  
 **2nd**
@@ -151,7 +151,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 4 (Due W 9/20)
+## Homework 4 (Due W 1/31)
 
 ### Part 1
 {: .no_toc }
@@ -191,7 +191,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 5 (Due R 9/21)
+## Homework 5 (Due R 2/1)
 
 1. **puella** dormīvit.  
 **puella** = nominative, subject. "The girl slept."
@@ -212,7 +212,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 6 (Due M 9/25)
+## Homework 6 (Due M 2/5)
 
 1. nautae **aquam** cēpērunt.  
 **aquam** = accusative, direct object. "The sailors took the water."
@@ -234,7 +234,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 7 (Due W 9/27)
+## Homework 7 (Due W 2/7)
 
 ### Part 1
 {: .no_toc }
@@ -289,7 +289,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 8 (Due R 9/28)
+## Homework 8 (Due R 2/8)
 
 ### Part 1
 {: .no_toc }
@@ -344,7 +344,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 9 (Due M 10/2)
+## Homework 9 (Due M 2/12)
 
 1. The horses were fast.  
 **equī celerēs / velōcēs fuērunt.**
@@ -363,7 +363,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 10 (Due W 10/4)
+## Homework 10 (Due W 2/14)
 
 ### Part 1
 {: .no_toc }
@@ -403,7 +403,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 11 (Due R 10/5)
+## Homework 11 (Due R 2/15)
 
 ### Part 1
 {: .no_toc }
@@ -443,7 +443,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 12 (Due W 10/11)
+## Homework 12 (Due T 2/20)
 
 **NOTE**: This is a practice homework assignment for your own personal edification to practice with prepositions and expressions of space and time and get instant feedback via the answer key. This is not a submittable assignment on Blackboard and it will not count towards your semester grade.
 
@@ -471,7 +471,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ***
 
-## Homework 13 (Due R 10/12)
+## Homework 13 (Due W 2/21)
 
 ### Part 1
 {: .no_toc }
@@ -523,7 +523,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 14 (Due M 10/16)
+## Homework 14 (Due R 2/22)
 
 ### Part 1
 {: .no_toc }
@@ -583,7 +583,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 15 (Due W 10/18)
+## Homework 15 (Due M 2/26)
 
 1. ācer -> animālī  
 **ācrī** [neut. dat. or abl. sg.]
@@ -620,7 +620,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 16 (Due R 10/19)
+## Homework 16 (Due W 2/28)
 
 ### Part 1
 {: .no_toc }
@@ -675,7 +675,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 17 (Due M 10/23)
+## Homework 17 (Due R 2/29)
 
 1. habeō -> 3rd sg. future active  
 **habēbit -- "she will have"**
@@ -709,7 +709,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 18 (Due W 10/25)
+## Homework 18 (Due M 3/11)
 
 ### Part 1
 {: .no_toc }
@@ -773,7 +773,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 19 (Due R 10/26)
+## Homework 19 (Due W 3/13)
 
 ### Part 1
 {: .no_toc }
@@ -833,7 +833,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 20 (Due M 10/30)
+## Homework 20 (Due R 3/14)
 
 ### Part 1
 {: .no_toc }
@@ -867,7 +867,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 21 (Due W 11/1)
+## Homework 21 (Due W 3/18)
 
 **NOTE**: Word order is highly variable in sentences of this length, so the sentences below are just examples of how the words in the sentence can be organized. What is more important, however, is that your nouns are in the same cases and your verbs are in the same tenses.
 
@@ -890,7 +890,7 @@ subject = **monstrum**; verb = **captum est**
 
 ***
 
-## Homework 22 (Due R 11/2)
+## Homework 22 (Due R 3/20)
 
 1. līberī dormiunt dum mater et pater laborant.  
 dependent clause: dum mater et pater laborant  
@@ -914,7 +914,7 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ***
 
-## Homework 23 (Due M 11/6)
+## Homework 23 (Due M 3/21)
 
 1. mater ______ fīliae amāvērunt patrī lībrōs dedit. [Make the relative pronoun a *direct object.*]  
 **quam** [fem. acc. sg.] - The mother whom the daughters loved gave the books to the father.
@@ -933,7 +933,7 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ***
 
-## Homework 24 (Due W 11/8)
+## Homework 24 (Due M 3/25)
 
 1. est  
 3rd sg. present active, "she is"
@@ -982,7 +982,7 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ***
 
-## Homework 25 (Due R 11/9)
+## Homework 25 (Due W 3/27)
 
 1. mīles _________ ē nāve venīre. [nōlō -> future]  
 **nōlet** - The soldier will not want to come out of the ship.
@@ -1001,7 +1001,7 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ***
 
-## Homework 26 (Due M 11/13)
+## Homework 26 (Due W 4/3)
 
 1. videō - 3rd pl. pluperfect passive indicative (masculine)  
 * visi erant - they had been seen
@@ -1020,7 +1020,7 @@ translation: While the boy was singing songs with his mother, the girl was comin
 
 ***
 
-## Homework 27 (Due W 11/15)
+## Homework 27 (Due R 4/4)
 
 1. urbem rege!  
 Rule the city!
@@ -1039,7 +1039,7 @@ Lead the horses into the fields.
 
 ***
 
-## Homework 28 (Due R 11/16)
+## Homework 28 (Due M 4/8)
 
 1. regō -> 3rd sg. present active subjunctive  
 **regat**
@@ -1103,7 +1103,7 @@ Lead the horses into the fields.
 
 ***
 
-## Homework 29 (Due M 11/20)
+## Homework 29 (Due W 4/10)
 
 1. regō -> 3rd sg. perfect active subjunctive  
 **rexerit**
@@ -1152,7 +1152,7 @@ Lead the horses into the fields.
 
 ***
 
-## Homework 30 (Due M 11/27)
+## Homework 30 (Due R 4/11)
 
 1. utinam nē monstrum in domum eat!  
 optative - If only the monster would not go into the home!
@@ -1171,7 +1171,7 @@ deliberative - Should the teacher write this letter?
 
 ***
 
-## Homework 31 (Due W 11/29)
+## Homework 31 (Due M 4/15)
 
 1. cum pecūniam ____________, dux in templō sedēbat. (dō, completed)  
 **dedisset**, "After he had given the money, the leader was sitting in the temple."
@@ -1191,7 +1191,7 @@ deliberative - Should the teacher write this letter?
 
 ***
 
-## Homework 32 (Due R 11/30)
+## Homework 32 (Due W 4/17)
 
 1. puerī dormiēbant cum nox vēnisset. (causal)  
 The boys were sleeping because the night had come.
@@ -1210,7 +1210,7 @@ The citizens left the town because the enemies had taken it.
 
 ***
 
-## Homework 33 (Due M 12/4)
+## Homework 33 (Due R 4/18)
 
 1. He went into the house in order to write a letter.  
 in domum iit ut epistulam scrīberet.
@@ -1230,7 +1230,7 @@ fīlia laeta erat cum epistulam patris recēpisset.
 
 ***
 
-## Homework 34 (Due W 12/6)
+## Homework 34 (Due M 4/22)
 
 1. equī ita magnī erant ut puer terrērētur.  
 result clause - "The horses were so large that the boy was terrified."
@@ -1249,7 +1249,7 @@ result clause - "The teacher teaches in such a way that the students learn."
 
 ***
 
-## Homework 35 (Due R 12/7)
+## Homework 35 (Due W 4/24)
 
 1. If the book was not in the home, the daughter took it.  
 past simple - nisī liber in domō erat, fīlia eum cēpit.
@@ -1264,7 +1264,7 @@ present simple - pater laetus est sī fīlius uxōrem habet.
 
 ***
 
-## Homework 36 (Due M 12/11)
+## Homework 36 (Due R 4/25)
 
 1. The enemy would have taken the city if the soldiers had not been in the road.  
 past contrary-to-fact - hostis urbem cēpisset nisī mīlitēs in viā fuissent.
