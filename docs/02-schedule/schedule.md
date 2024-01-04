@@ -17,41 +17,41 @@ parent: Schedule and Slideshows
 
 ***
 
-## Week 1 (9/6 - 9/7)
+## Week 1 (1/17 - 1/18)
 
-### Wednesday, September 6
+### Wednesday, January 17
 {: .no_toc }
 Syllabus Day  
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/6](https://docs.google.com/presentation/d/1dh5k3vr8rO4esRHjCywF7IzzcM0Qb2L2NYtiWor1chs/edit?usp=sharing)
+* [Slideshow - W 1/17](#) [Link TBD]
 
 #### HW due by start of next class
 {: .no_toc }
-* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1hXAiZLVPesEXbv-ah-blBEcr_Noly4O5QjQgDGG2P2s/edit?usp=sharing) version).
-* Complete the [Student Information Form](https://forms.gle/CDtFDXaZoGHU5Nk67).
-* (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-97) (submit on Blackboard).
+* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing) version).
+* Complete the [Student Information Form](#). [Link TBD]
+* (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
 
 ***
 
-### Thursday, September 7
+### Thursday, January 18
 {: .no_toc }
 Grammar Basics and Inflection (Conjugation and Declension)
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/7](https://docs.google.com/presentation/d/1tlpmekui1Nmg1xyjbV_V4hAwd8HI-pPtT8sMdl6M6fI/edit?usp=sharing)
+* [Slideshow - R 1/18](#) [Link TBD]
 * [Alphabet and Pronunciation](../textbook/basics/alphabet-and-pronunciation)
 * [Inflection](../textbook/basics/inflection)
 
 #### HW due by start of next class
 {: .no_toc }
-* (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-911) (submit on Blackboard).
+* (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
 
 ***
 
-## Week 2 (9/11 - 9/14)
+## Week 2 (1/22 - 1/25)
 
 ### Week 2 Resources
 {: .no_toc }
@@ -61,55 +61,55 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 ***
 
-### Monday, September 11
+### Monday, January 22
 {: .no_toc }
 Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/11](https://docs.google.com/presentation/d/18AQTWIQvlp0P2OWU_SvsC63i_Tfvq24xd299HWxrhfY/edit?usp=sharing)
+* [Slideshow - M 1/22](#) [Link TBD]
 * [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 1](../homework/homework#homework-1-due-w-913) (submit on Blackboard)
+* [Homework 1](../homework/homework#homework-1-due-w-124) (submit on Blackboard)
 
 ***
 
-### Wednesday, September 13
+### Wednesday, January 24
 {: .no_toc }
 Perfect Active
 * In class: Check-in 1
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/13](https://docs.google.com/presentation/d/14tm-79_VeZTIrN1lbyJhfXVDPlFG28C8sRotbZttQpU/edit?usp=sharing)
+* [Slideshow - W 1/24](#) [Link TBD]
 * [Perfect Active](../textbook/substantives/perfect-active)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 2](../homework/homework#homework-2-due-r-914) (on Blackboard)
+* [Homework 2](../homework/homework#homework-2-due-r-125) (on Blackboard)
 
 ***
 
-### Thursday, September 14
+### Thursday, January 25
 {: .no_toc }
 Noun Overview
 * In class: Check-in 2
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/14](https://docs.google.com/presentation/d/1LO5bkQglz5oci2iYkjYuwVwVah-2aUa_NwPrl-L3SNY/edit?usp=sharing)
+* [Slideshow - R 1/25](#) [Link TBD]
 * [Noun Overview](../textbook/substantives/nouns-overview)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 3](../homework/homework#homework-3-due-m-918) (on Blackboard)
+* [Homework 3](../homework/homework#homework-3-due-m-129) (on Blackboard)
 * Quiz 1 (on Blackboard)
 
 ***
 
-## Week 3 (9/18 - 9/21)
+## Week 3 (1/29 - 2/1)
 
 ### Week 3 Resources
 {: .no_toc }
@@ -120,57 +120,57 @@ Noun Overview
 
 ***
 
-### Monday, September 18
+### Monday, January 29
 {: .no_toc }
 Noun Endings
 * In class: Check-in 3
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/18](https://docs.google.com/presentation/d/1nY_bNfqfLj-Ed-qjI6IcI94ugNiRZ356ia12uspnnFc/edit?usp=sharing)
+* [Slideshow - M 1/29](#) [Link TBD]
 * [Noun Endings](../textbook/substantives/noun-endings)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 4](../homework/homework#homework-4-due-w-920)
+* [Homework 4](../homework/homework#homework-4-due-w-131)
 
 ***
 
-### Wednesday, September 20
+### Wednesday, January 31
 {: .no_toc }
 Nominative and Genitive
 * In class: Check-in 4
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/20](https://docs.google.com/presentation/d/1RBsz3EsHy0THPZ0P5I9egt2CNNynIOXuEWMoPu7-lJQ/edit?usp=sharing)
+* [Slideshow - W 1/31](#) [Link TBD]
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 5](../homework/homework#homework-5-due-r-921)
+* [Homework 5](../homework/homework#homework-5-due-r-21)
 
 ***
 
-### Thursday, September 21
+### Thursday, February 1
 {: .no_toc }
 Accusative and Dative
 * In class: Check-in 5
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/21](https://docs.google.com/presentation/d/1figbspZ45l0m9EsW_GLJiaA8McyHYe18dbk4WdLdA5w/edit?usp=sharing)
+* [Slideshow - R 2/1](#) [Link TBD]
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 6](../homework/homework#homework-6-due-m-925)
+* [Homework 6](../homework/homework#homework-6-due-m-25)
 * Quiz 2 (on Blackboard)
 * Article Reflection 1 (on Blackboard)
 
 ***
 
-## Week 4 (9/25 - 9/28)
+## Week 4 (2/5 - 2/8)
 
 ### Week 4 Resources
 {: .no_toc }
@@ -181,56 +181,56 @@ Accusative and Dative
 
 ***
 
-### Monday, September 25
+### Monday, February 5
 {: .no_toc }
 Adjective-Noun Agreement and 2-1-2 Adjectives
 * In class: Check-in 6
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 9/25](https://docs.google.com/presentation/d/1kVhDHEWVz8rhFP5Ke96QJmZHm9rbsAt6aRIpfRpsNsk/edit?usp=sharing)
+* [Slideshow - M 2/5](#) [Link TBD]
 * [2-1-2 Adjectives](../textbook/substantives/2-1-2-adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 7](../homework/homework#homework-7-due-w-927)
+* [Homework 7](../homework/homework#homework-7-due-w-27)
 
 ***
 
-### Wednesday, September 27
+### Wednesday, February 7
 {: .no_toc }
 3rd Declension Adjectives and Substantives
 * In class: Check-in 7
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 9/27](https://docs.google.com/presentation/d/16Gw8Ldx0vcdRNS6gzQdqMTIxXzKPqnfWIF5it5azzX8/edit?usp=sharing)
+* [Slideshow - W 2/7](#) [Link TBD]
 * [3rd Declension Adjectives](../textbook/substantives/3rd-declension-adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 8](../homework/homework#homework-8-due-r-928)
+* [Homework 8](../homework/homework#homework-8-due-r-28)
 
 ***
 
-### Thursday, September 28
+### Thursday, February 8
 {: .no_toc }
 *sum, esse, fuī, futurus*; linking sentences and predicate nominatives
 * In class: Check-in 8
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 9/28](https://docs.google.com/presentation/d/1EIRJAh7etGGdOm8BkGawcHlfP-e3yLCA4sLT4pRxat8/edit?usp=sharing)
+* [Slideshow - R 2/8](#) [Link TBD]
 * [Linking Sentences](../textbook/substantives/linking-sentences)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 9](../homework/homework#homework-9-due-m-102)
+* [Homework 9](../homework/homework#homework-9-due-m-212)
 * Quiz 3
 
 ***
 
-## Week 5 (10/2 - 10/5)
+## Week 5 (2/12 - 2/15)
 
 ### Week 5 Resources
 {: .no_toc }
@@ -240,105 +240,117 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 ***
 
-### Monday, October 2
+### Monday, February 12
 {: .no_toc }
 3rd Person Personal and Reflexive Pronouns
 * In class: Check-in 9
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 10/2](https://docs.google.com/presentation/d/1Zoh0MWUvQgsZ3A_bK0yVJvSAbcEgcnBjW4zceug8R4U/edit?usp=sharing)
+* [Slideshow - M 2/12](#) [Link TBD]
 * [3rd Person Personal and Reflexive Pronouns](../textbook/substantives/personal-and-reflexive-pronouns)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 10](../homework/homework#homework-10-due-w-104)
+* [Homework 10](../homework/homework#homework-10-due-w-214)
 
 ***
 
-### Wednesday, October 4
+### Wednesday, February 14
 {: .no_toc }
 Demonstratives and Intensives
 * In class: Check-in 10
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/4](https://docs.google.com/presentation/d/1iHqpTpYT3LnE69aUuyxgbbanwUNl5pfxV4YYtovcQV0/edit?usp=sharing)
+* [Slideshow - W 2/14](#) [Link TBD]
 * [Demonstratives and Intensives](../textbook/substantives/demonstratives-and-intensives)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 11](../homework/homework#homework-11-due-r-105)
+* [Homework 11](../homework/homework#homework-11-due-r-215)
 
 ***
 
-### Thursday, October 5
+### Thursday, February 15
 {: .no_toc }
 Prepositions
 * In class: Check-in 11
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/5](https://docs.google.com/presentation/d/14Czh-xQhxOFk787Q9CQWzZOYkZQhUUcyoKTxyUExxVQ/edit?usp=sharing)
+* [Slideshow - R 2/15](https://docs.google.com/presentation/d/14Czh-xQhxOFk787Q9CQWzZOYkZQhUUcyoKTxyUExxVQ/edit?usp=sharing)
 * [Prepositions and Expressions of Place and Time](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 12](../homework/homework#homework-12-due-m-1011)
+* [Homework 12](../homework/homework#homework-12-due-t-220)
 * Exam 1 (on Blackboard)
 
 ***
 
-## Fall Break (10/9 - 10/10)
-{: .no_toc }
-
-***
-
-## Week 6 (10/11 - 10/12)
+## Week 6 (2/20 - 2/22)
 
 ### Week 6 Resources
 {: .no_toc }
 
 * [Week 6 Vocabulary](../vocabulary/week-06-vocabulary)
 * [Week 6 Paradigms](../paradigms/week-06-paradigms)
-* **NOTE**: No class meeting on Monday 10/9 due to Fall Break.
+* **NOTE**: Our Monday class this week meets on Tuesday.
 
 ***
 
-### Wednesday, October 11
+### Tuesday, February 20
 {: .no_toc }
 Perfect Passive; passive sentences and ablative of agent
 * In class: Check-in 12
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/11](https://docs.google.com/presentation/d/1DrhXe3AldG-l7WUWWPjuLN0EQwBRBNLCZJd0d03wA3Y/edit?usp=sharing)
+* [Slideshow - T 2/20](#) [Link TBD]
 * [Perfect Passive and Ablative of Agent](../textbook/verbs/perfect-passive-and-ablative-of-agent)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 13](../homework/homework#homework-13-due-r-1012)
+* [Homework 13](../homework/homework#homework-13-due-w-221)
 
 ***
 
-### Thursday, October 12
+### Wednesday, February 21
 {: .no_toc }
 Imperfect Tense
 * In class: Check-in 13
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/12](https://docs.google.com/presentation/d/1ZmkYGWSWAvWZhvca0GNkUikqJFxAwuNLEPeqEcTbIrs/edit?usp=sharing)
+* [Slideshow - W 2/21](#) [Link TBD]
 * [Imperfect Tense](../textbook/verbs/imperfect-tense)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 14](../homework/homework#homework-14-due-m-1016)
+* [Homework 14](../homework/homework#homework-14-due-r-222)
 * Quiz 4
 
 ***
 
-## Week 7 (10/16 - 10/19)
+### Thursday, February 22
+{: .no_toc }
+3rd Declension i-stems; 4th and 5th Declensions
+* In class: Check-in 14
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 2/22](#) [Link TBD]
+* [3rd Declension i-stems and 4th and 5th Declension](../textbook/verbs/i-stems-4th-and-5th)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 15](../homework/homework#homework-15-due-m-226)
+* Quiz 4
+
+***
+
+## Week 7 (2/26 - 2/29)
 
 ### Week 7 Resources
 {: .no_toc }
@@ -348,57 +360,61 @@ Imperfect Tense
 
 ***
 
-### Monday, October 16
-{: .no_toc }
-3rd Declension i-stems; 4th and 5th Declensions
-* In class: Check-in 14
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 10/16](https://docs.google.com/presentation/d/1bj9hxtvz4SonMKIaZqIV7rno603S7p0H-9wJv8cueyc/edit?usp=sharing)
-* [3rd Declension i-stems and 4th and 5th Declension](../textbook/verbs/i-stems-4th-and-5th)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 15](../homework/homework#homework-15-due-w-1018)
-
-***
-
-### Wednesday, October 18
+### Monday, February 26
 {: .no_toc }
 Present Tense
 * In class: Check-in 15
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/18](https://docs.google.com/presentation/d/1v7ycVcT1ThxmqsBev9DaK7B-pwox3yRcLnyFiC1Alf0/edit?usp=drive_link)
+* [Slideshow - M 2/26](#) [Link TBD]
 * [Present Tense](../textbook/verbs/present-tense)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 16](../homework/homework#homework-16-due-r-1019)
+* [Homework 16](../homework/homework#homework-16-due-w-228)
 
 ***
 
-### Thursday, October 19
+### Wednesday, February 28
 {: .no_toc }
 Future Tense - 1st and 2nd Conjugations
 * In class: Check-in 16
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/19](https://docs.google.com/presentation/d/1ziUvLFkOrEc-WQtkRT95NuLysAROTAUHxXO618QrXB4/edit?usp=drive_link)
+* [Slideshow - W 2/28](#) [Link TBD]
 * [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 17](../homework/homework#homework-17-due-m-1023)
+* [Homework 17](../homework/homework#homework-17-due-r-229)
+
+***
+
+### Thursday, February 29
+{: .no_toc }
+Future Tense - 3rd, 3rd -iō, and 4th Conjugations
+* In class: Check-in 17
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 2/29](#) [Link TBD]
+* [Future Tense](../textbook/verbs/future-tense)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 18](../homework/homework#homework-18-due-m-311)
 * Quiz 5
 * Article Reflection 2
 
 ***
 
-## Week 8 (10/23 - 10/26)
+## Spring Recess (3/2 through 3/10)
+
+***
+
+## Week 8 (3/11 - 3/14)
 
 ### Week 8 Resources
 {: .no_toc }
@@ -408,57 +424,57 @@ Future Tense - 1st and 2nd Conjugations
 
 ***
 
-### Monday, October 23
-{: .no_toc }
-Future Tense - 3rd, 3rd -iō, and 4th Conjugations
-* In class: Check-in 17
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 10/23](https://docs.google.com/presentation/d/1ziUvLFkOrEc-WQtkRT95NuLysAROTAUHxXO618QrXB4/edit?usp=drive_link)
-* [Future Tense](../textbook/verbs/future-tense)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 18](../homework/homework#homework-18-due-w-1025)
-
-***
-
-### Wednesday, October 25
+### Monday, March 11
 {: .no_toc }
 Infinitives; *possum, posse, potuī*
 * In class: Check-in 18
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 10/25](https://docs.google.com/presentation/d/1DfUOiU0L0eJ5cbVfcgt_j_mspIcjrY00dwCcJqahaP0/edit?usp=drive_link)
+* [Slideshow - M 3/11](#) [Link TBD]
 * [Infinitives](../textbook/verbs/infinitives)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 19](../homework/homework#homework-19-due-r-1026)
+* [Homework 19](../homework/homework#homework-19-due-w-313)
 
 ***
 
-### Thursday, October 26
+### Wednesday, March 13
 {: .no_toc }
 Indirect Statement
 * In class: Check-in 19
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 10/19](https://docs.google.com/presentation/d/1Z0xHj-DCNJN226GaF3zblLR4Y6PkWa1qgnILfjxiJiA/edit?usp=drive_link)
+* [Slideshow - W 3/13](#) [Link TBD]
 * [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 20](../homework/homework#homework-20-due-m-1030)
+* [Homework 20](../homework/homework#homework-20-due-r-314)
+
+***
+
+### Thursday, March 14
+{: .no_toc }
+Indirect Statement continued
+* In class: Check-in 20
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/18](#) [Link TBD]
+* [Indirect Statement](../textbook/verbs/indirect-statement)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 21](../homework/homework#homework-21-due-m-318)
 * Quiz 6
 * Coin Analysis Project
 
 ***
 
-## Week 9 (10/30 - 11/2)
+## Week 9 (3/18 - 3/21)
 
 ### Week 9 Resources
 {: .no_toc }
@@ -468,57 +484,56 @@ Indirect Statement
 
 ***
 
-### Monday, October 30
-{: .no_toc }
-Indirect Statement continued
-* In class: Check-in 20
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 10/30](https://docs.google.com/presentation/d/1Z0xHj-DCNJN226GaF3zblLR4Y6PkWa1qgnILfjxiJiA/edit?usp=drive_link)
-* [Indirect Statement](../textbook/verbs/indirect-statement)
-
-#### HW due by start of next class
-{: .no_toc }
-
-* [Homework 21](../homework/homework#homework-21-due-w-111)
-
-***
-
-### Wednesday, November 1
+### Monday, March 18
 {: .no_toc }
 Dependent Clauses and Relative Clauses
 * In class: Check-in 21
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/1](https://docs.google.com/presentation/d/1qYtZppoihOZ0YSzwsGI-J9Q9mWG30gA02RLVA_c9Ggo/edit?usp=sharing)
+* [Slideshow - M 3/18](#) [Link TBD]
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 22](../homework/homework#homework-22-due-r-112)
+* [Homework 22](../homework/homework#homework-22-due-w-320)
 
 ***
 
-### Thursday, November 2
+### Wednesday, March 20
 {: .no_toc }
 Relative Clauses continued
 * In class: Check-in 22
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/2](https://docs.google.com/presentation/d/1qYtZppoihOZ0YSzwsGI-J9Q9mWG30gA02RLVA_c9Ggo/edit?usp=sharing)
+* [Slideshow - W 3/20](#) [Link TBD]
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 23](../homework/homework#homework-23-due-m-116)
+* [Homework 23](../homework/homework#homework-23-due-r-321)
+
+***
+
+### Thursday, March 21
+{: .no_toc }
+Irregular Verbs: *ferō*, *eō*
+* In class: Check-in 23
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 3/21](#) [Link TBD]
+* [Irregular Verbs](../textbook/verbs/irregular-verbs)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 24](../homework/homework#homework-24-due-m-325)
 * Quiz 7
 
 ***
 
-## Week 10 (11/6 - 11/9)
+## Week 10 (3/25 - 3/27)
 
 ### Week 10 Resources
 {: .no_toc }
@@ -528,56 +543,44 @@ Relative Clauses continued
 
 ***
 
-### Monday, November 6
-{: .no_toc }
-Irregular Verbs: *ferō*, *eō*
-* In class: Check-in 23
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 11/6](https://docs.google.com/presentation/d/1EIKGaA8cBGvElHWIn0qWKQuqXC3yz2uU0_jiSdWVM3c/edit?usp=sharing)
-* [Irregular Verbs](../textbook/verbs/irregular-verbs)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 24](../homework/homework#homework-24-due-w-118)
-
-***
-
-### Wednesday, November 8
+### Monday, March 25
 {: .no_toc }
 Irregular Verbs: *volo*, *nolo*, *malo*
 * In class: Check-in 24
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/8](https://docs.google.com/presentation/d/1II35qonv6IfeSeN3kv2Por5ettKJeRzTsQ2QqnnQo9Y/edit?usp=drive_link)
+* [Slideshow - M 3/25](#) [Link TBD]
 * [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 25](../homework/homework#homework-25-due-r-119)
+* [Homework 25](../homework/homework#homework-25-due-w-327)
 
 ***
 
-### Thursday, November 9
+### Wednesday, March 27
 {: .no_toc }
 Pluperfect and Future Perfect Tenses
 * In class: Check-in 25
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/9](https://docs.google.com/presentation/d/1PfTj7wpDPENb-n9DRpTtKZYaDFsc95WV7ByKI_FgpMs/edit?usp=sharing)
+* [Slideshow - W 3/27](#) [Link TBD]
 * [Pluperfect and Future Perfect Tenses](../textbook/verbs/pluperfect-and-future-perfect)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 26](../homework/homework#homework-26-due-m-1113)
+* [Homework 26](../homework/homework#homework-26-due-w-43)
 * Exam 2
 
 ***
 
-## Week 11 (11/13 - 11/16)
+## Easter Break (3/28 through 4/1)
+
+***
+
+## Week 11 (4/3 - 4/4)
 
 ### Week 11 Resources
 {: .no_toc }
@@ -587,56 +590,40 @@ Pluperfect and Future Perfect Tenses
 
 ***
 
-### Monday, November 13
+### Wednesday, April 3
 {: .no_toc }
 Imperative Mood and Subjunctive Overview
 * In class: Check-in 26
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 11/13](https://docs.google.com/presentation/d/186GzfQbHx5-D100S_beoOBBEShD9yAf7el534emJrrU/edit?usp=sharing)
+* [Slideshow - W 4/3](#) [Link TBD]
 * [Imperative Mood](../textbook/subjunctive/imperative-mood)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 27](../homework/homework#homework-27-due-w-1115)
+* [Homework 27](../homework/homework#homework-27-due-r-44)
 
 ***
 
-### Wednesday, November 15
+### Wednesday, April 4
 {: .no_toc }
 Present and Imperfect Subjunctive
 * In class: Check-in 27
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/15](https://docs.google.com/presentation/d/1ZaYppe3ja21AkhqSMnUHdW3ukDQsaJSyiY3TzTTKi5A/edit?usp=sharing)
+* [Slideshow - R 4/4](#) [Link TBD]
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 28](../homework/homework#homework-28-due-r-1116)
+* [Homework 28](../homework/homework#homework-28-due-m-48)
 
 ***
 
-### Thursday, November 16
-{: .no_toc }
-Perfect and Pluperfect Subjunctive
-* In class: Check-in 28
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - R 11/16](https://docs.google.com/presentation/d/18bXixTM7Xac-FY_UGgoQOOynWTEcOZzZVCUrCV0Ueug/edit?usp=sharing)
-* [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 29](../homework/homework#homework-29-due-m-1120)
-
-***
-
-## Week 12 (11/20)
+## Week 12 (4/8 - 4/11)
 
 ### Week 12 Resources
 {: .no_toc }
@@ -646,30 +633,56 @@ Perfect and Pluperfect Subjunctive
 
 ***
 
-### Monday, November 20
+### Monday, April 8
+{: .no_toc }
+Perfect and Pluperfect Subjunctive
+* In class: Check-in 28
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 4/8](#) [Link TBD]
+* [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 29](../homework/homework#homework-29-due-w-410)
+
+***
+
+### Wednesday, April 10
 {: .no_toc }
 Independent Subjunctives: Deliberative, Potential, Optative
 * In class: Check-in 29
 
 #### Resources and Readings
 {: .no_toc }
-* [Zoom Recording - M 11/20](https://Fairfield.zoom.us/rec/share/Eieqan_l-zckG05WwksjefDKQpZdQ1Q_pDXCOxk53U3KJ-yq-h67RwkzDw2Hwutw.dqhrIFaKDx197G1D)
-* [Slideshow - M 11/20](https://docs.google.com/presentation/d/1kgrnO8cZ75XoKz8gzWM1ebir34ClyATlHK4bOjJzfVg/edit?usp=sharing)
+* [Slideshow - W 4/10](#) [Link TBD]
 * [Independent Subjunctives](../textbook/subjunctive/independent-subjunctives)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 30](../homework/homework#homework-30-due-m-1127)
-* Quiz 8
+* [Homework 30](../homework/homework#homework-30-due-r-411)
+* Quiz 8 [NOTE OFF-CYCLE DATE]
 
 ***
 
-## Thanksgiving Break (11/22 - 11/26)
+### Thursday, April 11
 {: .no_toc }
+Dependent Subjunctives and Sequence of Tenses
+* In class: Check-in 30
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 4/11](#) [Link TBD]
+* [Sequence of Tenses](../textbook/subjunctive/sequence-of-tenses)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 31](../homework/homework#homework-31-due-m-415)
 
 ***
 
-## Week 13 (11/27 - 11/30)
+## Week 13 (4/15 - 4/18)
 
 ### Week 13 Resources
 {: .no_toc }
@@ -679,57 +692,57 @@ Independent Subjunctives: Deliberative, Potential, Optative
 
 ***
 
-### Monday, November 27
-{: .no_toc }
-Dependent Subjunctives and Sequence of Tenses
-* In class: Check-in 30
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 11/27](https://docs.google.com/presentation/d/1Sbaqr0ZgX4y22M4BwTgO2lpZyZflcKA5rNZyBx2MX7E/edit?usp=sharing)
-* [Sequence of Tenses](../textbook/subjunctive/sequence-of-tenses)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 31](../homework/homework#homework-31-due-w-1129)
-
-***
-
-### Wednesday, November 29
+### Monday, April 15
 {: .no_toc }
 Circumstantial, Causal, and Concessive Clauses
 * In class: Check-in 31
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 11/29](https://docs.google.com/presentation/d/1FkyNyilKW4NTTghimPpKQpGhCx0Bvxztcxj__6EnPzQ/edit?usp=sharing)
+* [Slideshow - M 4/15](#) [Link TBD]
 * [Circumstantial, Causal, and Concessive Clauses](../textbook/subjunctive/circumstantial-causal-concessive)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 32](../homework/homework#homework-32-due-r-1130)
+* [Homework 32](../homework/homework#homework-32-due-w-417)
 
 ***
 
-### Thursday, November 30
+### Wednesday, April 17
 {: .no_toc }
 Purpose Clauses
 * In class: Check-in 32
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 11/30](https://docs.google.com/presentation/d/18j01GBUWCX9dgdVjrREivJuUmrMS5S8Slq29Kh6eaXs/edit?usp=sharing)
+* [Slideshow - W 4/17](#) [Link TBD]
 * [Purpose Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 33](../homework/homework#homework-33-due-m-124)
+* [Homework 33](../homework/homework#homework-33-due-r-418)
+
+***
+
+### Thursday, April 18
+{: .no_toc }
+Result Clauses
+* In class: Check-in 33
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - R 4/18](#) [Link TBD]
+* [Result Clauses](../textbook/subjunctive/purpose-clauses)
+
+#### HW due by start of next class
+{: .no_toc }
+* [Homework 34](../homework/homework#homework-34-due-m-422)
 * Quiz 9
 * Article Reflection 3
 
 ***
 
-## Week 14 (12/4 - 12/7)
+## Week 14 (4/22 - 4/25)
 
 ### Week 14 Resources
 {: .no_toc }
@@ -739,74 +752,71 @@ Purpose Clauses
 
 ***
 
-### Monday, December 4
-{: .no_toc }
-Result Clauses
-* In class: Check-in 33
-
-#### Resources and Readings
-{: .no_toc }
-* [Slideshow - M 12/4](https://docs.google.com/presentation/d/1IMt2TIWQ-ExNINJrlnKI0UMsNbdxNbJL5Z5L_U75iEY/edit?usp=sharing)
-* [Result Clauses](../textbook/subjunctive/purpose-clauses)
-
-#### HW due by start of next class
-{: .no_toc }
-* [Homework 34](../homework/homework#homework-34-due-w-126)
-
-***
-
-### Wednesday, December 6
+### Monday, April 22
 {: .no_toc }
 Conditions
 * In class: Check-in 34
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 12/6](https://docs.google.com/presentation/d/1GrmaxbywFWj-7xr2iezkEc3mfiNo2cSY2dpCwWnzy2M/edit?usp=sharing)
+* [Slideshow - M 4/22](#) [Link TBD]
 * [Conditions](../textbook/subjunctive/conditions)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 35](../homework/homework#homework-35-due-r-127)
+* [Homework 35](../homework/homework#homework-35-due-w-424)
 
 ***
 
-### Thursday, December 7
+### Wednesday, April 24
 {: .no_toc }
 Conditions continued
 * In class: Check-in 35
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 12/7](https://docs.google.com/presentation/d/1GrmaxbywFWj-7xr2iezkEc3mfiNo2cSY2dpCwWnzy2M/edit?usp=sharing)
+* [Slideshow - W 4/24](#) [Link TBD]
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 36](../homework/homework#homework-36-due-m-1210)
-* Quiz 10
+* [Homework 36](../homework/homework#homework-36-due-r-425)
 
 ***
 
-## Week 15 (12/11)
-
-***
-
-### Monday, December 11
+### Thursday, April 25
 {: .no_toc }
-In Conclusion
+Review
 * In class: Check-in 36
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 12/11](https://docs.google.com/presentation/d/1tPOZr3qluJZISwusV99-wBjvLTRhhmqomKNGJagnj7w/edit?usp=sharing)
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](https://fairfield.campuslabs.com/eval-home/direct/0086264)
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](https://forms.gle/MX7JibjZbWiCytvr8)
+* [Slideshow - R 4/25](#) [Link TBD]
+
+#### HW due by start of next class
+{: .no_toc }
+* Quiz 10
 
 ***
 
-## Reading Days (12/12, 12/13, 12/17)
+## Week 15 (4/29)
 
 ***
 
-## Exam Period (12/14 - 12/20)
-* Exam 3 will be due at **11am on M 12/18**.
+### Monday, April 29
+{: .no_toc }
+In Conclusion
+
+#### Resources and Readings
+{: .no_toc }
+* [Slideshow - M 4/29](#) [Link TBD]
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](#) [Link TBD]
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](#) [Link TBD]
+
+***
+
+## Reading Days (4/30, 5/1, 5/5)
+
+***
+
+## Exam Period (5/2 through 5/8)
+* Exam 3 will be due at **2:30pm on M 5/6**.

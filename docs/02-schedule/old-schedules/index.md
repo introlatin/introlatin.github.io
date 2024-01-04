@@ -5,6 +5,7 @@ permalink: /schedule-and-slideshows/old-schedules
 nav_order: 2
 parent: Schedule and Slideshows
 has_children: true
+nav_exclude: true
 ---
 
 # Old Schedules

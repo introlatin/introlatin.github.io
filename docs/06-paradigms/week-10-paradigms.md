@@ -19,36 +19,6 @@ parent: Paradigms
 
 ## Verbs
 
-### ferō
-
-#### Present System (Indicative)
-
-* Scroll right within the table for all columns.
-
-|       | Present Active Indicative | Present Passive Indicative | Imperfect Active Indicative | Imperfect Passive Indicative | Future Active Indicative | Future Passive Indicative | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st sg.    | ferō | feror | ferēbam | ferēbar | feram | ferar |
-| 2nd sg.   | fers | ferris | ferēbās | ferēbāris | ferēs | ferēris |
-| 3rd sg.   | fert | fertur | ferēbat | ferēbātur | feret | ferētur |
-| 1st pl.   | ferimus | ferimur | ferēbāmus | ferēbāmur | ferēmus | ferēmur |
-| 2nd pl.   | fertis | feriminī | ferēbātis | ferēbāminī | ferētis | ferēminī |
-| 3rd pl.   | ferunt | feruntur | ferēbant | ferēbantur | ferent | ferentur |
-
-### eō
-
-#### Present System (Indicative)
-
-|       | Present Active Indicative | Imperfect Active Indicative | Future Active Indicative |
-| --- | --- | --- | --- |
-| 1st sg.    | eō | ībam | ībō |
-| 2nd sg.   | īs | ībās | ībīs |
-| 3rd sg.   | it | ībat | ībit |
-| 1st pl.   | īmus | ībāmus | ībīmus |
-| 2nd pl.   | ītis | ībātis | ībītis |
-| 3rd pl.   | eunt | ībant | ībunt |
-
-***
-
 ### volō, nōlō, mālō
 
 #### Present Indicative

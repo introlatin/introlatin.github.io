@@ -10,8 +10,6 @@ parent: Vocabulary
 
 ## Verbs
 
-* eō, īre, iī / īvī, ītūrus - to go [(Logeion entry)](https://logeion.uchicago.edu/eo)
-* ferō, ferre, tulī, latus - to bring, bear, carry [(Logeion entry)](https://logeion.uchicago.edu/laboro)
 * mālō, malle, maluī, -- - to prefer (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/malo)
 * nōlō, nolle, noluī, -- - not to want, not to be willing (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/nolo)
 * volō, velle, voluī, -- - to want, to be willing (+ complementary infinitive) [(Logeion entry)](https://logeion.uchicago.edu/volo)

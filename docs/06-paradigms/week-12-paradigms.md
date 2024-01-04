@@ -56,3 +56,12 @@ parent: Paradigms
 | Future Optative | present | if only ... would [verb] |
 | Present Optative | imperfect | if only ... were [verb]ing |
 | Past Optative | pluperfect | if only ... had [verb]ed |
+
+### Sequence of Tenses
+
+| **Main Verb Tense** | **Dependent Verb Tense and Mood** | **Time Relationship** |
+| --- | --- | --- |
+| **Primary Sequence** (present, future, future perfect) | present subjunctive | in progress, incomplete |
+| **Primary Sequence** (present, future, future perfect) | perfect subjunctive | completed |
+| **Secondary Sequence** (imperfect, perfect, pluperfect) | imperfect subjunctive | in progress, incomplete |
+| **Secondary Sequence** (imperfect, perfect, pluperfect) | pluperfect subjunctive | completed |

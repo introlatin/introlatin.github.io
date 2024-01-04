@@ -8,20 +8,20 @@ parent: Course Information
 
 # Course Information
 
-**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1hXAiZLVPesEXbv-ah-blBEcr_Noly4O5QjQgDGG2P2s/edit?usp=sharing).
+**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
 
 ***
 
-## Course Details (Fall 2023)
+## Course Details (Spring 2024)
 
-**Meeting time**: MR 9:30 - 10:20am, W 9-9:50am  
-**Meeting Place**: Donnarumma 348  
+**Meeting time**: MR 11-11:50am, W 10-10:50am  
+**Meeting Place**: Canisius 209  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
 **Office**: Donnarumma 124  
-**Student Hours**: M 10:30-11:30am, W 10-11am, or by appointment.  
+**Student Hours**: TBD.  
 **E-mail**: dlibatique [at] fairfield [dot] edu  
 **Website**: [Click here](https://libatique.info).  
-**Zoom room and Discord server invite links**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1mJ9s2ylwWvSHBGjnSwfLUxeeXZqMJfNrCFIvgMjK9Yc/edit?usp=sharing).
+**Zoom room and Discord server invite links**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
 
 ***
 

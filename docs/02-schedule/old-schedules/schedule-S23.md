@@ -5,6 +5,7 @@ permalink: /schedule-and-slideshows/schedule-S23
 nav_order: 0
 parent: Old Schedules
 grand_parent: Schedule and Slideshows
+nav_exclude: true
 ---
 
 # Schedule - Spring 2023

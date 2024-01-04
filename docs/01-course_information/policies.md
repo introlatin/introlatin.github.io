@@ -19,7 +19,7 @@ parent: Course Information
 
 ## The Pandemic and Absences / Late Assignments
 
-The coronavirus pandemic has upended our normal way of life since March 2020, and the disruptions that we’ve experienced since then will have lasting effects in various ways. As of July 2023, we are slated to be on campus and in person in Fall 2023 (yay!), but if the pandemic surges again or other one-off concerns arise, we have to be ready to shift online and conduct our class via Zoom and other online media.
+The coronavirus pandemic has upended our normal way of life since March 2020, and the disruptions that we’ve experienced since then will have lasting effects in various ways. As of January 2024, we are slated to be on campus and in person in Spring 2024 (yay!), but if the pandemic surges again or other one-off concerns arise, we have to be ready to shift online and conduct our class via Zoom and other online media.
 
 Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you’ll be missing class via email before the class meeting in question. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don’t hesitate to let me know.
 
@@ -81,7 +81,7 @@ If you are already registered with the Office of Accessibility, please be sure t
 
 In addition to my email and student hours, there are resources outside myself, like the [Office of Academic Support and Retention](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) and the [Writing Center](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your favorite ancient Roman monument by Wednesday, September 13, at 9am, with the subject line “Caesar and Pompey were ARCH-enemies!” If you do so, you will receive five (5) extra credit points on your semester total (see [Grading](grading) for the course grading structure).
+By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your favorite ancient Roman monument by Wednesday, January 24, at 11am, with the subject line “Caesar and Pompey were ARCH-enemies!” If you do so, you will receive five (5) extra credit points on your semester total (see [Grading](grading) for the course grading structure).
 
 [Return to top.](#top)
 
