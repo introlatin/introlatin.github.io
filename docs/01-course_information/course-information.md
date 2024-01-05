@@ -21,7 +21,7 @@ parent: Course Information
 **Student Hours**: TBD.  
 **E-mail**: dlibatique [at] fairfield [dot] edu  
 **Website**: [Click here](https://libatique.info).  
-**Zoom room and Discord server invite links**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
+**Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
 
 ***
 
