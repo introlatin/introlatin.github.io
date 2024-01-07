@@ -607,7 +607,7 @@ Imperative Mood and Subjunctive Overview
 
 ***
 
-### Wednesday, April 4
+### Thursday, April 4
 {: .no_toc }
 Present and Imperfect Subjunctive
 * In class: Check-in 27
