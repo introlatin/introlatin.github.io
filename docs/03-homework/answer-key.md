@@ -445,8 +445,6 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Homework 12 (Due T 2/20)
 
-**NOTE**: This is a practice homework assignment for your own personal edification to practice with prepositions and expressions of space and time and get instant feedback via the answer key. This is not a submittable assignment on Blackboard and it will not count towards your semester grade.
-
 1. equī ex agrīs cucurrērunt.  
 **The horses ran out of the fields.** [ablative of place from which / motion away from]
 
