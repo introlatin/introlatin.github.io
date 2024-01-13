@@ -14,14 +14,15 @@ parent: Course Information
 
 ## Course Details (Spring 2024)
 
-**Meeting time**: MR 11-11:50am, W 10-10:50am  
-**Meeting Place**: Canisius 209  
-**Instructor**: Prof. Daniel Libatique (he/him/his)  
-**Office**: Donnarumma 124  
-**Student Hours**: TBD.  
-**E-mail**: dlibatique [at] fairfield [dot] edu  
-**Website**: [Click here](https://libatique.info).  
-**Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
+* **Meeting time and place**: MR 11-11:50am, W 10-10:50am - Canisius 209  
+* **Instructor**: Prof. Daniel Libatique (he/him/his)  
+* **Office**: Donnarumma 124  
+* **Student Hours**: 
+    * via Zoom: Tuesdays 9-11am (sign up for 15-minute slot [here](https://zcal.co/i/0w7IT80I))  
+    * in person: Wednesdays 11am-12pm (drop in)  
+* **E-mail**: dlibatique [at] fairfield [dot] edu  
+* **Website**: [Click here](https://libatique.info).  
+* **Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing).
 
 ***
 
