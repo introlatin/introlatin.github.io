@@ -30,7 +30,7 @@ Syllabus Day
 #### HW due by start of next class
 {: .no_toc }
 * Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing) version).
-* Complete the [Student Information Form](#). [Link TBD]
+* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
 * (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
 
 ***
@@ -105,7 +105,7 @@ Noun Overview
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 3](../homework/homework#homework-3-due-m-129) (on Blackboard)
-* Quiz 1 (on Blackboard)
+* Quiz 1
 
 ***
 
@@ -165,7 +165,7 @@ Accusative and Dative
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 6](../homework/homework#homework-6-due-m-25)
-* Quiz 2 (on Blackboard)
+* Quiz 2
 * Article Reflection 1 (on Blackboard)
 
 ***
@@ -285,7 +285,7 @@ Prepositions
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 12](../homework/homework#homework-12-due-t-220)
-* Exam 1 (on Blackboard)
+* Exam 1
 
 ***
 
