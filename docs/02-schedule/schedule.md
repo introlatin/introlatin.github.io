@@ -25,7 +25,7 @@ Syllabus Day
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/17](https://docs.google.com/presentation/d/1cIhy82mAHrwxUZiXSAvvVRtee8U2CLdqoNeKsHiucGU/edit?usp=sharing) [Link TBD]
+* [Slideshow - W 1/17](https://docs.google.com/presentation/d/1cIhy82mAHrwxUZiXSAvvVRtee8U2CLdqoNeKsHiucGU/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
