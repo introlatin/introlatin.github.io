@@ -679,6 +679,8 @@ Dependent Subjunctives and Sequence of Tenses
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 31](../homework/homework#homework-31-due-m-415)
+* Article Reflection 3
+* Giovanni Verri Project
 
 ***
 
@@ -738,7 +740,7 @@ Result Clauses
 {: .no_toc }
 * [Homework 34](../homework/homework#homework-34-due-m-422)
 * Quiz 9
-* Article Reflection 3
+* Percy Jackson Project
 
 ***
 
