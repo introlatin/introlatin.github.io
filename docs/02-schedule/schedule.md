@@ -25,7 +25,7 @@ Syllabus Day
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/17](#) [Link TBD]
+* [Slideshow - W 1/17](https://docs.google.com/presentation/d/1cIhy82mAHrwxUZiXSAvvVRtee8U2CLdqoNeKsHiucGU/edit?usp=sharing) [Link TBD]
 
 #### HW due by start of next class
 {: .no_toc }
@@ -47,6 +47,7 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 #### HW due by start of next class
 {: .no_toc }
+* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link) if you haven't yet.
 * (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
 
 ***
