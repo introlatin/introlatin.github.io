@@ -144,7 +144,7 @@ Nominative and Genitive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/31](#) [Link TBD]
+* [Slideshow - W 1/31](https://docs.google.com/presentation/d/1edFL78P5Se7GbgxqtSIQp98g6245wwbA6fXreAeHLog/edit?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
@@ -160,13 +160,13 @@ Accusative and Dative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/1](#) [Link TBD]
+* [Slideshow - R 2/1](https://docs.google.com/presentation/d/1s_1dEJlMocBxlr3fDBvFP28S4FSGvcg4fsrHmPfmzyo/edit?usp=sharing)
 * [Cases and Uses](../textbook/substantives/cases-and-uses)
 
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 6](../homework/homework#homework-6-due-m-25)
-* Quiz 2
+* Quiz 2 (handed out in class)
 * Article Reflection 1 (on Blackboard)
 
 ***
