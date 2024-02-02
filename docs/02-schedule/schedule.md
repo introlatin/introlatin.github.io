@@ -189,7 +189,7 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/5](#) [Link TBD]
+* [Slideshow - M 2/5](https://docs.google.com/presentation/d/11qPoctuA6tzdyUlq637vewjrj1IoU4KxxusnO4I_nhM/edit?usp=drive_link)
 * [2-1-2 Adjectives](../textbook/substantives/2-1-2-adjectives)
 
 #### HW due by start of next class
@@ -200,12 +200,12 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 ### Wednesday, February 7
 {: .no_toc }
-3rd Declension Adjectives and Substantives
+3rd Declension Adjectives
 * In class: Check-in 7
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/7](#) [Link TBD]
+* [Slideshow - W 2/7](https://docs.google.com/presentation/d/1sMmxty0BtCRKpxHa7KsHrCfTOfIv4BGudQHhizQg1W4/edit?usp=drive_link)
 * [3rd Declension Adjectives](../textbook/substantives/3rd-declension-adjectives)
 
 #### HW due by start of next class
@@ -216,12 +216,12 @@ Adjective-Noun Agreement and 2-1-2 Adjectives
 
 ### Thursday, February 8
 {: .no_toc }
-*sum, esse, fuī, futurus*; linking sentences and predicate nominatives
+Substantives; *sum, esse, fuī, futurus*; linking sentences and predicate nominatives
 * In class: Check-in 8
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/8](#) [Link TBD]
+* [Slideshow - R 2/8](https://docs.google.com/presentation/d/1NWGSPWHHf95UJLa6hr66GQGrfvTv2ar3DguZKtvZvA8/edit?usp=drive_link)
 * [Linking Sentences](../textbook/substantives/linking-sentences)
 
 #### HW due by start of next class
