@@ -248,7 +248,7 @@ Substantives; *sum, esse, fuī, futurus*; linking sentences and predicate nomina
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/12](#) [Link TBD]
+* [Slideshow - M 2/12](https://docs.google.com/presentation/d/1sOAmGYhEgB2sZLuzRJfvlGF6_bsKGYFSsBgIfiNofK8/edit?usp=sharing)
 * [3rd Person Personal and Reflexive Pronouns](../textbook/substantives/personal-and-reflexive-pronouns)
 
 #### HW due by start of next class
@@ -264,7 +264,7 @@ Demonstratives and Intensives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/14](#) [Link TBD]
+* [Slideshow - W 2/14](https://docs.google.com/presentation/d/1Rjmlb6IoyiAGtqOw9xUypoMmI13SeCHRaFNhvLX4MRg/edit?usp=drive_link)
 * [Demonstratives and Intensives](../textbook/substantives/demonstratives-and-intensives)
 
 #### HW due by start of next class
@@ -280,7 +280,7 @@ Prepositions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/15](https://docs.google.com/presentation/d/14Czh-xQhxOFk787Q9CQWzZOYkZQhUUcyoKTxyUExxVQ/edit?usp=sharing)
+* [Slideshow - R 2/15](https://docs.google.com/presentation/d/1HbBupcqcKT4Yl7-ogDfxatpJ9NZ7kbRRvFJ-PgdIxlg/edit?usp=drive_link)
 * [Prepositions and Expressions of Place and Time](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
