@@ -15,20 +15,15 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Spring 2024, at Fairf
 
 ## Next Deadlines
 
-### Due Monday February 12 at 11am
-
-* [Homework 9](/homework/homework#homework-9-due-m-212) (on Blackboard)
-* Quiz 3 (distributed in class)
-
-### Due Wednesday February 7 at 10am
-
-* [Homework 10](/homework/homework#homework-10-due-w-214) (on Blackboard)
-
-### Due Thursday February 8 at 11am
-
-* [Homework 11](/homework/homework#homework-11-due-r-215) (on Blackboard)
-
 ### Due Tuesday February 20 [!] at 11am
 
 * [Homework 12](/homework/homework#homework-12-due-t-220) (on Blackboard)
 * Exam 1 (distributed in class)
+
+### Due Wednesday February 21 at 10am
+
+* [Homework 13](/homework/homework#homework-13-due-w-221)
+
+### Due Thursday February 22 at 11am
+
+* [Homework 14](/homework/homework#homework-14-due-r-222)
