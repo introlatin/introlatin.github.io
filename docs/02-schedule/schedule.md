@@ -308,7 +308,7 @@ Perfect Passive; passive sentences and ablative of agent
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - T 2/20](#) [Link TBD]
+* [Slideshow - T 2/20](https://docs.google.com/presentation/d/1WP88ZqymqT9b7wHPx71HhfQiC75Dxq66VY6uJuxElDk/edit?usp=drive_link)
 * [Perfect Passive and Ablative of Agent](../textbook/verbs/perfect-passive-and-ablative-of-agent)
 
 #### HW due by start of next class
@@ -324,7 +324,7 @@ Imperfect Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/21](#) [Link TBD]
+* [Slideshow - W 2/21](https://docs.google.com/presentation/d/1GRjD3VMvAUVX6C0UCCNZgY_Uo3sjus9tnNET0r9NLSQ/edit?usp=drive_link)
 * [Imperfect Tense](../textbook/verbs/imperfect-tense)
 
 #### HW due by start of next class
@@ -340,7 +340,7 @@ Imperfect Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/22](#) [Link TBD]
+* [Slideshow - R 2/22](https://docs.google.com/presentation/d/1SOvpTC5ZLf7S1ewJriS3tiexEBpsOKrdqsP3TUMWC48/edit?usp=drive_link)
 * [3rd Declension i-stems and 4th and 5th Declension](../textbook/verbs/i-stems-4th-and-5th)
 
 #### HW due by start of next class
