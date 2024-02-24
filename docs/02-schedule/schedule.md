@@ -367,7 +367,7 @@ Present Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/26](#) [Link TBD]
+* [Slideshow - M 2/26](https://docs.google.com/presentation/d/1lEmN_jqF_umjqSIuUpbVr247uDpu4fFCHjJ9VcclOkc/edit?usp=drive_link)
 * [Present Tense](../textbook/verbs/present-tense)
 
 #### HW due by start of next class
@@ -383,7 +383,7 @@ Future Tense - 1st and 2nd Conjugations
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/28](#) [Link TBD]
+* [Slideshow - W 2/28](https://docs.google.com/presentation/d/1sl1WBVkzWjGUnfAzuxbDyPuQXgOqS8qW2kt_PbxYnPI/edit?usp=drive_link)
 * [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
@@ -399,7 +399,7 @@ Future Tense - 3rd, 3rd -iō, and 4th Conjugations
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/29](#) [Link TBD]
+* [Slideshow - R 2/29](https://docs.google.com/presentation/d/1sl1WBVkzWjGUnfAzuxbDyPuQXgOqS8qW2kt_PbxYnPI/edit?usp=drive_link)
 * [Future Tense](../textbook/verbs/future-tense)
 
 #### HW due by start of next class
