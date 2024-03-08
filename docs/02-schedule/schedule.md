@@ -431,7 +431,7 @@ Infinitives; *possum, posse, potuī*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/11](#) [Link TBD]
+* [Slideshow - M 3/11](https://docs.google.com/presentation/d/1IC0-HA2MIBo3mOC-8F2m-jmXGugdu5PpvEFIc7jageU/edit?usp=drive_link)
 * [Infinitives](../textbook/verbs/infinitives)
 
 #### HW due by start of next class
@@ -447,7 +447,7 @@ Indirect Statement
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/13](#) [Link TBD]
+* [Slideshow - W 3/13](https://docs.google.com/presentation/d/1RhX1sSssPJ5ouymrr2O4x6oiayNcjwnpAtN7n9e3tWU/edit?usp=drive_link)
 * [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
@@ -463,7 +463,7 @@ Indirect Statement continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/18](#) [Link TBD]
+* [Slideshow - R 3/18](https://docs.google.com/presentation/d/1RhX1sSssPJ5ouymrr2O4x6oiayNcjwnpAtN7n9e3tWU/edit?usp=drive_link)
 * [Indirect Statement](../textbook/verbs/indirect-statement)
 
 #### HW due by start of next class
