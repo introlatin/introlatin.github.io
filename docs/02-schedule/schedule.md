@@ -491,7 +491,7 @@ Dependent Clauses and Relative Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/18](#) [Link TBD]
+* [Slideshow - M 3/18](https://docs.google.com/presentation/d/1fEp5a6xHGXqwaIuwLMSrbyAre870AsyTczXoSNumtsw/edit?usp=sharing)
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
@@ -507,7 +507,7 @@ Relative Clauses continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/20](#) [Link TBD]
+* [Slideshow - W 3/20](https://docs.google.com/presentation/d/1fEp5a6xHGXqwaIuwLMSrbyAre870AsyTczXoSNumtsw/edit?usp=sharing)
 * [Relative Clauses](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
@@ -523,7 +523,7 @@ Irregular Verbs: *ferō*, *eō*
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/21](#) [Link TBD]
+* [Slideshow - R 3/21](https://docs.google.com/presentation/d/1rnVgyubMdebjwf7-cA-tiowI_6DGjnv0MzmuwFWF5ac/edit?usp=drive_link)
 * [Irregular Verbs](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
