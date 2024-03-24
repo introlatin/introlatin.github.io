@@ -10,7 +10,7 @@ parent: Vocabulary
 
 * ā / ab - (+ abl.) from, away from; (+ abl. of personal agent) by [(Logeion entry)](https://logeion.uchicago.edu/ab)
 * accipiō, accipere, accēpī, acceptus - to accept, take [(Logeion entry)](https://logeion.uchicago.edu/accipio)
-* ācer, ācris, ācre - sharp, keen [(Logeion entry)](https://logeion.uchicago.edu/acer)
+* ācer, ācris, ācre - sharp, keen, fierce [(Logeion entry)](https://logeion.uchicago.edu/acer)
 * aciēs, aciēī, m. - battle line [(Logeion entry)](https://logeion.uchicago.edu/acies)
 * ad - (+ acc.) to, towards, for, at [(Logeion entry)](https://logeion.uchicago.edu/ad)
 * adeō (adverb) - to such an extent [(Logeion entry)](https://logeion.uchicago.edu/adeo)
