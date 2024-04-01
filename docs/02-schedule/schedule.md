@@ -597,7 +597,7 @@ Imperative Mood and Subjunctive Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/3](#) [Link TBD]
+* [Slideshow - W 4/3](https://docs.google.com/presentation/d/11TjgHtQO60XAW5Y_hqQC7d7nQiGXcubuf6ppXNk01D4/edit?usp=drive_link)
 * [Imperative Mood](../textbook/subjunctive/imperative-mood)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
@@ -614,7 +614,7 @@ Present and Imperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/4](#) [Link TBD]
+* [Slideshow - R 4/4](https://docs.google.com/presentation/d/14LGPi6hJNwQ1BZC9YgHGrIZBZd9KuTEzKP-LcQ2FOTE/edit?usp=drive_link)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class

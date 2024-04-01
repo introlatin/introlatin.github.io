@@ -15,8 +15,7 @@ Welcome to the landing page for LATN 1111, Basic Latin, in Spring 2024, at Fairf
 
 ## Next Deadlines
 
-### Due Monday March 25 at 11am
+### Due Wednesday April 3 at 10am
 
-* Check-in 23 (on Blackboard)
-* Homework 24
-* Quiz 7 (print out from Google Doc link in Blackboard announcement, bring to class)
+* Homework 26
+* Exam 2
