@@ -640,7 +640,7 @@ Perfect and Pluperfect Subjunctive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/8](#) [Link TBD]
+* [Slideshow - M 4/8](https://docs.google.com/presentation/d/1IrJV2JGDODFdi2S0KANzFIxAjke9fccjMCYSwbTCb88/edit?usp=drive_link)
 * [Subjunctive Overview and Formation](../textbook/subjunctive/subjunctive-overview-and-formation)
 
 #### HW due by start of next class
@@ -656,7 +656,7 @@ Independent Subjunctives: Deliberative, Potential, Optative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/10](#) [Link TBD]
+* [Slideshow - W 4/10](https://docs.google.com/presentation/d/1ISAB-bQ3oi355nHhZPINhQxxGSHab6gLbG5sZ4sEgpA/edit?usp=drive_link)
 * [Independent Subjunctives](../textbook/subjunctive/independent-subjunctives)
 
 #### HW due by start of next class
@@ -673,7 +673,7 @@ Dependent Subjunctives and Sequence of Tenses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/11](#) [Link TBD]
+* [Slideshow - R 4/11](https://docs.google.com/presentation/d/1kOL-z1Mfg9p7eMUxPDL9ta3LHLqUra5yXfrS-oKJbvQ/edit?usp=drive_link)
 * [Sequence of Tenses](../textbook/subjunctive/sequence-of-tenses)
 
 #### HW due by start of next class
