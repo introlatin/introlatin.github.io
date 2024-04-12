@@ -680,7 +680,6 @@ Dependent Subjunctives and Sequence of Tenses
 {: .no_toc }
 * [Homework 31](../homework/homework#homework-31-due-m-415)
 * Article Reflection 3
-* Giovanni Verri Project
 
 ***
 
@@ -701,7 +700,7 @@ Circumstantial, Causal, and Concessive Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/15](#) [Link TBD]
+* [Slideshow - M 4/15](https://docs.google.com/presentation/d/1xc0_-2_gsttA1BM_slJEYILR87bak_6JLh3AqSD56Zg/edit?usp=drive_link)
 * [Circumstantial, Causal, and Concessive Clauses](../textbook/subjunctive/circumstantial-causal-concessive)
 
 #### HW due by start of next class
@@ -717,7 +716,7 @@ Purpose Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/17](#) [Link TBD]
+* [Slideshow - W 4/17](https://docs.google.com/presentation/d/1ooXP9AZnug3qVu495xWb7SNI0begQLoBYX02C8Wu_PE/edit?usp=drive_link)
 * [Purpose Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
@@ -733,7 +732,7 @@ Result Clauses
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/18](#) [Link TBD]
+* [Slideshow - R 4/18](https://docs.google.com/presentation/d/1UQCXjHB7kEOZgsWbIgBuims7bRLRzWzXE4pmBQNPNz8/edit?usp=drive_link)
 * [Result Clauses](../textbook/subjunctive/purpose-clauses)
 
 #### HW due by start of next class
