@@ -760,7 +760,7 @@ Conditions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/22](#) [Link TBD]
+* [Slideshow - M 4/22](https://docs.google.com/presentation/d/16qzinXx13SNH7Z-NxoUVX74oH4XDDHsfD2EcZYxaMKM/edit?usp=drive_link)
 * [Conditions](../textbook/subjunctive/conditions)
 
 #### HW due by start of next class
@@ -776,7 +776,7 @@ Conditions continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/24](#) [Link TBD]
+* [Slideshow - W 4/24](https://docs.google.com/presentation/d/16qzinXx13SNH7Z-NxoUVX74oH4XDDHsfD2EcZYxaMKM/edit?usp=drive_link)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -786,16 +786,18 @@ Conditions continued
 
 ### Thursday, April 25
 {: .no_toc }
-Review
+In Conclusion
 * In class: Check-in 36
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/25](#) [Link TBD]
+* [Slideshow - R 4/25](https://docs.google.com/presentation/d/1y6dEt_31cJ8D9LyR9wJ8nRJ6FBKIa_ici_-ezZ4KFGE/edit?usp=drive_link)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](https://fairfield.campuslabs.com/eval-home/direct/0938794)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](https://forms.gle/PyvLUpBcKbbm1gETA)
 
-#### HW due by start of next class
+#### HW due by Monday 4/29 at 11am
 {: .no_toc }
-* Quiz 10
+* Quiz 10 (in box on door of Donnarumma 124)
 
 ***
 
@@ -805,13 +807,13 @@ Review
 
 ### Monday, April 29
 {: .no_toc }
-In Conclusion
+Exam 3 Workshop (during normal class time in normal classroom)
+* attendance optional
+* come with questions about Exam 3 (otherwise, you will be asked to leave)
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/29](#) [Link TBD]
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](#) [Link TBD]
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](#) [Link TBD]
+* none
 
 ***
 
@@ -820,4 +822,5 @@ In Conclusion
 ***
 
 ## Exam Period (5/2 through 5/8)
-* Exam 3 will be due at **2:30pm on M 5/6**.
+* Exam 3 will be due at **2:30pm on M 5/6** in **box on door of Donnarumma 124**.
+    * No exams will be accepted after the due date / time unless arranged with me beforehand.
