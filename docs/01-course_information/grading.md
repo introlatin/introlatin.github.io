@@ -52,7 +52,7 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 ### Daily Check-Ins
 
 * **5 points** per check-in, **thirty-six (36)** check-ins total = **180 total points**
-* There will be **thirty-six (36) daily check-ins** throughout the semester, with the first graded one in class on W 9/13 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
+* There will be **thirty-six (36) daily check-ins** throughout the semester, with the first graded one in class on W 9/11 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
 
 ### Weekly Quizzes
 
