@@ -25,8 +25,6 @@ parent: Vocabulary
 
 ## Verbs
 
-* eō, īre, iī / īvī, ītūrus - to go [(Logeion entry)](https://logeion.uchicago.edu/eo)
-* ferō, ferre, tulī, latus - to bring, bear, carry [(Logeion entry)](https://logeion.uchicago.edu/laboro)
 * laborō, laborāre, laborāvī, laborātus - to work [(Logeion entry)](https://logeion.uchicago.edu/laboro)
 
 ***

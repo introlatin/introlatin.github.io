@@ -9,7 +9,7 @@ parent: Homework
 # Homework
 {: .no_toc }
 
-These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2024 at Fairfield University. Many of these assignments will likely require consultation of the [Complete Vocabulary](../vocabulary/complete-vocabulary) or the [Paradigms](../paradigms), and you can find all answers to the homework at the [Answer Key](answer-key).
+These are the homework assignments for LATN 1111 (Basic Latin) in Fall 2024 at Fairfield University. Many of these assignments will likely require consultation of the [Complete Vocabulary](../vocabulary/complete-vocabulary) or the [Paradigms](../paradigms), and you can find all answers to the homework at the [Answer Key](answer-key).
 
 ***
 
@@ -21,21 +21,21 @@ These are the homework assignments for LATN 1111 (Basic Latin) in Spring 2024 at
 
 ***
 
-## Practice Homework 1 (Due R 1/18)
+## Practice Homework 1 (Due R 9/5)
 
 Use this website (especially the [Course Info](../course_info/course-info), [Policies](../course_info/policies), and [Grading](../course_info/grading) pages, or you can use the website's search function at the top) to answer the following questions:
 
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages). 
 2. What defines an "unexcused absence"? (See Policies.)
 3. How many semester points do you have to accumulate to earn an A for the semester? (See Grading.)
-4. True or false: you are allowed to use Google Translate to complete your assignments. (See Grading.)
+4. True or false: you are allowed to use ChatGPT to generate answers for your assignments. (See Grading.)
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).
 
-[Answer key here](answer-key#practice-homework-1-due-r-118).
+[Answer key here](answer-key#practice-homework-1-due-r-95).
 
 ***
 
-## Practice Homework 2 (Due M 1/22)
+## Practice Homework 2 (Due M 9/9)
 
 Answer the following questions: 
 
@@ -45,11 +45,11 @@ Answer the following questions:
 4. What is the term for the act of changing the endings of nouns to reflect a noun's different cases and numbers?
 5. True or false: we use word order in Latin to determine the functions of words.
 
-[Answer key here](answer-key#practice-homework-2-due-m-122).
+[Answer key here](answer-key#practice-homework-2-due-m-99).
 
 ***
 
-## Homework 1 (Due W 1/24)
+## Homework 1 (Due W 9/11)
 
 Each of the following exercises gives the first and second principal parts of a Latin verb's dictionary entry. Indicate the conjugation to which each of the following verbs belongs. For example:
 
@@ -69,11 +69,11 @@ Note: If a verb is 3rd -iō, you *must* include the "-iō" in your answer to be 
 9. videō, vidēre
 10. ambulō, ambulāre
 
-[Answer key here](answer-key#homework-1-due-w-124).
+[Answer key here](answer-key#homework-1-due-w-911).
 
 ***
 
-## Homework 2 (Due R 1/25)
+## Homework 2 (Due R 9/12)
 
 Conjugate the following verbs into the **3rd person singular** ***and*** the **3rd person plural** of the perfect tense and active voice. Then, give one sample translation for each form. For example:
 
@@ -87,11 +87,11 @@ amāvērunt - 'they have loved'
 4. interficiō, interficere, interfēcī, interfectus - to kill
 5. audiō, audīre, audīvī / audiī, audītus - to hear
 
-[Answer key here](answer-key#homework-2-due-r-125).
+[Answer key here](answer-key#homework-2-due-r-912).
 
 ***
 
-## Homework 3 (Due M 1/29)  
+## Homework 3 (Due M 9/16)  
 
 Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belongs.
 
@@ -106,11 +106,11 @@ Indicate to which declension (1st, 2nd, or 3rd) each of the following nouns belo
 9. via, viae, f. - road
 10. aurum, aurī, n. - gold
 
-[Answer key here](answer-key#homework-3-due-m-129).
+[Answer key here](answer-key#homework-3-due-m-916).
 
 ***
 
-## Homework 4 (Due W 1/31)
+## Homework 4 (Due W 9/18)
 
 ### Part 1
 {: .no_toc }
@@ -140,11 +140,11 @@ puellās
 4. arborī
 5. agricolārum
 
-[Answer key here](answer-key#homework-4-due-w-131).
+[Answer key here](answer-key#homework-4-due-w-918).
 
 ***
 
-## Homework 5 (Due R 2/1)
+## Homework 5 (Due R 9/19)
 
 Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. You can assume that each bolded noun is either **nominative** or **genitive** case. Then **translate each sentence**. For example:
 
@@ -157,11 +157,11 @@ Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 pa
 4. **arbōrēs** agricolae stetērunt.
 5. fīlius **virī** fūgit.
 
-[Answer key here](answer-key#homework-5-due-r-21).
+[Answer key here](answer-key#homework-5-due-r-919).
 
 ***
 
-## Homework 6 (Due M 2/5)
+## Homework 6 (Due M 9/23)
 
 Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 paradigms](../paradigms/week-03-paradigms) to identify the **case and use** of the bolded noun in each of the following sentences. Then **translate the sentence** (for which you will likely also need the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)).
 
@@ -171,11 +171,11 @@ Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the [Week 3 pa
 4. vir **aurum** mīsit.
 5. **puellae** equōs agricolārum dūxērunt.
 
-[Answer key here](answer-key#homework-6-due-m-25).
+[Answer key here](answer-key#homework-6-due-m-923).
 
 ***
 
-## Homework 7 (Due W 2/7)
+## Homework 7 (Due W 9/25)
 
 ### Part 1
 {: .no_toc }
@@ -213,11 +213,11 @@ You will likely need the resources linked in Part 1 above.
 4. dux aurum laetōrum nautārum cēpit.
 5. puerī pulchrum corpus aquae vīdērunt.
 
-[Answer key here](answer-key#homework-7-due-w-27).
+[Answer key here](answer-key#homework-7-due-w-925).
 
 ***
 
-## Homework 8 (Due R 2/8)
+## Homework 8 (Due R 9/26)
 
 ### Part 1
 {: .no_toc }
@@ -255,11 +255,11 @@ You will likely need the resources linked in Part 1 above.
 4. dux aurum fēlicium nautārum cēpit.
 5. puerī velox corpus aquae vīdērunt.
 
-[Answer key here](answer-key#homework-8-due-r-28).
+[Answer key here](answer-key#homework-8-due-r-926).
 
 ***
 
-## Homework 9 (Due M 2/12)
+## Homework 9 (Due M 9/30)
 
 Translate each of the following sentences into Latin.
 
@@ -269,11 +269,11 @@ Translate each of the following sentences into Latin.
 4. The girls were brave.
 5. The towns were lucky.
 
-[Answer key here](answer-key#homework-9-due-m-212).
+[Answer key here](answer-key#homework-9-due-m-930).
 
 ***
 
-## Homework 10 (Due W 2/14)
+## Homework 10 (Due W 10/2)
 
 ### Part 1
 {: .no_toc }
@@ -303,11 +303,11 @@ puer sē vīdit.
 3. vir uxōrem suam amāvit.
 4. vir uxōrem eius amāvit.
 
-[Answer key here](answer-key#homework-10-due-w-214).
+[Answer key here](answer-key#homework-10-due-w-102).
 
 ***
 
-## Homework 11 (Due R 2/15)
+## Homework 11 (Due R 10/3)
 
 ### Part 1
 {: .no_toc }
@@ -334,11 +334,11 @@ Translate each of the following sentences from English into Latin, making sure t
 4. The girl led this bull.
 5. The woman did good things, but the man did bad things. The former slept, and the latter left the town.
 
-[Answer key here](answer-key#homework-11-due-r-215).
+[Answer key here](answer-key#homework-11-due-r-103).
 
 ***
 
-## Homework 12 (Due T 2/20)
+## Homework 12 (Due M 10/7)
 
 Translate each of the following sentences using the [Week 5 Vocabulary](../vocabulary/week-05-vocabulary). Keep in mind that there will be expressions of space and expressions of time amongst the following.
 
@@ -349,11 +349,11 @@ Translate each of the following sentences using the [Week 5 Vocabulary](../vocab
 5. vir malum ducem prō templō interfēcit.
 6. vir malum ducem ultimā hōrā interfēcit.
 
-[Answer key here](answer-key#homework-12-due-t-220).
+[Answer key here](answer-key#homework-12-due-m-107).
 
 ***
 
-## Homework 13 (Due W 2/21)
+## Homework 13 (Due W 10/9)
 
 ### Part 1
 {: .no_toc }
@@ -382,11 +382,11 @@ In each of the following sentences, **identify the subject and the verb** and th
 4. dux nautārum fortis vīsus est.
 5. monstrum ultimā hōrā captum est.
 
-[Answer key here](answer-key#homework-13-due-w-221).
+[Answer key here](answer-key#homework-13-due-w-109).
 
 ***
 
-## Homework 14 (Due R 2/22)
+## Homework 14 (Due R 10/10)
 
 ### Part 1
 {: .no_toc }
@@ -422,11 +422,11 @@ amābant
 4. vidēbātur
 5. audiēbant
 
-[Answer key here](answer-key#homework-14-due-r-222).
+[Answer key here](answer-key#homework-14-due-r-1010).
 
 ***
 
-## Homework 15 (Due M 2/26)
+## Homework 15 (Due W 10/16)
 
 Each of the following prompts gives you the first principal part of an adjective followed by a declined noun. Using the [Week 6 Vocabulary](../vocabulary/week-06-vocabulary), [Complete Vocabulary](../vocabulary/complete-vocabulary), and the [Week 6 Paradigms](../paradigms/week-06-paradigms), make the adjective match the noun. If more than one possibility exists, you need only give one. For example:
 
@@ -444,11 +444,11 @@ magnus -> lacibus
 9. ille -> animālia
 10. celer -> motūs
 
-[Answer key here](answer-key#homework-15-due-m-226).
+[Answer key here](answer-key#homework-15-due-w-1016).
 
 ***
 
-## Homework 16 (Due W 2/28)
+## Homework 16 (Due R 10/17)
 
 ### Part 1
 {: .no_toc }
@@ -480,11 +480,11 @@ Translate each of the following sentences.
 4. hostēs in domūs cīvium currunt.
 5. monstrum ē marī venit.
 
-[Answer key here](answer-key#homework-16-due-w-228).
+[Answer key here](answer-key#homework-16-due-r-1017).
 
 ***
 
-## Homework 17 (Due R 2/29)
+## Homework 17 (Due M 10/21)
 
 Use the [Complete Vocabulary](../vocabulary/complete-vocabulary) and [Week 7 Paradigms](../paradigms/week-07-paradigms) to conjugate each of the following verbs, of which you're given just the first principal part, into the requested **person, number, tense, and mood**. Read carefully, as not all prompts will ask you to conjugate in the future tense.
 
@@ -501,11 +501,11 @@ Then, **give a sample translation of the form that you've created.**
 9. amō -> 3rd sg. future active
 10. amō -> 3rd sg. future passive
 
-[Answer key here](answer-key#homework-17-due-r-229).
+[Answer key here](answer-key#homework-17-due-m-1021).
 
 ***
 
-## Homework 18 (Due M 3/11)
+## Homework 18 (Due W 10/23)
 
 ### Part 1
 {: .no_toc }
@@ -538,11 +538,11 @@ amō -> 3rd sg. future active
 
 Complete a synopsis in the **3rd person singular** across all the verb tenses (present, imperfect, future, perfect) and voice (active, passive) that you know of the verb **cupiō**.
 
-[Answer key here](answer-key#homework-18-due-m-311).
+[Answer key here](answer-key#homework-18-due-w-1023).
 
 ***
 
-## Homework 19 (Due W 3/13)
+## Homework 19 (Due R 10/24)
 
 ### Part 1
 {: .no_toc }
@@ -581,11 +581,11 @@ puer potest in domum currere.
 4. licet cībum capere.
 5. fīlia dormīre tōtam noctem poterat.
 
-[Answer key here](answer-key#homework-19-due-w-313).
+[Answer key here](answer-key#homework-19-due-r-1024).
 
 ***
 
-## Homework 20 (Due R 3/14)
+## Homework 20 (Due M 10/28)
 
 ### Part 1
 {: .no_toc }
@@ -613,11 +613,11 @@ dīcit arbōrem magnam esse.
 2. dīcit carmen ā virō canī.
 3. dīcit puellās in agrōs cucurrisse.
 
-[Answer key here](answer-key#homework-20-due-r-314).
+[Answer key here](answer-key#homework-20-due-m-1028).
 
 ***
 
-## Homework 21 (Due M 3/18)
+## Homework 21 (Due W 10/30)
 
 Translate each of the following sentences into Latin. Be aware of the tenses of your main verb and your infinitive in terms of relativity of time.
 
@@ -627,11 +627,11 @@ Translate each of the following sentences into Latin. Be aware of the tenses of 
 4. The girls are learning that their father wrote many things.
 5. The soldier said that the enemies had taken the city.
 
-[Answer key here](answer-key#homework-21-due-m-318).
+[Answer key here](answer-key#homework-21-due-w-1030).
 
 ***
 
-## Homework 22 (Due W 3/20)
+## Homework 22 (Due R 10/31)
 
 Identify the **dependent clause** in each of the following sentences, and then **translate the sentence**. For example:
 
@@ -645,11 +645,11 @@ quia in domō erat, agricola equōs nōn vīdit.
 4. pater laetus erat quia fīlium cum sorōre vīdit.
 5. dum puer cum matre carmina canēbat, puella cum patre in templum veniēbat.
 
-[Answer key here](answer-key#homework-22-due-w-320).
+[Answer key here](answer-key#homework-22-due-r-1031).
 
 ***
 
-## Homework 23 (Due R 3/21)
+## Homework 23 (Due M 11/4)
 
 For each of the following sentences, fill in the blank with an appropriate form of the **relative pronoun**, based on an antecedent that immediately precedes the blank and the clue following the sentence, and then **translate the whole sentence**. For example:
 
@@ -663,11 +663,11 @@ puer ___________ carmina cecinit in domō erat. [Make the relative pronoun a *su
 4. pater dīxit nōmina ______ puella cognōvit. [Make the relative pronoun a *direct object*.]
 5. rex _______ cīvēs aurum dant malus est. [Make the relativfe pronoun an *indirect object*.]
 
-[Answer key here](answer-key#homework-23-due-r-321).
+[Answer key here](answer-key#homework-23-due-m-114).
 
 ***
 
-## Homework 24 (Due M 3/25)
+## Homework 24 (Due W 11/6)
 
 Identify the **person, number, tense, and voice** of each of the following irregular verbs and **give a sample translation**.
 
@@ -687,11 +687,11 @@ Identify the **person, number, tense, and voice** of each of the following irreg
 14. ībit
 15. ībat
 
-[Answer key here](answer-key#homework-24-due-m-325).
+[Answer key here](answer-key#homework-24-due-w-116).
 
 ***
 
-## Homework 25 (Due W 3/27)
+## Homework 25 (Due R 11/7)
 
 Each of the following sentences contains a blank. Fill it in with an appropriate form of the requested verb in the requested tense, and then translate the whole sentence. For example:
 
@@ -704,11 +704,11 @@ puer _________ matrem vidēre. [volō -> present]
 4. puella _________ urbem relinquere. [nōlō -> present]
 5. sorōrēs _________ dōna frātribus dare. [mālō -> future]
 
-[Answer key here](answer-key#homework-25-due-w-327).
+[Answer key here](answer-key#homework-25-due-r-117).
 
 ***
 
-## Homework 26 (Due W 4/3)
+## Homework 26 (Due M 11/11)
 
 Conjugate the verb into the given PNTVM and give a sample translation of the form that you just created. For example:
 
@@ -721,11 +721,11 @@ amō - 3rd sg. future perfect active indicative
 4. audiō - 3rd sg. future perfect active indicative
 5. demonstrō - 3rd sg. pluperfect passive indicative (neuter)
 
-[Answer key here](answer-key#homework-26-due-w-43).
+[Answer key here](answer-key#homework-26-due-m-1111).
 
 ***
 
-## Homework 27 (Due R 4/4)
+## Homework 27 (Due W 11/13)
 
 Translate the following sentences.
 
@@ -735,11 +735,11 @@ Translate the following sentences.
 4. fac bona!
 5. dūc equōs in agrōs.
 
-[Answer key here](answer-key#homework-27-due-r-44).
+[Answer key here](answer-key#homework-27-due-w-1113).
 
 ***
 
-## Homework 28 (Due M 4/8)
+## Homework 28 (Due R 11/14)
 
 Generate the requested form of the given verb. Read each parse carefully, especially the **mood**.
 
@@ -764,11 +764,11 @@ Generate the requested form of the given verb. Read each parse carefully, especi
 19. sum -> 3rd pl. present active subjunctive
 20. sum -> 3rd pl. present active indicative
 
-[Answer key here](answer-key#homework-28-due-m-48).
+[Answer key here](answer-key#homework-28-due-r-1114).
 
 ***
 
-## Homework 29 (Due W 4/10)
+## Homework 29 (Due M 11/18)
 
 Generate the requested form of the given verb. Read each parse carefully, especially the **mood**.
 
@@ -788,11 +788,11 @@ Generate the requested form of the given verb. Read each parse carefully, especi
 14. ferō -> 3rd sg. pluperfect active subjunctive
 15. ferō -> 3rd sg. pluperfect active indicative
 
-[Answer key here](answer-key#homework-29-due-w-410).
+[Answer key here](answer-key#homework-29-due-m-1118).
 
 ***
 
-## Homework 30 (Due R 4/11)
+## Homework 30 (Due W 11/20)
 
 Each of the following sentences contains an independent use of the subjunctive. **Identify whether the sentence contains a deliberative, potential, or optative subjunctive, and then translate the sentence.**
 
@@ -802,11 +802,11 @@ Each of the following sentences contains an independent use of the subjunctive. 
 4. utinam periculum vīdisset.
 5. magister hanc epistulam scrībat?
 
-[Answer key here](answer-key#homework-30-due-r-411).
+[Answer key here](answer-key#homework-30-due-w-1120).
 
 ***
 
-## Homework 31 (Due M 4/15)
+## Homework 31 (Due R 11/21)
 
 Each of the following sentences contains a blank for the dependent verb, followed by the first principal part of a verb and relationship between the dependent verb and main verb (e.g., "in progress/incomplete" or "completed"). Use the sequence of tenses and the context of the full sentence to conjugate the verb into the subjunctive mood in an appropriate person, number, tense, and voice, and then translate the whole sentence. For example:
 
@@ -819,11 +819,11 @@ puella laeta est quia mater epistulam ________. (scrībō, completed)
 4. cum ex agrīs ____________, agricola dormit. (veniō, completed)
 5. quia mīles haec verba ____________, puer territus est. (dīcō, completed)
 
-[Answer key here](answer-key#homework-31-due-m-415).
+[Answer key here](answer-key#homework-31-due-w-1121).
 
 ***
 
-## Homework 32 (Due W 4/17)
+## Homework 32 (Due M 11/25)
 
 Each of the following sentences is followed by a specific type of dependent clause (relative, temporal, circumstantial, causal, or concessive). Translate the sentence according to the dependent clause type.
 
@@ -833,11 +833,11 @@ Each of the following sentences is followed by a specific type of dependent clau
 4. cīves oppidum rēliquērunt quod hostēs cēperant. (relative)
 5. cīves oppidum rēliquērunt quod hostēs id cēpissent. (causal)
 
-[Answer key here](answer-key#homework-32-due-w-417).
+[Answer key here](answer-key#homework-32-due-m-1125).
 
 ***
 
-## Homework 33 (Due R 4/18)
+## Homework 33 (Due M 12/2)
 
 Render the following English sentences into Latin.
 
@@ -846,11 +846,11 @@ Render the following English sentences into Latin.
 3. The leader does not see the gold because the sailor placed it in the temple.
 4. The daughter was happy after she (had) received her father's letter.
 
-[Answer key here](answer-key#homework-33-due-r-418).
+[Answer key here](answer-key#homework-33-due-m-122).
 
 ***
 
-## Homework 34 (Due M 4/22)
+## Homework 34 (Due W 12/4)
 
 Determine whether each of the following sentences contains a **purpose clause** or a **result clause** -- then, translate the sentence.
 
@@ -860,11 +860,11 @@ Determine whether each of the following sentences contains a **purpose clause** 
 4. magister docet ut discipulī discant.
 5. magister sīc docet ut discipulī discant.
 
-[Answer key here](answer-key#homework-34-due-m-422).
+[Answer key here](answer-key#homework-34-due-w-124).
 
 ***
 
-## Homework 35 (Due W 4/24)
+## Homework 35 (Due R 12/5)
 
 Identify which type of indicative condition each sentence contains, and then render each indicative condition into Latin.
 
@@ -872,11 +872,11 @@ Identify which type of indicative condition each sentence contains, and then ren
 2. The sailor will go into the temple if the road is short.
 3. The father is happy if his son has a wife.
 
-[Answer key here](answer-key#homework-35-due-w-424).
+[Answer key here](answer-key#homework-35-due-r-125).
 
 ***
 
-## Homework 36 (Due R 4/25)
+## Homework 36 (Due M 12/9)
 
 Identify which type of subjunctive condition each sentence contains, and then render each subjunctive condition into Latin.
 
@@ -884,4 +884,4 @@ Identify which type of subjunctive condition each sentence contains, and then re
 2. If the man should sing that song, the daughter would run away from the house.
 3. If the man were singing that song, the daughter would run away from the house.
 
-[Answer key here](answer-key#homework-36-due-r-425).
+[Answer key here](answer-key#homework-36-due-m-129).

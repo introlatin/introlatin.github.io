@@ -52,7 +52,7 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 ### Daily Check-Ins
 
 * **5 points** per check-in, **thirty-six (36)** check-ins total = **180 total points**
-* There will be **thirty-six (36) daily check-ins** throughout the semester, with the first graded one in class on W 9/13 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
+* There will be **thirty-six (36) daily check-ins** throughout the semester, with the first graded one in class on W 9/11 to give you time to acclimate to the course. Each check-in will be administered in class, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic.
 
 ### Weekly Quizzes
 
@@ -68,3 +68,13 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 
 * **10 points** per response,**four (4)** responses total = **40 total points**
 * Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. These responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a coin analysis project using Fairfield Classical Studies’ ancient coins collection. More details to come!
+
+### Assignment Submissions and Late Policies
+
+**Homework** assignments and **written responses** will be available to submit via Blackboard, with clearly marked due dates and times. If you miss a homework or written response deadline but want to submit the assignment, you must email me within 24 hours of the missed deadlines; otherwise, you will not be allowed to submit the assignment.
+
+**Check-ins** will be administered in person at the beginning of every class. If you miss a check-in and would like to make it up, you must email me within 24 hours of your absence and request a link to the check-in; otherwise, you will not be allowed to make it up.
+
+**Quizzes** and **exams** will be distributed in person at the end of the appropriate Thursday class and due at the beginning of the following Monday’s class.  
+* If you miss a quiz or exam *distribution* day and would like to complete it, you must email me within 24 hours of your absence and request a link to the quiz or exam; otherwise, you will not be allowed to submit it. 
+* Similarly, if you miss a quiz or exam *submission* day, you must email me within 24 hours of your absence to be allowed to submit it via email or in person at the next class; otherwise, you will not be allowed to submit your quiz or exam.

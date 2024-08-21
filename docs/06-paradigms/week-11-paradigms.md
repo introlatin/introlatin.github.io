@@ -87,3 +87,25 @@ parent: Paradigms
 | 1st pl. | amārēmus | amārēmur |
 | 2nd pl. | amārētis | amārēminī |
 | 3rd pl. | amārent | amārentur |
+
+### Perfect Subjunctive
+
+| | Active | Passive |
+| --- | --- | --- |
+| 1st sg. | amāv**erim** | amatus, -a, -um sim |
+| 2nd sg. | amāv**erīs** | amatus, -a, -um sīs |
+| 3rd sg. | amāv**erit** | amatus, -a, -um sit |
+| 1st pl. | amāv**erīmus** | amātī, -ae, -a sīmus |
+| 2nd pl. | amāv**erītis** | amātī, -ae, -a sītis |
+| 3rd pl. | amāv**erint** | amātī, -ae, -a sint |
+
+### Pluperfect Subjunctive
+
+| | Active | Passive |
+| --- | --- | --- |
+| 1st sg. | amāv**issem** | amatus, -a, -um essem |
+| 2nd sg. | amāv**issēs** | amatus, -a, -um essēs |
+| 3rd sg. | amāv**isset** | amatus, -a, -um esset |
+| 1st pl. | amāv**issēmus** | amātī, -ae, -a essēmus |
+| 2nd pl. | amāv**issētis** | amātī, -ae, -a essētis |
+| 3rd pl. | amāv**issent** | amātī, -ae, -a essent |
