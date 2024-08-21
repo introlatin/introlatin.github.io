@@ -8,6 +8,19 @@ parent: Vocabulary
 
 # Week 14 Vocabulary
 
+## Adverbs
+
+* tamen - nevertheless, still [(Logeion entry)](https://logeion.uchicago.edu/tamen)
+* tam - so, such a (+ adjective) [(Logeion entry)](https://logeion.uchicago.edu/tam)
+* ita - so, such a (+ adjective) [(Logeion entry)](https://logeion.uchicago.edu/ita)
+* sīc - thus, in such a way [(Logeion entry)](https://logeion.uchicago.edu/sic)
+* adeō - to such an extent [(Logeion entry)](https://logeion.uchicago.edu/adeo)
+
+## Adjectives
+
+* talis, tale - such [(Logeion entry)](https://logeion.uchicago.edu/talis)
+* tantus, tanta, tantum - so much, such great [(Logeion entry)](https://logeion.uchicago.edu/tantus)
+
 ## Conjunctions
 
 * sī - if [(Logeion entry)](https://logeion.uchicago.edu/si)

@@ -68,3 +68,13 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 
 * **10 points** per response,**four (4)** responses total = **40 total points**
 * Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. These responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a coin analysis project using Fairfield Classical Studies’ ancient coins collection. More details to come!
+
+### Assignment Submissions and Late Policies
+
+**Homework** assignments and **written responses** will be available to submit via Blackboard, with clearly marked due dates and times. If you miss a homework or written response deadline but want to submit the assignment, you must email me within 24 hours of the missed deadlines; otherwise, you will not be allowed to submit the assignment.
+
+**Check-ins** will be administered in person at the beginning of every class. If you miss a check-in and would like to make it up, you must email me within 24 hours of your absence and request a link to the check-in; otherwise, you will not be allowed to make it up.
+
+**Quizzes** and **exams** will be distributed in person at the end of the appropriate Thursday class and due at the beginning of the following Monday’s class.  
+* If you miss a quiz or exam *distribution* day and would like to complete it, you must email me within 24 hours of your absence and request a link to the quiz or exam; otherwise, you will not be allowed to submit it. 
+* Similarly, if you miss a quiz or exam *submission* day, you must email me within 24 hours of your absence to be allowed to submit it via email or in person at the next class; otherwise, you will not be allowed to submit your quiz or exam.
