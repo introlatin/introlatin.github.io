@@ -69,7 +69,9 @@ Grades ending in .45 or greater will be rounded up to the nearest whole number; 
 * **10 points** per response,**four (4)** responses total = **40 total points**
 * Throughout the semester, there will be projects that you can complete and events that you can attend that are aimed at getting you to engage with the material of the course (ancient Latin language and Roman culture) in outside-of-the-box ways. Writing a response to each event or project will earn you semester points. These responses include three reflections on articles/videos about grammatical gender, verbal voice, and the subjunctive mood and a coin analysis project using Fairfield Classical Studies’ ancient coins collection. More details to come!
 
-### Assignment Submissions and Late Policies
+***
+
+## Assignment Submissions and Late Policies
 
 **Homework** assignments and **written responses** will be available to submit via Blackboard, with clearly marked due dates and times. If you miss a homework or written response deadline but want to submit the assignment, you must email me within 24 hours of the missed deadlines; otherwise, you will not be allowed to submit the assignment.
 
