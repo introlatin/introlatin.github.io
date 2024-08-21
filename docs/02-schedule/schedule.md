@@ -17,42 +17,42 @@ parent: Schedule and Slideshows
 
 ***
 
-## Week 1 (1/17 - 1/18)
+## Week 1 (9/4 - 9/5)
 
-### Wednesday, January 17
+### Wednesday, September 4
 {: .no_toc }
 Syllabus Day  
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/17](https://docs.google.com/presentation/d/1cIhy82mAHrwxUZiXSAvvVRtee8U2CLdqoNeKsHiucGU/edit?usp=sharing)
+* [Slideshow - W 9/4](https://docs.google.com/presentation/d/1030LAnn8jNdGR_Tb7U4EmEOSbp44qwr4fe4VgCdnkXs/edit?usp=drive_link)
 
 #### HW due by start of next class
 {: .no_toc }
-* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1-0SUoB4Wq8TVicnzmuP9Adv3oChUa0mm_rwVe6U-2QI/edit?usp=sharing) version).
-* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
-* (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
+* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1YvH7cW6pqdovToqXV6y-GljWOTeEAo5QDiooJZAunZI/edit?usp=sharing) version).
+* Complete the [Student Information Form](https://forms.gle/M6iwD9YRMGg2dCLu6).
+* (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-95) (submit on Blackboard).
 
 ***
 
-### Thursday, January 18
+### Thursday, September 5
 {: .no_toc }
 Grammar Basics and Inflection (Conjugation and Declension)
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/18](https://docs.google.com/presentation/d/1T-nJympLkIt1WjZOUS09W2Dl4NceXoyIGhJnCumPljc/edit?usp=sharing)
+* [Slideshow - R 9/5](https://docs.google.com/presentation/d/1ysT_doN6Vz11nQZf5J-eUeAuAmGU8VPlqss7ANMKr-I/edit?usp=drive_link)
 * [Alphabet and Pronunciation](../textbook/basics/alphabet-and-pronunciation)
 * [Inflection](../textbook/basics/inflection)
 
 #### HW due by start of next class
 {: .no_toc }
-* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link) if you haven't yet.
-* (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
+* Complete the [Student Information Form](https://forms.gle/M6iwD9YRMGg2dCLu6) if you haven't yet.
+* (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-99) (submit on Blackboard).
 
 ***
 
-## Week 2 (1/22 - 1/25)
+## Week 2 (9/9 - 9/12)
 
 ### Week 2 Resources
 {: .no_toc }
@@ -62,55 +62,55 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 ***
 
-### Monday, January 22
+### Monday, September 9
 {: .no_toc }
 Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 1/22](https://docs.google.com/presentation/d/1il19_MZvQMXcasqStHkFHpFjjwCEpm6n8CbK-eNBblg/edit?usp=sharing)
+* [Slideshow - M 9/9](https://docs.google.com/presentation/d/1GpnEd5spod7vomJ57MD9YCDe1YaK_CpKBk1S4b21kus/edit?usp=drive_link)
 * [Verbs Overview](../textbook/substantives/verbs-overview)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 1](../homework/homework#homework-1-due-w-124) (submit on Blackboard)
+* [Homework 1](../homework/homework#homework-1-due-w-911) (submit on Blackboard)
 
 ***
 
-### Wednesday, January 24
+### Wednesday, September 11
 {: .no_toc }
 Perfect Active
 * In class: Check-in 1
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/24](https://docs.google.com/presentation/d/1GyoiOmEH7fbW1wGvPcEVziCSo41KE-7ITq2AIt_znSI/edit?usp=drive_link)
+* [Slideshow - W 9/11](https://docs.google.com/presentation/d/18Ih58qDtQHzlz686yg4e0620OIYoyAEIomc2tMYDOdw/edit?usp=drive_link)
 * [Perfect Active](../textbook/substantives/perfect-active)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 2](../homework/homework#homework-2-due-r-125) (on Blackboard)
+* [Homework 2](../homework/homework#homework-2-due-r-912) (on Blackboard)
 
 ***
 
-### Thursday, January 25
+### Thursday, September 12
 {: .no_toc }
 Noun Overview
 * In class: Check-in 2
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/25](https://docs.google.com/presentation/d/1j8xP8NFO9wSsVGINozAJiCgEL0cQrQiwI2XAyyyA-Dc/edit?usp=drive_link)
+* [Slideshow - R 9/12](https://docs.google.com/presentation/d/1qtLjVLBoUjBkoJfjoSb13MJOF5QLSuedqfTn4skKyEA/edit?usp=drive_link)
 * [Noun Overview](../textbook/substantives/nouns-overview)
 
 #### HW due by start of next class
 {: .no_toc }
-* [Homework 3](../homework/homework#homework-3-due-m-129) (on Blackboard)
+* [Homework 3](../homework/homework#homework-3-due-m-916) (on Blackboard)
 * Quiz 1 (distributed in class)
 
 ***
 
-## Week 3 (1/29 - 2/1)
+## Week 3 (9/16 - 9/19)
 
 ### Week 3 Resources
 {: .no_toc }
