@@ -32,7 +32,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 3. How many semester points do you have to accumulate to earn an A for the semester? (See Grading.)  
 **950.**
 
-4. True or false: you are allowed to use ChatGPT to generate answers for your assignments. (See Grading.)  
+4. True or false: you are allowed to use ChatGPT to generate answers for your assignments. (See Policies and Grading.)  
 **False!** (I'm looking to see you working through the process of figuring out how a Latin sentence works; not only does using ChatGPT mean that you're not fulfilling that course objective, but also ChatGPT is often wrong in terms of vocabulary and syntax!)
 
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).  

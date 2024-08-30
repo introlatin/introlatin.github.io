@@ -28,7 +28,7 @@ Use this website (especially the [Course Info](../course_info/course-info), [Pol
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages). 
 2. What defines an "unexcused absence"? (See Policies.)
 3. How many semester points do you have to accumulate to earn an A for the semester? (See Grading.)
-4. True or false: you are allowed to use ChatGPT to generate answers for your assignments. (See Grading.)
+4. True or false: you are allowed to use ChatGPT to generate answers for your assignments. (See Policies and Grading.)
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).
 
 [Answer key here](answer-key#practice-homework-1-due-r-95).
