@@ -5,7 +5,7 @@ permalink: /
 nav_order: 0
 ---
 
-# LATN 1111 - Spring 2024
+# LATN 1111 - Fall 2024
 
 ***
 
