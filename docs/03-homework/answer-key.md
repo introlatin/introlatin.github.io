@@ -24,7 +24,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ## Practice Homework 1 (Due R 9/5)
 
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages).  
-**Tuesday 9-11am via Zoom (and you need to sign up beforehand using the link on Blackboard); Wednesday 11am-12pm in person (in Donnarumma 124) or by appointment.**
+**Wednesdays 11am-12:45pm in person (in Donnarumma 124) or by appointment.**
 
 2. What defines an "unexcused absence"? (See Policies.)  
 **An absence from class after which you have not communicated with me (Prof. Libatique) about it up to 24 hours after the absence, except in cases of emergency**
