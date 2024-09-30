@@ -94,7 +94,7 @@ parent: Paradigms
 
 | | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
-| Nom. Sg. | fort**ēs** | fort**e** |
+| Nom. Sg. | fort**is** | fort**e** |
 | Gen. Sg. | fort**is** | fort**is** |
 | Dat. Sg. | fort**ī** | fort**ī** |
 | Acc. Sg. | fort**em** | fort**e** |
