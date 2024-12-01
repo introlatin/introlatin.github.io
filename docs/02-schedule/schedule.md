@@ -796,8 +796,8 @@ In Conclusion
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 12/9](https://docs.google.com/presentation/d/1JgrY5IrxvPiHNbfaj-znVDwjwB0wvjDjaao1VeJo_qc/edit?usp=drive_link)
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](#)
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](#)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](https://fairfield.campuslabs.com/eval-home/direct/6865325)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](https://forms.gle/rbuewT6Ea9ffn8kq9)
 
 ***
 
