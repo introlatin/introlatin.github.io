@@ -26,7 +26,7 @@ grand_parent: Textbook
 
 The dependent clause in this sentence, "when the sun set", begins with a subordinating conjunction, "when", and has its own internal logic: a conjugated verb "set" with the subject "the sun." However, if the full sentence consisted simply of:
 
-* **When the sun sets.**
+* **When the sun set.**
 
 we would be left wondering, what happened when the sun set? The idea is incomplete, and we need the context of the **main clause**, "we ate dinner", to form a full sentence. The dependent clause answers a question posed by the main clause or some element of the main clause, like "when did it happen?" or "which noun are we talking about?"
 

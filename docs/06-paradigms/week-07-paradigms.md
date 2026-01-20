@@ -35,7 +35,7 @@ parent: Paradigms
 |      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | amor | moneor | regor | cupior | audior |
-| 2nd sg. | amāris | monēris | regiris | cuperis | audīris |
+| 2nd sg. | amāris | monēris | regeris | cuperis | audīris |
 | 3rd sg. | **amātur** | **monētur** | **regitur** | **cupitur** | **audītur** |
 | 1st pl. | amāmur | monēmur | regimur | cupimur | audīmur |
 | 2nd pl. | amāminī| monēminī| regiminī| cupiminī| audīminī|
