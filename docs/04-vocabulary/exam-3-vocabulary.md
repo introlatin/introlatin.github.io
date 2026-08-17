@@ -7,70 +7,86 @@ parent: Vocabulary
 ---
 
 # Exam 3 Vocabulary
+{: .no_toc }
 
-## Adjectives
+## Table of contents
+{: .no_toc .text-delta }
 
-### 2-1-2 Adjectives
-
-* bonus, bona, bonum - good [(Logeion entry)](https://logeion.uchicago.edu/bonus)
-* calidus, calida, calidum - warm, hot [(Logeion entry)](https://logeion.uchicago.edu/calidus)
-* frigidus, frigida, frigidum - cold, cool [(Logeion entry)](https://logeion.uchicago.edu/frigidus)
-* laetus, laeta, laetum - happy [(Logeion entry)](https://logeion.uchicago.edu/laetus)
-* magnus, magna, magnum - great, large, big [(Logeion entry)](https://logeion.uchicago.edu/magnus)
-* malus, mala, malum - bad, evil [(Logeion entry)](https://logeion.uchicago.edu/malus)
-* multus, multa, multum - (singular) much; (plural) many [(Logeion entry)](https://logeion.uchicago.edu/multus)
-* parvus, parva, parvum - small [(Logeion entry)](https://logeion.uchicago.edu/parvus)
-* prīmus, prīma, prīmum - first [(Logeion entry)](https://logeion.uchicago.edu/primus)
-* pulcher, pulchra, pulchrum - beautiful, handsome, pretty [(Logeion entry)](https://logeion.uchicago.edu/pulcher)
-* ultimus, ultima, ultimum - last, final [(Logeion entry)](https://logeion.uchicago.edu/ultimus)
-
-### 2-1-2 -īus Adjectives
-
-* alius, alia, aliud - another, other; *alius ... alius* = "one ... the other"; *aliī ... aliī* = "some ... the others" [(Logeion entry)](https://logeion.uchicago.edu/alius)
-* alter, altera, alterum - the other [of two], one [of two], the other [of two] [(Logeion entry)](https://logeion.uchicago.edu/alter)
-* neuter, neutra, neutrum - neither [of two] [(Logeion entry)](https://logeion.uchicago.edu/neuter)
-* nullus, nulla, nullum - no, none [(Logeion entry)](https://logeion.uchicago.edu/nullus)
-* sōlus, sōla, sōlum - alone, only, single, sole [(Logeion entry)](https://logeion.uchicago.edu/solus)
-* tōtus, tōta, tōtum - whole, entire [(Logeion entry)](https://logeion.uchicago.edu/totus)
-* ullus, ulla, ullum - any [(Logeion entry)](https://logeion.uchicago.edu/ullus)
-* ūnus, ūna, ūnum - one [(Logeion entry)](https://logeion.uchicago.edu/unus)
-* uter, utra, utrum - either [of two], whichever [of two] [(Logeion entry)](https://logeion.uchicago.edu/uter)
-
-### 3rd declension, 3-termination
-
-* ācer, ācris, ācre - sharp, keen, fierce [(Logeion entry)](https://logeion.uchicago.edu/acer)
-* celer, celeris, celere - swift, fast, quick [(Logeion entry)](https://logeion.uchicago.edu/celer)
-
-### 3rd declension, 2-termination
-
-* fortis, forte - brave, strong [(Logeion entry)](https://logeion.uchicago.edu/fortis)
-* gravis, grave - heavy, serious [(Logeion entry)](https://logeion.uchicago.edu/gravis)
-* omnis, omne - (singular) each, every; (plural) all [(Logeion entry)](https://logeion.uchicago.edu/omnis)
-* similis, simile - similar [(Logeion entry)](https://logeion.uchicago.edu/similis)
-* tristis, triste - sad [(Logeion entry)](https://logeion.uchicago.edu/tristis)
-
-### 3rd declension, 1-termination
-
-* fēlix, fēlicis - lucky, fortunate [(Logeion entry)](https://logeion.uchicago.edu/felix)
-* sapiens, sapientis - wise [(Logeion entry)](https://logeion.uchicago.edu/sapiens)
-* velox, velōcis - swift, fast, quick [(Logeion entry)](https://logeion.uchicago.edu/velox)
-
-***
-
-## Verbs
-
-* sum, esse, fuī, futūrus - to be [(Logeion entry)](https://logeion.uchicago.edu/sum)
+1. TOC
+{:toc}
 
 ***
 
 ## Nouns
 
-* bellum, bellī, n. - war [(Logeion entry)](https://logeion.uchicago.edu/bellum)
+### Third Declension i-stems
 
-* dōnum, dōnī, n. - gift [(Logeion entry)](https://logeion.uchicago.edu/donum)
+#### Parisyllabics
+
+* cīvis, cīvis, m./f. - citizen [(Logeion entry)](https://logeion.uchicago.edu/civis)
+* hostis, hostis, m. - enemy [(Logeion entry)](https://logeion.uchicago.edu/hostis)
+* ignis, ignis, m. - fire [(Logeion entry)](https://logeion.uchicago.edu/ignis)
+* mensis, mensis, m. - month [(Logeion entry)](https://logeion.uchicago.edu/mensis)
+* nāvis, nāvis, f. - ship [(Logeion entry)](https://logeion.uchicago.edu/navis)
+
+#### Monosyllabic Nominative + Double Consonant in Stem
+
+* ars, artis, f. - skill [(Logeion entry)](https://logeion.uchicago.edu/ars)
+* dens, dentis, m. - tooth [(Logeion entry)](https://logeion.uchicago.edu/dens)
+* nox, noctis, f. - night [(Logeion entry)](https://logeion.uchicago.edu/nox)
+* pons, pontis, m. - bridge [(Logeion entry)](https://logeion.uchicago.edu/pons)
+* urbs, urbis, f. - city [(Logeion entry)](https://logeion.uchicago.edu/urbs)
+
+#### Neuter in -al, -ar, or -e
+
+* animāl, animālis, n. - animal [(Logeion entry)](https://logeion.uchicago.edu/animal)
+* exemplar, exemplāris, n. - example [(Logeion entry)](https://logeion.uchicago.edu/exemplar)
+* mare, maris, n. - sea [(Logeion entry)](https://logeion.uchicago.edu/mare)
+
+### 4th Declension Nouns
+
+* domus, domūs, f. - house, home [also uses 2nd decl. endings -- see [paradigm](../paradigms/week-06-paradigms#domus)]  [(Logeion entry)](https://logeion.uchicago.edu/domus)
+* genū, genūs, n. - knee [(Logeion entry)](https://logeion.uchicago.edu/genu)
+* lacus, lacūs, m. - lake [(Logeion entry)](https://logeion.uchicago.edu/lacus)
+* manus, manūs, f. - hand; armed force (of soldiers) [(Logeion entry)](https://logeion.uchicago.edu/manus)
+* motus, motūs, m. - movement, motion [(Logeion entry)](https://logeion.uchicago.edu/motus)
+
+### 5th Declension Nouns
+
+* aciēs, aciēī, m. - battle line [(Logeion entry)](https://logeion.uchicago.edu/acies)
+* diēs, diēī, m. - day [(Logeion entry)](https://logeion.uchicago.edu/dies)
+* faciēs, faciēī, f. - shape, form figure, face [(Logeion entry)](https://logeion.uchicago.edu/facies)
+* fidēs, fideī, f. - trust, faith [(Logeion entry)](https://logeion.uchicago.edu/fides)
+* res, reī, f. - thing, matter, situation, affair [(Logeion entry)](https://logeion.uchicago.edu/res)
+* spēs, speī, f. - hope, expectation [(Logeion entry)](https://logeion.uchicago.edu/spes)
 
 ***
 
-## Adverbs
+## Verbs
 
-* nōn - not [(Logeion entry)](https://logeion.uchicago.edu/non)
+### Head Verbs (introducing indirect statements)
+
+* cognoscō, cognoscere, cognōvī, cognitus - to perceive, recognize, see, understand, know [(Logeion entry)](https://logeion.uchicago.edu/cognosco) 
+* credō, credere, credidī, creditus - to believe (+ dative object, or + indirect statement) [(Logeion entry)](https://logeion.uchicago.edu/credo)
+* dīcō, dīcere, dixī, dictus - to say, speak, tell [(Logeion entry)](https://logeion.uchicago.edu/dico)
+* discō, discere, didicī, disciturus - to learn [(Logeion entry)](https://logeion.uchicago.edu/disco)
+
+***
+
+## Pronouns
+
+### Relative Pronoun
+
+* quī, quae, quod - who(m), which, that [(Logeion entry)](https://logeion.uchicago.edu/qui)
+
+***
+
+## Conjunctions
+
+### Subordinating Conjunctions
+
+* quamquam - although, (even) though [(Logeion entry)](https://logeion.uchicago.edu/quamquam)
+* quod/quia/quoniam - because [(Logeion entry)](https://logeion.uchicago.edu/quia)
+* ubi - where, when [(Logeion entry)](https://logeion.uchicago.edu/ubi)
+* dum - while, as long as [(Logeion entry)](https://logeion.uchicago.edu/dum)
+* cum - (as subordinating conjunction) when, after; (as preposition + ablative) with [(Logeion entry)](https://logeion.uchicago.edu/cum)
