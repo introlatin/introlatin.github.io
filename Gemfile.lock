@@ -18,6 +18,9 @@ GEM
     google-protobuf (4.33.2)
       bigdecimal
       rake (>= 13)
+    google-protobuf (4.33.2-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
@@ -89,7 +92,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4.1)
-  just-the-docs (= 0.11.1)
+  just-the-docs
   logger
 
 BUNDLED WITH

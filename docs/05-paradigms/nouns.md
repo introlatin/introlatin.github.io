@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Nouns
 permalink: /paradigms/nouns
 nav_order: 1

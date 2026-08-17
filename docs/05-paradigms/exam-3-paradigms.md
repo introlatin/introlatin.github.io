@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Week 4 Paradigms
-permalink: /paradigms/week-04-paradigms
+layout: default
+title: Exam 3 Paradigms
+permalink: /paradigms/exam-3-paradigms
 nav_order: 7
 parent: Paradigms
 ---
 
-# Week 4 Paradigms
+# Exam 3 Paradigms
 {: .no_toc }
 
 ## Table of contents
@@ -17,106 +17,192 @@ parent: Paradigms
 
 ***
 
-## Adjectives
+## Verbs
 
-### 2-1-2 Adjectives
+### Present Tense - Active Voice
 
-#### -us, -a, -um
-* Paradigm adjective: prīmus, prīma, prīmum - first
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amō | moneō | regō | cupiō | audiō |
+| 2nd sg. | amās | monēs | regis | cupis | audīs |
+| 3rd sg. | **amat** | **monet** | **regit** | **cupit** | **audit** |
+| 1st pl. | amāmus | monēmus | regimus | cupimus | audīmus |
+| 2nd pl. | amātis | monētis | regitis | cupitis | audītis |
+| 3rd pl. | **amant** | **monent** | **regunt** | **cupiunt** | **audiunt** |
 
-| Case and Number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| Nom. Sg. | prīm**us** | prīm**a** | prīm**um** |
-| Gen. Sg. | prīm**ī** | prīm**ae** | prīm**ī** |
-| Dat. Sg. | prīm**ō** | prīm**ae** | prīm**ō** |
-| Acc. Sg. | prīm**um** | prīm**am** | prīm**um** |
-| Abl. Sg. | prīm**ō** | prīm**ā** | prīm**ō** |
-| Nom. Pl. | prīm**ī** | prīm**ae** | prīm**a** |
-| Gen. Pl. | prīm**ōrum** | prīm**ārum** | prīm**ōrum** |
-| Dat. Pl. | prīm**īs** | prīm**īs** | prīm**īs** |
-| Acc. Pl. | prīm**ōs** | prīm**ās** | prīm**a** |
-| Abl. Pl. | prīm**īs** | prīm**īs** | prīm**īs** |
+### Present Tense - Passive Voice
 
-#### -r, -a, -um
-* Paradigm adjective: pulcher, pulchra, pulchrum - beautiful, handsome, pretty
+|      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amor | moneor | regor | cupior | audior |
+| 2nd sg. | amāris | monēris | regeris | cuperis | audīris |
+| 3rd sg. | **amātur** | **monētur** | **regitur** | **cupitur** | **audītur** |
+| 1st pl. | amāmur | monēmur | regimur | cupimur | audīmur |
+| 2nd pl. | amāminī| monēminī| regiminī| cupiminī| audīminī|
+| 3rd pl. | **amantur** | **monentur** | **reguntur** | **cupiuntur** | **audiuntur** |
 
-| Case and Number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| Nom. Sg. | pulcher | pulchr**a** | pulchr**um** |
-| Gen. Sg. | pulchr**ī** | pulchr**ae** | pulchr**ī** |
-| Dat. Sg. | pulchr**ō** | pulchr**ae** | pulchr**ō** |
-| Acc. Sg. | pulchr**um** | pulchr**am** | pulchr**um** |
-| Abl. Sg. | pulchr**ō** | pulchr**ā** | pulchr**ō** |
-| Nom. Pl. | pulchr**ī** | pulchr**ae** | pulchr**a** |
-| Gen. Pl. | pulchr**ōrum** | pulchr**ārum** | pulchr**ōrum** |
-| Dat. Pl. | pulchr**īs** | pulchr**īs** | pulchr**īs** |
-| Acc. Pl. | pulchr**ōs** | pulchr**ās** | pulchr**a** |
-| Abl. Pl. | pulchr**īs** | pulchr**īs** | pulchr**īs** |
+### Future Tense - Active Voice
 
-#### -īus Adjectives
-* Paradigm adjective: sōlus, sōla, sōlum - alone, sole, only
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābō | monēbō | regam | cupiam | audiam |
+| 2nd sg. | amābis | monēbis | regēs | cupiēs | audiēs |
+| 3rd sg. | **amābit** | **monēbit** | **reget** | **cupiet** | **audiet** |
+| 1st pl. | amābimus | monēbimus | regēmus | cupiēmus | audiēmus |
+| 2nd pl. | amābitis | monēbitis | regētis | cupiētis | audiētis |
+| 3rd pl. | **amābunt** | **monēbunt** | **regent** | **cupient** | **audient** |
 
-| Case and Number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| Nom. Sg. | sōl**us** | sōl**a** | sōl**um** |
-| Gen. Sg. | sōl**īus** | sōl**īus** | sōl**īus** |
-| Dat. Sg. | sōl**ī** | sōl**ī** | sōl**ī** |
-| Acc. Sg. | sōl**um** | sōl**am** | sōl**um** |
-| Abl. Sg. | sōl**ō** | sōl**ā** | sōl**ō** |
-| Nom. Pl. | sōl**ī** | sōl**ae** | sōl**a** |
-| Gen. Pl. | sōl**ōrum** | sōl**ārum** | sōl**ōrum** |
-| Dat. Pl. | sōl**īs** | sōl**īs** | sōl**īs** |
-| Acc. Pl. | sōl**ōs** | sōl**ās** | sōl**a** |
-| Abl. Pl. | sōl**īs** | sōl**īs** | sōl**īs** |
+### Future Tense - Passive Voice
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amābor | monēbor | regar | cupiar | audiar |
+| 2nd sg. | amāberis | monēberis | regēris | cupiēris | audiēris |
+| 3rd sg. | **amābitur** | **monēbitur** | **regētur** | **cupiētur** | **audiētur** |
+| 1st pl. | amābimur | monēbimur | regēmur | cupiēmur | audiēmur |
+| 2nd pl. | amābiminī | monēbiminī | regēminī | cupiēminī | audiēminī |
+| 3rd pl. | **amābuntur** | **monēbuntur** | **regentur** | **cupientur** | **audientur** |
+
+### sum, esse
+
+| | **Present** | **Imperfect** | **Future** | **Perfect** |
+| --- | --- | --- | --- | --- |
+| **1st Sg.** | sum | eram | erō | fuī |
+| **2nd Sg.** | es | erās | eris | fuistī |
+| **3rd Sg.** | est | erat | erit | fuit |
+| **1st Pl.** | sumus | erāmus | erimus | fuimus |
+| **2nd Pl.** | estis | erātis | eritis | fuistis |
+| **3rd Pl.** | sunt | erant | erunt | fuērunt / fuēre |
+
+### Infinitives
+
+| | **1st Conj.** | **2nd Conj.** | **3rd Conj.** | **3rd -iō Conj.** | **4th Conj.** |
+| --- | --- | --- | --- | --- | --- |
+| **present active** | amāre | movēre | regere | capere | audīre |
+| **present passive** | amārī | movērī | regī | capī | audīrī |
+| **perfect active** | amāvisse | mōvisse | rexisse | cēpisse | audīvisse / audiisse |
+| **perfect passive** | amātus esse | motus esse | rectus esse | captus esse | audītus esse |
+
+### Pluperfect Tense
+* Paradigm verb: amō, amāre, amāvī, amātus - to love
+
+|       | Pluperfect Active Indicative | Pluperfect Passive Indicative |
+| --- | --- | --- |
+| 1st sg.    | amāv**eram** | amātus, -a, -um eram |
+| 2nd sg.   | amāv**erām** | amātus, -a, -um erās |
+| 3rd sg.   | amāv**erat** | amātus, -a, -um erat |
+| 1st pl.   | amāv**erāmus** | amātī, -ae, -a erāmus |
+| 2nd pl.   | amāv**erātis*** | amātī, -ae, -a erātis |
+| 3rd pl.   | amāv**erant** | amātī, -ae, -a erant |
+
+### Future Perfect Tense
+* Paradigm verb: amō, amāre, amāvī, amātus - to love
+
+|       | Pluperfect Active Indicative | Pluperfect Passive Indicative |
+| --- | --- | --- |
+| 1st sg.    | amāv**erim** | amātus, -a, -um erō |
+| 2nd sg.   | amāv**erim** | amātus, -a, -um erīs |
+| 3rd sg.   | amāv**erit** | amātus, -a, -um erit |
+| 1st pl.   | amāv**erimus** | amātī, -ae, -a erīmus |
+| 2nd pl.   | amāv**eritis*** | amātī, -ae, -a erītis |
+| 3rd pl.   | amāv**erint** | amātī, -ae, -a erunt |
 
 ***
 
-### 3rd Declension
+## Nouns
 
-#### Three-Termination
-* Paradigm adjective: celer, celeris, celere - swift
+### 3rd Declension i-stems - Masculine/Feminine
+* Paradigm noun: ars, artis, f. - skill
 
-| | Masc. | Fem. | Neut. |
-| ----- | ----- | ----- | ----- |
-| Nom. Sg. | celer | celer**is** | celer**e** |
-| Gen. Sg. | celer**is** | celer**is** | celer**is** |
-| Dat. Sg. | celer**ī** | celer**ī** | celer**ī** |
-| Acc. Sg. | celer**em** | celer**em** | celer**e** |
-| Abl. Sg. | celer**ī** | celer**ī** | celer**ī** |
-| Nom. Pl. | celer**ēs** | celer**ēs** | celer**ia** |
-| Gen. Pl. | celer**ium** | celer**ium** | celer**ium** |
-| Dat. Pl. | celer**ibus** | celer**ibus** | celer**ibus** |
-| Acc. Pl. | celer**ēs** | celer**ēs** | celer**ia** |
-| Abl. Pl. | celer**ibus** | celer**ibus** | celer**ibus** |
+|  | **Singular** | **Plural** |
+| --- | --- | --- |
+| **Nom.** | ars | artēs |
+| **Gen.** | artis | **artium** |
+| **Dat.** | artī | artibus |
+| **Acc.** | artem | artēs |
+| **Abl.** | arte | artibus |
 
-#### Two-Termination
-* Paradigm adjective: fortis, forte - strong, brave
+### 3rd Declension i-stems - Neuter
+* Paradigm noun: mare, maris, n. - sea
 
-| | Masc./Fem. | Neut. |
-| ----- | ----- | ----- |
-| Nom. Sg. | fort**is** | fort**e** |
-| Gen. Sg. | fort**is** | fort**is** |
-| Dat. Sg. | fort**ī** | fort**ī** |
-| Acc. Sg. | fort**em** | fort**e** |
-| Abl. Sg. | fort**ī** | fort**ī** |
-| Nom. Pl. | fort**ēs** | fort**ia** |
-| Gen. Pl. | fort**ium** | fort**ium** |
-| Dat. Pl. | fort**ibus** | fort**ibus** |
-| Acc. Pl. | fort**ēs** | fort**ia** |
-| Abl. Pl. | fort**ibus** | fort**ibus** |
+|  | **Singular** | **Plural** |
+| --- | --- | --- |
+| **Nom.** | mare | **maria** |
+| **Gen.** | maris | **marium** |
+| **Dat.** | marī | maribus |
+| **Acc.** | mare | **maria** |
+| **Abl.** | **marī** | maribus |
 
-#### One-Termination
-* Paradigm adjective: fēlix, fēlicis - lucky, fortunate
+### 4th Declension Masculine/Feminine
+* Paradigm noun: manus, manūs, f. - hand; armed force (of soldiers)
 
-| | Masc./Fem. | Neut. |
-| ----- | ----- | ----- |
-| Nom. Sg. | fēlix | fēlix |
-| Gen. Sg. | fēlic**is** | fēlic**is** |
-| Dat. Sg. | fēlic**ī** | fēlic**ī** |
-| Acc. Sg. | fēlic**em** | fēlix |
-| Abl. Sg. | fēlic**ī** | fēlic**ī** |
-| Nom. Pl. | fēlic**ēs** | fēlic**ia** |
-| Gen. Pl. | fēlic**ium** | fēlic**ium** |
-| Dat. Pl. | fēlic**ibus** | fēlic**ibus** |
-| Acc. Pl. | fēlic**ēs** | fēlic**ia** |
-| Abl. Pl. | fēlic**ibus** | fēlic**ibus** |
+|  | **Singular** | **Plural** |
+| --- | --- | --- |
+| **Nom.** | man**us** | man**ūs** |
+| **Gen.** | man**ūs** | man**uum** |
+| **Dat.** | man**uī** | man**ibus** |
+| **Acc.** | man**um** | man**ūs** |
+| **Abl.** | man**ū** | man**ibus** |
+
+### domus
+* domus, domūs, f. - house, home [uses 4th and 2nd declension endings]
+
+| Case | Singular | Plural |
+| --- | --- | --- |
+| Nominative | dom**us** | dom**ūs** |
+| Genitive | dom**ūs** | dom**uum** / dom**ōrum** |
+| Dative | dom**uī** / dom**ō** | dom**ibus** |
+| Accusative | dom**um** | dom**ōs** / dom**ūs** |
+| Ablative | dom**ō** / dom**ū** | dom**ibus** |
+
+### 4th Declension Neuter
+* Paradigm noun: genū, genūs, n. - knee
+
+|  | **Singular** | **Plural** |
+| --- | --- | --- |
+| **Nom.** | gen**ū** | gen**ua** |
+| **Gen.** | gen**ūs** | gen**uum** |
+| **Dat.** | gen**ū** | gen**ibus** |
+| **Acc.** | gen**ū** | gen**ua** |
+| **Abl.** | gen**ū** | gen**ibus** |
+
+### 5th Declension
+* Paradigm noun: diēs, diēī, m. - day
+
+|  | **Singular** | **Plural** |
+| --- | --- | --- |
+| **Nom.** | di**ēs** | di**ēs** |
+| **Gen.** | di**ēī** | di**ērum** |
+| **Dat.** | di**ēī** | di**ēbus** |
+| **Acc.** | di**em** | di**ēs** |
+| **Abl.** | di**ē** | di**ēbus** |
+
+***
+
+## Syntax
+
+### Tense in Indirect Statement
+
+| Tense of Infinitive | Relationship to Main Verb |
+| --- | --- |
+| present | same time |
+| perfect | completed before |
+
+***
+
+## Pronouns
+
+### Relative Pronoun
+
+|  | **Masculine** | **Feminine** | **Neuter** |
+| --- | --- | --- | -- |
+| **Nom. Sg.** | quī | quae | quod |
+| **Gen. Sg.** | cuius | cuius | cuius |
+| **Dat. Sg.** | cui | cui | cui |
+| **Acc. Sg.** | quem | quam | quod |
+| **Abl. Sg.** | quō | quā | quō |
+| **Nom. Pl.** | quī | quae | quae |
+| **Gen. Pl.** | quōrum | quārum | quōrum |
+| **Dat. Pl.** | quibus | quibus | quibus |
+| **Acc. Pl.** | quōs | quās | quae |
+| **Abl. Pl.** | quibus | quibus | quibus |

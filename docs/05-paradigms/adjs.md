@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Adjectives
 permalink: /paradigms/adjectives
 nav_order: 2
@@ -118,57 +118,3 @@ parent: Paradigms
 | Dat. Pl. | fēlic**ibus** | fēlic**ibus** |
 | Acc. Pl. | fēlic**ēs** | fēlic**ia** |
 | Abl. Pl. | fēlic**ibus** | fēlic**ibus** |
-
-***
-
-## Comparatives
-* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
-
-| | Masc./Fem. | Neut. |
-| ----- | ----- | ----- |
-| Nom. Sg. | pulchr**ior** | pulchr**īus** |
-| Gen. Sg. | pulchr**iōris** | pulchr**iōris** |
-| Dat. Sg. | pulchr**iōrī** | pulchr**iōrī** |
-| Acc. Sg. | pulchr**iōrem** | pulchr**īus** |
-| Abl. Sg. | pulchr**iōre** | pulchr**iōre** |
-| Nom. Pl. | pulchr**iōrēs** | pulchr**iōra** |
-| Gen. Pl. | pulchr**iōrum** | pulchr**iōrum** |
-| Dat. Pl. | pulchr**iōribus** | pulchr**iōribus** |
-| Acc. Pl. | pulchr**iōrēs** | pulchr**iōra** |
-| Abl. Pl. | pulchr**iōribus** | pulchr**iōribus** |
-
-***
-
-## Superlatives (positive masc. nom. stem in -r or -l)
-* Paradigm adjective: pulcher, pulchra, pulchrum - pretty, handsome, beautiful
-
-| Case and Number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| Nom. Sg. | pulcher**rimus** | pulcher**rima** | pulcher**rimum** |
-| Gen. Sg. | pulcher**rimī** | pulcher**rimae** | pulcher**rimī** |
-| Dat. Sg. | pulcher**rimō** | pulcher**rimae** | pulcher**rimō** |
-| Acc. Sg. | pulcher**rimum** | pulcher**rimam** | pulcher**rimum** |
-| Abl. Sg. | pulcher**rimō** | pulcher**rimā** | pulcher**rimō** |
-| Nom. Pl. | pulcher**rimī** | pulcher**rimae** | pulcher**rima** |
-| Gen. Pl. | pulcher**rimōrum** | pulcher**rimārum** | pulcher**rimōrum** |
-| Dat. Pl. | pulcher**rimīs** | pulcher**rimīs** | pulcher**rimīs** |
-| Acc. Pl. | pulcher**rimōs** | pulcher**rimās** | pulcher**rima** |
-| Abl. Pl. | pulcher**rimīs** | pulcher**rimīs** | pulcher**rimīs** |
-
-***
-
-## Superlatives (regular)
-* Paradigm adjective: sapiens, sapientis - wise
-
-| Case and Number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| Nom. Sg. | sapient**issimus** | sapient**issima** | sapient**issimum** |
-| Gen. Sg. | sapient**issimī** | sapient**issimae** | sapient**issimī** |
-| Dat. Sg. | sapient**issimō** | sapient**issimae** | sapient**issimō** |
-| Acc. Sg. | sapient**issimum** | sapient**issimam** | sapient**issimum** |
-| Abl. Sg. | sapient**issimō** | sapient**issimā** | sapient**issimō** |
-| Nom. Pl. | sapient**issimī** | sapient**issimae** | sapient**issima** |
-| Gen. Pl. | sapient**issimōrum** | sapient**issimārum** | sapient**issimōrum** |
-| Dat. Pl. | sapient**issimīs** | sapient**issimīs** | sapient**issimīs** |
-| Acc. Pl. | sapient**issimōs** | sapient**issimās** | sapient**issima** |
-| Abl. Pl. | sapient**issimīs** | sapient**issimīs** | sapient**issimīs** |
