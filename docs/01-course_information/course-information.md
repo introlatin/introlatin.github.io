@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Course Information
+layout: default
+title: Course Info
 permalink: /course_info/course-info
 nav_order: 0
 parent: Course Information
@@ -8,19 +8,19 @@ parent: Course Information
 
 # Course Information
 
-**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1YvH7cW6pqdovToqXV6y-GljWOTeEAo5QDiooJZAunZI/edit?usp=sharing).
+**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/1Dq37ACX_Ivur3LrAfNhEMq1Na5elrq5lso_zNrNGE1g/edit?usp=sharing).
 
 ***
 
-## Course Details (Spring 2024)
+## Course Details (Fall 2026)
 
-* **Meeting time and place**: MR 11-11:50am, W 10-10:50am - Canisius 10 (ground floor)  
+* **Meeting time and place**: MR 9:30-10:45am - Donnarumma 131  
 * **Instructor**: Prof. Daniel Libatique (he/him/his)  
 * **Office**: Donnarumma 124  
-* **Student Hours**: Wednesdays 11am-12:45pm (drop in)  
+* **Student Hours**: TBD
 * **E-mail**: dlibatique [at] fairfield [dot] edu  
 * **Website**: [Click here](https://libatique.info).  
-* **Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1YvH7cW6pqdovToqXV6y-GljWOTeEAo5QDiooJZAunZI/edit?usp=sharing).
+* **Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/1Dq37ACX_Ivur3LrAfNhEMq1Na5elrq5lso_zNrNGE1g/edit?usp=sharing).
 
 ***
 
@@ -50,5 +50,4 @@ As **outcomes of your learning**, you will:
 * compose short narratives in grammatically-sound Latin based on real ancient myths
 * complete daily homework assignments to practice concepts and increase familiarity with vocabulary, paradigms, and sentence structures
 * achieve high grades on daily check-ins, weekly quizzes, and tri-semesterly exams by demonstrating your understanding of Latin morphology and syntax and applying grammatical rules
-* generate 1-2pp. written responses to articles, videos, events, and physical media like ancient coins that explore Latin grammar and Roman culture in outside-of-the-box ways
 

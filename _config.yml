@@ -1,12 +1,12 @@
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+theme: just-the-docs
 title: LATN 1111
+
+url: https://introlatin.github.io
 
 footer_content: "All material developed by Daniel Libatique, Dominic Machado, and Neel Smith, and available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
 
 aux_links:
   "Blackboard":
     - "https://fairfield.blackboard.com"
-  "PDF of Textbook":
-    - "#"
-  "Basic Latin Github":
+  "Intro Latin Github":
     - "https://github.com/introlatin/introlatin.github.io"

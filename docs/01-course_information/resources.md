@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Resources
 permalink: /course_info/resources
 nav_order: 3
@@ -28,7 +28,7 @@ parent: Course Information
 
 ## Academic and Student Support Resources
 
-* [Office of Accessibility](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/accessibility/)
-* [Office of Academic Support and Retention](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html)
-* [Writing Center](https://www.fairfield.edu/undergraduate/academics/resources/academic-commons/index.html)
-* [Sexual Misconduct Policy](https://www.fairfield.edu/undergraduate/student-life-and-services/office-of-the-dean-of-students/student-handbook/sexual-misconduct-policy/index.html)
+* [Office of Accessibility](https://www.fairfield.edu/about/offices-and-departments/accessibility/)
+* [Office of Academic Support and Retention](https://www.fairfield.edu/academics/academic-support/)
+* [Writing Center](https://www.fairfield.edu/academics/academic-support/writing-math-and-science-centers/)
+* [Sexual Misconduct Policy](https://www.fairfield.edu/about/offices-and-departments/dean-of-students/student-handbook/sex-based-harassment-discrimination-and-retaliation-policy/index.html)

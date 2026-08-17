@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Schedule and Slideshows
 permalink: /schedule-and-slideshows
 nav_order: 2
@@ -17,4 +17,4 @@ has_children: true
 
 ***
 
-This tab contains the daily schedule and a link to the course slideshows for LATN 1111 (Fall 2024). Individual slideshow links can be found under the appropriate date in the [schedule](schedule).
+This tab contains the daily schedule and a link to the course slideshows for LATN 1111 (Fall 2026). Individual slideshow links can be found under the appropriate date in the [schedule](schedule).
