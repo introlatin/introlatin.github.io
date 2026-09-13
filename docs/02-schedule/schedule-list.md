@@ -28,6 +28,7 @@ Syllabus Day
 #### Resources and Readings
 {: .no_toc }
 * [Syllabus](https://docs.google.com/document/d/1Dq37ACX_Ivur3LrAfNhEMq1Na5elrq5lso_zNrNGE1g/edit?usp=sharing)
+* [Slideshow - 9/10/26](https://drive.google.com/file/d/1njVc_b9A3RWwwkuETvpzr1Lkq2oEFhhe/view?usp=drive_link)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -47,7 +48,7 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 9/14/26](https://drive.google.com/file/d/1d0ZjnX0NRzsQ15hWHgqJb7ETPklUrP47/view?usp=drive_link)
 * [Alphabet and Pronunciation](../textbook/basics/alphabet-and-pronunciation)
 * [Inflection](../textbook/basics/inflection)
 
