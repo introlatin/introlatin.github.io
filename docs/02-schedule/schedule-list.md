@@ -33,7 +33,7 @@ Syllabus Day
 #### HW due by start of next class
 {: .no_toc }
 * Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/1Dq37ACX_Ivur3LrAfNhEMq1Na5elrq5lso_zNrNGE1g/edit?usp=sharing) version).
-* Complete the [Student Information Form](#) (link TBD).
+* Complete the [Student Information Form](https://forms.gle/r8bzJCS5RHP9eQcf8).
 * (OPTIONAL) Complete Practice Homework 1 (distributed in class on R 9/10).
 
 ***
@@ -54,7 +54,7 @@ Grammar Basics and Inflection (Conjugation and Declension)
 
 #### HW due by start of next class
 {: .no_toc }
-* Complete the [Student Information Form](#) (link TBD) if you haven't yet.
+* Complete the [Student Information Form](https://forms.gle/r8bzJCS5RHP9eQcf8) if you haven't yet.
 * Homework 1 (distributed in class)
 
 ***
