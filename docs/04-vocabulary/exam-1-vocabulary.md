@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 2 Vocabulary
+title: Exam 1 Vocabulary
 permalink: /vocabulary/exam-1-vocabulary
 nav_order: 1
 parent: Vocabulary
