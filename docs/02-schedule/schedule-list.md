@@ -66,7 +66,7 @@ Verb Overview
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 9/17/26](https://drive.google.com/file/d/14-2V4Y-8GF57LxncODK3YPI-xOYnVsGc/view?usp=sharing)
 * [Verbs Overview](../textbook/exam-1/verbs-overview)
 
 #### HW due by start of next class
