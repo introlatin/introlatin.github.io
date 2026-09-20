@@ -87,7 +87,7 @@ Perfect Active
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 9/21/26](https://drive.google.com/file/d/1W39I8FT3xdCmlyXFsHdL7x_lLyF773Zp/view?usp=sharing)
 * [Perfect Active](../textbook/exam-1/perfect-active)
 
 #### HW due by start of next class
@@ -103,7 +103,7 @@ Noun Overview
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 9/24/26](https://drive.google.com/file/d/1o4zfqpQsXNrcH8uUUn2CI3juklS_644x/view?usp=sharing)
 * [Noun Overview](../textbook/exam-1/nouns-overview)
 
 #### HW due by start of next class
