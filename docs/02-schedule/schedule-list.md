@@ -124,7 +124,8 @@ Noun Endings
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 9/28/26](https://drive.google.com/file/d/1s7adRsCAMzPBvSrxPpUINyIUOPAc_4r0/view?usp=drive_link)
+* Zoom recording (link TBD)
 * [Noun Endings](../textbook/exam-1/noun-endings)
 
 #### HW due by start of next class
