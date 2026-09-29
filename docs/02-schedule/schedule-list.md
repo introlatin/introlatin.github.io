@@ -125,7 +125,7 @@ Noun Endings
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - 9/28/26](https://drive.google.com/file/d/1s7adRsCAMzPBvSrxPpUINyIUOPAc_4r0/view?usp=drive_link)
-* Zoom recording (link TBD)
+* [Zoom recording for M 9/28/26](https://fairfield.zoom.us/rec/share/IHQQ7gVry5e5lZGn8eoOuy5dWfsCM4dyxfL2ISamGXhjhrZ54aM5LN6pIj5j-6Gl.feE3rPe66lJosMst)
 * [Noun Endings](../textbook/exam-1/noun-endings)
 
 #### HW due by start of next class
@@ -141,7 +141,7 @@ Nominative and Genitive
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 10/1/26](https://drive.google.com/file/d/1MbJsI_cMv6parF19iuFg906bthC_z0Xv/view?usp=drive_link)
 * [Cases and Uses](../textbook/exam-1/cases-and-uses)
 
 #### HW due by start of next class
