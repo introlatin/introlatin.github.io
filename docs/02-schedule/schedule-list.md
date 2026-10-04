@@ -162,7 +162,7 @@ Accusative and Dative
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 10/5/26](https://drive.google.com/file/d/1uoKjyM_TBzhfpHR88XjVK3ca6KTmT8TW/view?usp=drive_link)
 * [Cases and Uses](../textbook/exam-1/cases-and-uses)
 
 #### HW due by start of next class
