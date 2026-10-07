@@ -178,7 +178,7 @@ Ablative and Prepositions
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 10/8/26](https://drive.google.com/file/d/1CvbULGgFPrfWfVxwmaO_LoAwrL9y-Jmw/view?usp=drive_link)
 * [Cases and Uses](../textbook/exam-1/cases-and-uses)
 * [Prepositions and Expressions of Space and Time](../textbook/exam-1/prepositions-and-expressions-of-space-and-time)
 
