@@ -205,7 +205,7 @@ Catch-up / Review
 
 #### Resources and Readings
 {: .no_toc }
-* TBD
+* n/a
 
 #### HW due by start of next class
 {: .no_toc }
@@ -223,7 +223,7 @@ Catch-up / Review
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 10/19/26](https://drive.google.com/file/d/14CO4tpUt7Phtwn2nCQZZDIfOpuYHkx98/view?usp=sharing)
 * [2-1-2 Adjectives and Adjective-Noun Agreement](../textbook/exam-2/2-1-2-adjectives)
 
 #### HW due by start of next class
