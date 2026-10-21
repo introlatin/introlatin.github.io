@@ -239,7 +239,7 @@ Catch-up / Review
 
 #### Resources and Readings
 {: .no_toc }
-* slideshow TBD
+* [Slideshow - 10/22/26](https://docs.google.com/presentation/d/1tJPTeQaf8y45bPpvl-_P_Y7wR3EsZo4NFzkDdLD8DtE/edit?usp=drive_link)
 * [3rd Declension Adjectives; Substantives](../textbook/exam-2/3rd-declension-adjectives)
 
 #### HW due by start of next class
